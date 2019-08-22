@@ -1,0 +1,9040 @@
+{
+  "mapping": [
+    {
+      "originalName": "toSFSArray",
+      "newName": ";T"
+    },
+    {
+      "originalName": "setW",
+      "newName": "5G"
+    },
+    {
+      "originalName": "cca",
+      "newName": "\u003dR"
+    },
+    {
+      "originalName": "dAddOffset",
+      "newName": "\u003e%"
+    },
+    {
+      "originalName": "BB_DEFAULT_PORT",
+      "newName": "2?"
+    },
+    {
+      "originalName": "isGuest",
+      "newName": "79"
+    },
+    {
+      "originalName": "Memory",
+      "newName": ";5"
+    },
+    {
+      "originalName": "USER_ID",
+      "newName": "6S"
+    },
+    {
+      "originalName": "_allowUserExit",
+      "newName": "1A"
+    },
+    {
+      "originalName": "btnIncomingRequestsClick",
+      "newName": "3k"
+    },
+    {
+      "originalName": "_className",
+      "newName": "?I"
+    },
+    {
+      "originalName": "getDoubleArray",
+      "newName": "2F"
+    },
+    {
+      "originalName": "_inited",
+      "newName": "@+"
+    },
+    {
+      "originalName": "setH",
+      "newName": "\u003dl"
+    },
+    {
+      "originalName": "page_backgrounds",
+      "newName": "9,"
+    },
+    {
+      "originalName": "setD",
+      "newName": "4j"
+    },
+    {
+      "originalName": "allowOwnerOnlyInvitation",
+      "newName": "\"5"
+    },
+    {
+      "originalName": "OnPM",
+      "newName": "7B"
+    },
+    {
+      "originalName": "parentClass",
+      "newName": "\u003c;"
+    },
+    {
+      "originalName": "addMetaData",
+      "newName": " #"
+    },
+    {
+      "originalName": "executeObjectMessage",
+      "newName": "@X"
+    },
+    {
+      "originalName": "defaultEase",
+      "newName": "@-"
+    },
+    {
+      "originalName": "prepareGame",
+      "newName": ";N"
+    },
+    {
+      "originalName": "MapScreen",
+      "newName": "-h"
+    },
+    {
+      "originalName": "toRadix",
+      "newName": "\u003c0"
+    },
+    {
+      "originalName": "invShiftRows",
+      "newName": "-2"
+    },
+    {
+      "originalName": "KEY_FILTERED_USERS",
+      "newName": "\""
+    },
+    {
+      "originalName": "threadRunner",
+      "newName": "\u003d`"
+    },
+    {
+      "originalName": "size",
+      "newName": "6+"
+    },
+    {
+      "originalName": "sender",
+      "newName": "34"
+    },
+    {
+      "originalName": "onConfigLoadFailure",
+      "newName": "7]"
+    },
+    {
+      "originalName": "com.greensock.core",
+      "newName": "+F"
+    },
+    {
+      "originalName": "toHex",
+      "newName": "1B"
+    },
+    {
+      "originalName": "_swapSelfInParams",
+      "newName": "8\u0026"
+    },
+    {
+      "originalName": "SLLIterator",
+      "newName": "5\u003c"
+    },
+    {
+      "originalName": "UDP_PACKET_ID",
+      "newName": "!^"
+    },
+    {
+      "originalName": "SEP",
+      "newName": "12"
+    },
+    {
+      "originalName": "remap",
+      "newName": "]$"
+    },
+    {
+      "originalName": "toKeySet",
+      "newName": ",B"
+    },
+    {
+      "originalName": "extensionName",
+      "newName": "^]"
+    },
+    {
+      "originalName": "btnApproveFriendClick",
+      "newName": "14"
+    },
+    {
+      "originalName": "getUserById",
+      "newName": "1U"
+    },
+    {
+      "originalName": "D",
+      "newName": "5"
+    },
+    {
+      "originalName": "BytesTo32bits",
+      "newName": "+["
+    },
+    {
+      "originalName": "escapeString",
+      "newName": "2l"
+    },
+    {
+      "originalName": "SHABase",
+      "newName": "7a"
+    },
+    {
+      "originalName": "KEY_EXPRESSION",
+      "newName": "`i"
+    },
+    {
+      "originalName": "btnFriendsClick",
+      "newName": "?g"
+    },
+    {
+      "originalName": "M",
+      "newName": "]k"
+    },
+    {
+      "originalName": "P",
+      "newName": "%3"
+    },
+    {
+      "originalName": "result",
+      "newName": "9b"
+    },
+    {
+      "originalName": "sfsArray",
+      "newName": "\u003d]"
+    },
+    {
+      "originalName": "R",
+      "newName": "4["
+    },
+    {
+      "originalName": "reconnect",
+      "newName": "08"
+    },
+    {
+      "originalName": "T",
+      "newName": "^H"
+    },
+    {
+      "originalName": "AlWin",
+      "newName": ";_"
+    },
+    {
+      "originalName": "_logicOp",
+      "newName": "%k"
+    },
+    {
+      "originalName": "W",
+      "newName": ",_"
+    },
+    {
+      "originalName": "dumpRefCount",
+      "newName": ";b"
+    },
+    {
+      "originalName": "_duration",
+      "newName": ",;"
+    },
+    {
+      "originalName": "xor",
+      "newName": "\u0027X"
+    },
+    {
+      "originalName": "WhoS",
+      "newName": "66"
+    },
+    {
+      "originalName": "createView",
+      "newName": "7J"
+    },
+    {
+      "originalName": "resume",
+      "newName": "1E"
+    },
+    {
+      "originalName": "BUDDY_ERROR",
+      "newName": "!K"
+    },
+    {
+      "originalName": "d",
+      "newName": "\u0026;"
+    },
+    {
+      "originalName": "e",
+      "newName": "2L"
+    },
+    {
+      "originalName": "DLLIterator",
+      "newName": "5d"
+    },
+    {
+      "originalName": "h",
+      "newName": "\u0026b"
+    },
+    {
+      "originalName": "requestHandlers",
+      "newName": "5?"
+    },
+    {
+      "originalName": "i",
+      "newName": "2j"
+    },
+    {
+      "originalName": "j",
+      "newName": "^o"
+    },
+    {
+      "originalName": "_expectedLen",
+      "newName": "3_"
+    },
+    {
+      "originalName": "k",
+      "newName": "@2"
+    },
+    {
+      "originalName": "_details",
+      "newName": "!V"
+    },
+    {
+      "originalName": "encodeObject",
+      "newName": "5Q"
+    },
+    {
+      "originalName": "SFSDataType",
+      "newName": "4H"
+    },
+    {
+      "originalName": "m",
+      "newName": "\u0026F"
+    },
+    {
+      "originalName": "o",
+      "newName": "\u003dM"
+    },
+    {
+      "originalName": "LinkedStackNode",
+      "newName": "#2"
+    },
+    {
+      "originalName": "q",
+      "newName": "\u003eV"
+    },
+    {
+      "originalName": "r",
+      "newName": "\"7"
+    },
+    {
+      "originalName": "Cover",
+      "newName": "4X"
+    },
+    {
+      "originalName": "s",
+      "newName": "\u003e8"
+    },
+    {
+      "originalName": "_tweenLookup",
+      "newName": "1f"
+    },
+    {
+      "originalName": "getFromObject",
+      "newName": "+b"
+    },
+    {
+      "originalName": "t",
+      "newName": "[c"
+    },
+    {
+      "originalName": "SPECTATOR_TO_PLAYER_ERROR",
+      "newName": "9h"
+    },
+    {
+      "originalName": "v",
+      "newName": "^E"
+    },
+    {
+      "originalName": "y",
+      "newName": " f"
+    },
+    {
+      "originalName": "putBool",
+      "newName": "-4"
+    },
+    {
+      "originalName": "z",
+      "newName": "@^"
+    },
+    {
+      "originalName": "changeRoomPasswordState",
+      "newName": "9%"
+    },
+    {
+      "originalName": "sendRequest",
+      "newName": ";!"
+    },
+    {
+      "originalName": "byteValue",
+      "newName": "-A"
+    },
+    {
+      "originalName": "__a",
+      "newName": "3G"
+    },
+    {
+      "originalName": "setBalanceDonate",
+      "newName": "1%"
+    },
+    {
+      "originalName": "getOfflineVariables",
+      "newName": "#X"
+    },
+    {
+      "originalName": "squareTo",
+      "newName": ";9"
+    },
+    {
+      "originalName": "onSocketIOError",
+      "newName": "0E"
+    },
+    {
+      "originalName": "Itr",
+      "newName": "^L"
+    },
+    {
+      "originalName": "insertAt",
+      "newName": "9A"
+    },
+    {
+      "originalName": "_isBlocked",
+      "newName": "?]"
+    },
+    {
+      "originalName": "getUnsignedByteArray",
+      "newName": " S"
+    },
+    {
+      "originalName": "_addTween",
+      "newName": "!%"
+    },
+    {
+      "originalName": "insertBefore",
+      "newName": "4,"
+    },
+    {
+      "originalName": "CRYPTO_INIT",
+      "newName": ",k"
+    },
+    {
+      "originalName": "compute",
+      "newName": "`R"
+    },
+    {
+      "originalName": "pad",
+      "newName": "8Z"
+    },
+    {
+      "originalName": "createEmpty",
+      "newName": "5f"
+    },
+    {
+      "originalName": "Dialog",
+      "newName": "\"C"
+    },
+    {
+      "originalName": "setFurniture",
+      "newName": "9\""
+    },
+    {
+      "originalName": "KEY_INVITEE_ID",
+      "newName": "[W"
+    },
+    {
+      "originalName": "_overwriteLookup",
+      "newName": "`O"
+    },
+    {
+      "originalName": "clearBit",
+      "newName": "\u0027O"
+    },
+    {
+      "originalName": "KEY_ROOM",
+      "newName": " j"
+    },
+    {
+      "originalName": "forceBlueBox",
+      "newName": "0^"
+    },
+    {
+      "originalName": "_hexLUT",
+      "newName": "5i"
+    },
+    {
+      "originalName": "getMMOItems",
+      "newName": "\u0026\""
+    },
+    {
+      "originalName": "getLoader",
+      "newName": "62"
+    },
+    {
+      "originalName": "chm",
+      "newName": "#U"
+    },
+    {
+      "originalName": "chp",
+      "newName": "\u0026g"
+    },
+    {
+      "originalName": "lplim",
+      "newName": "#m"
+    },
+    {
+      "originalName": "HTTP",
+      "newName": "1?"
+    },
+    {
+      "originalName": "addMask",
+      "newName": "+,"
+    },
+    {
+      "originalName": "list",
+      "newName": "#B"
+    },
+    {
+      "originalName": "initWear",
+      "newName": "16"
+    },
+    {
+      "originalName": "onSecurityError",
+      "newName": "5Y"
+    },
+    {
+      "originalName": "_isConnecting",
+      "newName": "4e"
+    },
+    {
+      "originalName": "eval",
+      "newName": "\u003e,"
+    },
+    {
+      "originalName": "TO_USER",
+      "newName": "\u003dT"
+    },
+    {
+      "originalName": "_allowNameChange",
+      "newName": "%N"
+    },
+    {
+      "originalName": "isAirRuntime",
+      "newName": "]4"
+    },
+    {
+      "originalName": "_specCount",
+      "newName": "@K"
+    },
+    {
+      "originalName": "_active",
+      "newName": "9\u003d"
+    },
+    {
+      "originalName": "getBoolValue",
+      "newName": "\u003cI"
+    },
+    {
+      "originalName": "Icon",
+      "newName": "^_"
+    },
+    {
+      "originalName": "LinkedQueueIterator",
+      "newName": "[8"
+    },
+    {
+      "originalName": "de.polygonal.core.util",
+      "newName": "%J"
+    },
+    {
+      "originalName": "_accessors",
+      "newName": "3A"
+    },
+    {
+      "originalName": "_params",
+      "newName": "0J"
+    },
+    {
+      "originalName": "TweenPlugin",
+      "newName": "\u003d?"
+    },
+    {
+      "originalName": "btnVolumeClick",
+      "newName": "\u0026+"
+    },
+    {
+      "originalName": "KEY_RECONNECTION_TOKEN",
+      "newName": "]_"
+    },
+    {
+      "originalName": "_scanGenericObject",
+      "newName": "%I"
+    },
+    {
+      "originalName": "_defaultAOI",
+      "newName": "2V"
+    },
+    {
+      "originalName": "_overwrittenProps",
+      "newName": "#g"
+    },
+    {
+      "originalName": "KEY_ROOM_ID",
+      "newName": "19"
+    },
+    {
+      "originalName": "_config",
+      "newName": "+Y"
+    },
+    {
+      "originalName": "Over",
+      "newName": "04"
+    },
+    {
+      "originalName": "ListSet",
+      "newName": " 8"
+    },
+    {
+      "originalName": "CONTROLLER_ID",
+      "newName": "5\u003e"
+    },
+    {
+      "originalName": "RoomExtension",
+      "newName": "%"
+    },
+    {
+      "originalName": "checkFurniture",
+      "newName": "!E"
+    },
+    {
+      "originalName": "_format",
+      "newName": "%M"
+    },
+    {
+      "originalName": "_overwrite",
+      "newName": "`?"
+    },
+    {
+      "originalName": "multiply",
+      "newName": ";m"
+    },
+    {
+      "originalName": "ticker",
+      "newName": "8h"
+    },
+    {
+      "originalName": "chunkSize",
+      "newName": "\u0027I"
+    },
+    {
+      "originalName": "itemClick",
+      "newName": "`l"
+    },
+    {
+      "originalName": "httpReq",
+      "newName": "-@"
+    },
+    {
+      "originalName": "KEY_ZONE_NAME",
+      "newName": "\u003e1"
+    },
+    {
+      "originalName": "com.adobe.utils",
+      "newName": "?R"
+    },
+    {
+      "originalName": "room",
+      "newName": "8F"
+    },
+    {
+      "originalName": "KEY_MAXUSERS",
+      "newName": "@?"
+    },
+    {
+      "originalName": "containsRoomInGroup",
+      "newName": "@6"
+    },
+    {
+      "originalName": "RIGHT_BRACKET",
+      "newName": "9#"
+    },
+    {
+      "originalName": "_rootTimeline",
+      "newName": "\u0027,"
+    },
+    {
+      "originalName": "tween",
+      "newName": "!R"
+    },
+    {
+      "originalName": "btnHouseEditClick",
+      "newName": ",D"
+    },
+    {
+      "originalName": "handleAdminMessage",
+      "newName": "^3"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.entities.managers",
+      "newName": "3n"
+    },
+    {
+      "originalName": "volumePanelSliderAreaMouseDown",
+      "newName": "\u003cC"
+    },
+    {
+      "originalName": "btnPrevClick",
+      "newName": "?-"
+    },
+    {
+      "originalName": "PACKAGE_CLASS_SEPARATOR",
+      "newName": "[Y"
+    },
+    {
+      "originalName": "getSuperClass",
+      "newName": ";l"
+    },
+    {
+      "originalName": "XtimeD",
+      "newName": "0n"
+    },
+    {
+      "originalName": "btnSaveClick",
+      "newName": "!\u0027"
+    },
+    {
+      "originalName": "XtimeB",
+      "newName": ",o"
+    },
+    {
+      "originalName": "_scanSFSObject",
+      "newName": "\u0026N"
+    },
+    {
+      "originalName": "setMyState",
+      "newName": ";g"
+    },
+    {
+      "originalName": "pollSpeed",
+      "newName": "69"
+    },
+    {
+      "originalName": "MMORoom",
+      "newName": "8V"
+    },
+    {
+      "originalName": "SLL",
+      "newName": "!6"
+    },
+    {
+      "originalName": "tmp",
+      "newName": "\"a"
+    },
+    {
+      "originalName": "GenericMessageRequest",
+      "newName": "8a"
+    },
+    {
+      "originalName": "toArray",
+      "newName": "\"D"
+    },
+    {
+      "originalName": "com.adobe.serialization.json",
+      "newName": " p"
+    },
+    {
+      "originalName": "maxMessageSize",
+      "newName": "?X"
+    },
+    {
+      "originalName": "_dirty",
+      "newName": "\u003dn"
+    },
+    {
+      "originalName": "furniturePanelBtnSaveClick",
+      "newName": "]S"
+    },
+    {
+      "originalName": "allowUserVariablesUpdate",
+      "newName": ";M"
+    },
+    {
+      "originalName": "onBuddyListUpdate",
+      "newName": "8@"
+    },
+    {
+      "originalName": "sfsLoginError",
+      "newName": "@p"
+    },
+    {
+      "originalName": "Calendars",
+      "newName": ";\""
+    },
+    {
+      "originalName": "DefaultUDPManager",
+      "newName": "\u00260"
+    },
+    {
+      "originalName": "clr",
+      "newName": "0"
+    },
+    {
+      "originalName": "SFSUserVariable",
+      "newName": "9@"
+    },
+    {
+      "originalName": "getArgument",
+      "newName": "\u003d1"
+    },
+    {
+      "originalName": "lowerLimit",
+      "newName": "\"f"
+    },
+    {
+      "originalName": "binEncode_DOUBLE_ARRAY",
+      "newName": " I"
+    },
+    {
+      "originalName": "getPrev",
+      "newName": "8\u0027"
+    },
+    {
+      "originalName": "NEW_LINE",
+      "newName": "\u0026%"
+    },
+    {
+      "originalName": "KEY_INVITED_USERS",
+      "newName": "^0"
+    },
+    {
+      "originalName": "RemoveBuddyRequest",
+      "newName": "\u003d+"
+    },
+    {
+      "originalName": "fullPacketDump",
+      "newName": "@C"
+    },
+    {
+      "originalName": "_onTweenEvent",
+      "newName": "1i"
+    },
+    {
+      "originalName": "binary",
+      "newName": "1"
+    },
+    {
+      "originalName": "rebuildDict",
+      "newName": "`N"
+    },
+    {
+      "originalName": "lblPrice",
+      "newName": "4\u0026"
+    },
+    {
+      "originalName": "addLong",
+      "newName": "\"-"
+    },
+    {
+      "originalName": "playersVisible",
+      "newName": "#J"
+    },
+    {
+      "originalName": "cmd",
+      "newName": "\u0027\u0027"
+    },
+    {
+      "originalName": "hash",
+      "newName": "+q"
+    },
+    {
+      "originalName": "getUtfStringArray",
+      "newName": "\u00270"
+    },
+    {
+      "originalName": "addRequestHandler",
+      "newName": "7M"
+    },
+    {
+      "originalName": "_interval",
+      "newName": "0@"
+    },
+    {
+      "originalName": "restartGame",
+      "newName": "\"q"
+    },
+    {
+      "originalName": "getSuperClassName",
+      "newName": "\u003ec"
+    },
+    {
+      "originalName": "cmn",
+      "newName": "\";"
+    },
+    {
+      "originalName": "VisiblePlugin",
+      "newName": ",R"
+    },
+    {
+      "originalName": "PopupYesNo",
+      "newName": "\u003e9"
+    },
+    {
+      "originalName": "mapLimits",
+      "newName": "\"_"
+    },
+    {
+      "originalName": "top",
+      "newName": "6N"
+    },
+    {
+      "originalName": "mm.interfaces",
+      "newName": ","
+    },
+    {
+      "originalName": "itemMouseOver",
+      "newName": "3%"
+    },
+    {
+      "originalName": "BlowFishKey",
+      "newName": "\u003d\u003e"
+    },
+    {
+      "originalName": "CMD_POLL",
+      "newName": "\u003eo"
+    },
+    {
+      "originalName": "JoinRoomRequest",
+      "newName": "#4"
+    },
+    {
+      "originalName": "_groups",
+      "newName": ";`"
+    },
+    {
+      "originalName": "PKCS5",
+      "newName": "9+"
+    },
+    {
+      "originalName": "ShopScreen",
+      "newName": ";d"
+    },
+    {
+      "originalName": "_isDynamic",
+      "newName": "1d"
+    },
+    {
+      "originalName": "btnCancelFriendClick",
+      "newName": "3?"
+    },
+    {
+      "originalName": "SOCKET",
+      "newName": "\u003d["
+    },
+    {
+      "originalName": "KEY_PARAMS",
+      "newName": "8?"
+    },
+    {
+      "originalName": "sfs2as",
+      "newName": "!9"
+    },
+    {
+      "originalName": "ONLINE",
+      "newName": "3c"
+    },
+    {
+      "originalName": "peek",
+      "newName": "]\""
+    },
+    {
+      "originalName": "containsGroup",
+      "newName": "61"
+    },
+    {
+      "originalName": "ROOM_VARIABLES_UPDATE",
+      "newName": "8,"
+    },
+    {
+      "originalName": "_roundProps",
+      "newName": "#b"
+    },
+    {
+      "originalName": "Animation",
+      "newName": "\u0027E"
+    },
+    {
+      "originalName": "ROOM_REMOVE",
+      "newName": "6"
+    },
+    {
+      "originalName": "sfsRoomJoin",
+      "newName": "-C"
+    },
+    {
+      "originalName": "convertAsObj",
+      "newName": "%f"
+    },
+    {
+      "originalName": "XtimeE",
+      "newName": "-q"
+    },
+    {
+      "originalName": "Buddy",
+      "newName": "`a"
+    },
+    {
+      "originalName": "ClientDisconnectionReason",
+      "newName": "6\u003e"
+    },
+    {
+      "originalName": "_loggingLevel",
+      "newName": "@i"
+    },
+    {
+      "originalName": "addFurniture",
+      "newName": "1T"
+    },
+    {
+      "originalName": "showWinner",
+      "newName": "99"
+    },
+    {
+      "originalName": "handlePacketData",
+      "newName": "\u0027"
+    },
+    {
+      "originalName": "GetRoomList",
+      "newName": "\u003ej"
+    },
+    {
+      "originalName": "LOGIN_ERROR",
+      "newName": "3\u0026"
+    },
+    {
+      "originalName": "skipWhite",
+      "newName": "4V"
+    },
+    {
+      "originalName": "decode",
+      "newName": " !"
+    },
+    {
+      "originalName": "ISymmetricKey",
+      "newName": " ?"
+    },
+    {
+      "originalName": "READ_WRITE",
+      "newName": "0,"
+    },
+    {
+      "originalName": "MSG_MAX",
+      "newName": "3\""
+    },
+    {
+      "originalName": "rShiftTo",
+      "newName": "6l"
+    },
+    {
+      "originalName": "getImplementedInterfaceNames",
+      "newName": "\u003ed"
+    },
+    {
+      "originalName": "SFSIOHandler",
+      "newName": "\"1"
+    },
+    {
+      "originalName": "Random",
+      "newName": "1p"
+    },
+    {
+      "originalName": "decodeSFSObject",
+      "newName": "7%"
+    },
+    {
+      "originalName": "arrangeObjects",
+      "newName": "\u003e\u003c"
+    },
+    {
+      "originalName": "enableFullPacketDump",
+      "newName": "\"L"
+    },
+    {
+      "originalName": "HANDSHAKE",
+      "newName": "5%"
+    },
+    {
+      "originalName": "totrot",
+      "newName": "]m"
+    },
+    {
+      "originalName": "enableEventDispatching",
+      "newName": "\u0027n"
+    },
+    {
+      "originalName": "objToArray",
+      "newName": "!Q"
+    },
+    {
+      "originalName": "getAvatarDirection",
+      "newName": "4M"
+    },
+    {
+      "originalName": "swap",
+      "newName": "\u003dD"
+    },
+    {
+      "originalName": "executeBuddyMessage",
+      "newName": "49"
+    },
+    {
+      "originalName": "systemController",
+      "newName": "^5"
+    },
+    {
+      "originalName": "GUEST",
+      "newName": " ;"
+    },
+    {
+      "originalName": "PLAYER_TO_SPECTATOR",
+      "newName": ";J"
+    },
+    {
+      "originalName": "revert",
+      "newName": "\"o"
+    },
+    {
+      "originalName": "KEY_GROUP",
+      "newName": "^F"
+    },
+    {
+      "originalName": "setAlternateIOHandler",
+      "newName": "3#"
+    },
+    {
+      "originalName": "cpy",
+      "newName": "#6"
+    },
+    {
+      "originalName": "condition",
+      "newName": "!-"
+    },
+    {
+      "originalName": "decodeToByteArray",
+      "newName": "78"
+    },
+    {
+      "originalName": "as2sfs",
+      "newName": ",G"
+    },
+    {
+      "originalName": "sliderMove",
+      "newName": ",^"
+    },
+    {
+      "originalName": "_pos",
+      "newName": "^6"
+    },
+    {
+      "originalName": "_id",
+      "newName": "?Q"
+    },
+    {
+      "originalName": "KEY_ONLINE",
+      "newName": "7C"
+    },
+    {
+      "originalName": "_enableConsoleTrace",
+      "newName": "2p"
+    },
+    {
+      "originalName": "_currentZone",
+      "newName": "`T"
+    },
+    {
+      "originalName": "isJoining",
+      "newName": "[T"
+    },
+    {
+      "originalName": "modInt",
+      "newName": "!b"
+    },
+    {
+      "originalName": "SelectThis",
+      "newName": "!m"
+    },
+    {
+      "originalName": "readNumber",
+      "newName": "1h"
+    },
+    {
+      "originalName": "_iv",
+      "newName": "1,"
+    },
+    {
+      "originalName": "SetBuddyVariablesRequest",
+      "newName": ",Q"
+    },
+    {
+      "originalName": "_roomsById",
+      "newName": "+8"
+    },
+    {
+      "originalName": "_rootFramesTimeline",
+      "newName": "\u0026B"
+    },
+    {
+      "originalName": "rawTime",
+      "newName": "\u0026K"
+    },
+    {
+      "originalName": "allowNameChange",
+      "newName": "`7"
+    },
+    {
+      "originalName": "Auth",
+      "newName": "`Z"
+    },
+    {
+      "originalName": "preloader",
+      "newName": "-f"
+    },
+    {
+      "originalName": "_TRIM_PATTERN",
+      "newName": "9?"
+    },
+    {
+      "originalName": "_tween",
+      "newName": "37"
+    },
+    {
+      "originalName": "_user",
+      "newName": ",V"
+    },
+    {
+      "originalName": "isStandardUser",
+      "newName": ",O"
+    },
+    {
+      "originalName": "mm.BDay.Elements",
+      "newName": "\u0027#"
+    },
+    {
+      "originalName": "__set",
+      "newName": "#0"
+    },
+    {
+      "originalName": "SetRoomVariablesRequest",
+      "newName": "[0"
+    },
+    {
+      "originalName": "jsonString",
+      "newName": ";W"
+    },
+    {
+      "originalName": "proximityListUpdateMillis",
+      "newName": "9J"
+    },
+    {
+      "originalName": "_reconnectionDelayMillis",
+      "newName": "+g"
+    },
+    {
+      "originalName": "isImplementationOf",
+      "newName": ";^"
+    },
+    {
+      "originalName": "setValue",
+      "newName": "\u003eD"
+    },
+    {
+      "originalName": "initCrypto",
+      "newName": "0#"
+    },
+    {
+      "originalName": "addUtfString",
+      "newName": ";S"
+    },
+    {
+      "originalName": "UNKNOWN",
+      "newName": "6p"
+    },
+    {
+      "originalName": "MIN_POLL_SPEED",
+      "newName": "2Z"
+    },
+    {
+      "originalName": "walk",
+      "newName": "7i"
+    },
+    {
+      "originalName": "getImplementedInterfaces",
+      "newName": " a"
+    },
+    {
+      "originalName": "handleConnectionLost",
+      "newName": " 1"
+    },
+    {
+      "originalName": "getByte",
+      "newName": "21"
+    },
+    {
+      "originalName": "houseStatus",
+      "newName": "1-"
+    },
+    {
+      "originalName": "getHash",
+      "newName": "\u003d8"
+    },
+    {
+      "originalName": "_tailPool",
+      "newName": "\u0026O"
+    },
+    {
+      "originalName": "IRoomManager",
+      "newName": "#A"
+    },
+    {
+      "originalName": "prev",
+      "newName": "0`"
+    },
+    {
+      "originalName": "mcShowcase",
+      "newName": "%;"
+    },
+    {
+      "originalName": "_mapLimits",
+      "newName": "-X"
+    },
+    {
+      "originalName": "__get",
+      "newName": "?P"
+    },
+    {
+      "originalName": "password",
+      "newName": "@E"
+    },
+    {
+      "originalName": "startParams",
+      "newName": "\u003c\u0026"
+    },
+    {
+      "originalName": "hasArgumentWithKey",
+      "newName": "]h"
+    },
+    {
+      "originalName": "KEY_VAR_ROOM",
+      "newName": "%W"
+    },
+    {
+      "originalName": "encodeClassName",
+      "newName": "`F"
+    },
+    {
+      "originalName": "CloseWin",
+      "newName": "2!"
+    },
+    {
+      "originalName": "_isResizable",
+      "newName": "8X"
+    },
+    {
+      "originalName": "_newPass",
+      "newName": "1O"
+    },
+    {
+      "originalName": "addBuddy",
+      "newName": "`,"
+    },
+    {
+      "originalName": "_allowPublicMessages",
+      "newName": "3a"
+    },
+    {
+      "originalName": "dispatchRequest",
+      "newName": ";3"
+    },
+    {
+      "originalName": "_rootFrame",
+      "newName": "!$"
+    },
+    {
+      "originalName": "totalDuration",
+      "newName": "1G"
+    },
+    {
+      "originalName": "UDP_INIT",
+      "newName": ";k"
+    },
+    {
+      "originalName": "inventoryParams",
+      "newName": "+X"
+    },
+    {
+      "originalName": "SFSRoomManager",
+      "newName": "#Y"
+    },
+    {
+      "originalName": "getPile",
+      "newName": "3q"
+    },
+    {
+      "originalName": "toArrayedQueue",
+      "newName": "5\""
+    },
+    {
+      "originalName": "pack",
+      "newName": "^c"
+    },
+    {
+      "originalName": "com.adobe.crypto",
+      "newName": "4h"
+    },
+    {
+      "originalName": "_firstReconnAttempt",
+      "newName": "\"W"
+    },
+    {
+      "originalName": "enableLagMonitor",
+      "newName": "`A"
+    },
+    {
+      "originalName": "anim",
+      "newName": "%6"
+    },
+    {
+      "originalName": "_useHttps",
+      "newName": " \u003e"
+    },
+    {
+      "originalName": "_useUDP",
+      "newName": "+$"
+    },
+    {
+      "originalName": "ONE",
+      "newName": "3J"
+    },
+    {
+      "originalName": "addNull",
+      "newName": "7\""
+    },
+    {
+      "originalName": "_horizontal",
+      "newName": "\u003e#"
+    },
+    {
+      "originalName": "encrypt",
+      "newName": "]Z"
+    },
+    {
+      "originalName": "itemX",
+      "newName": "\"!"
+    },
+    {
+      "originalName": "DEFAULT_GROUP_ID",
+      "newName": " H"
+    },
+    {
+      "originalName": "_first",
+      "newName": "7P"
+    },
+    {
+      "originalName": "itemY",
+      "newName": "7F"
+    },
+    {
+      "originalName": "_valueQueue",
+      "newName": "\u0026U"
+    },
+    {
+      "originalName": "attach",
+      "newName": "-]"
+    },
+    {
+      "originalName": "_target",
+      "newName": "7k"
+    },
+    {
+      "originalName": "STANDARD",
+      "newName": "4q"
+    },
+    {
+      "originalName": "_buddyVariables",
+      "newName": " \u0026"
+    },
+    {
+      "originalName": "validate",
+      "newName": "32"
+    },
+    {
+      "originalName": "Window",
+      "newName": "`\""
+    },
+    {
+      "originalName": "hasKey",
+      "newName": " 9"
+    },
+    {
+      "originalName": "CallExtension",
+      "newName": "0Y"
+    },
+    {
+      "originalName": "KEY_USER_NAME",
+      "newName": "2O"
+    },
+    {
+      "originalName": "hasPrev",
+      "newName": "]!"
+    },
+    {
+      "originalName": "KICK",
+      "newName": "6A"
+    },
+    {
+      "originalName": "executePublicMessage",
+      "newName": "!["
+    },
+    {
+      "originalName": "userLeft",
+      "newName": "^\""
+    },
+    {
+      "originalName": "_isFinal",
+      "newName": "[N"
+    },
+    {
+      "originalName": "pageNum",
+      "newName": "\"$"
+    },
+    {
+      "originalName": "SmartFox",
+      "newName": "\u003d_"
+    },
+    {
+      "originalName": "SFSValidationError",
+      "newName": "#\u0026"
+    },
+    {
+      "originalName": "fromRadix",
+      "newName": "?b"
+    },
+    {
+      "originalName": "useHttps",
+      "newName": "7X"
+    },
+    {
+      "originalName": "decrypt",
+      "newName": "5+"
+    },
+    {
+      "originalName": "putUtfStringArray",
+      "newName": "!8"
+    },
+    {
+      "originalName": "getRSA",
+      "newName": "\u003c,"
+    },
+    {
+      "originalName": "PRIVATE_MESSAGE",
+      "newName": "7T"
+    },
+    {
+      "originalName": "logUsageError",
+      "newName": "\u003dP"
+    },
+    {
+      "originalName": "CMD_CONNECT",
+      "newName": "\u0027V"
+    },
+    {
+      "originalName": "btnAcceptClick",
+      "newName": "1+"
+    },
+    {
+      "originalName": "IMember",
+      "newName": "1q"
+    },
+    {
+      "originalName": "XTeaKey",
+      "newName": "\"G"
+    },
+    {
+      "originalName": "IsGift",
+      "newName": "%B"
+    },
+    {
+      "originalName": "getList",
+      "newName": "@$"
+    },
+    {
+      "originalName": "sliderMouseDown",
+      "newName": "#q"
+    },
+    {
+      "originalName": "SFSUser",
+      "newName": "@O"
+    },
+    {
+      "originalName": "has",
+      "newName": "]n"
+    },
+    {
+      "originalName": "newPrivateVariable",
+      "newName": "-$"
+    },
+    {
+      "originalName": "btnStatusAllClick",
+      "newName": "^-"
+    },
+    {
+      "originalName": "BASE64_CHARS",
+      "newName": "0V"
+    },
+    {
+      "originalName": "BUDDY_VARIABLES_UPDATE",
+      "newName": "#f"
+    },
+    {
+      "originalName": "NullPad",
+      "newName": "%2"
+    },
+    {
+      "originalName": "getJoinedRooms",
+      "newName": "\"J"
+    },
+    {
+      "originalName": "getOrCreateUser",
+      "newName": "0R"
+    },
+    {
+      "originalName": "ROOM_CAPACITY_CHANGE",
+      "newName": "#h"
+    },
+    {
+      "originalName": "_px",
+      "newName": "\u003dI"
+    },
+    {
+      "originalName": "_pz",
+      "newName": "[3"
+    },
+    {
+      "originalName": "SubscribeRoomGroupRequest",
+      "newName": "^p"
+    },
+    {
+      "originalName": "_py",
+      "newName": "6@"
+    },
+    {
+      "originalName": "_log",
+      "newName": "73"
+    },
+    {
+      "originalName": "KEY_MAXSPECTATORS",
+      "newName": "[`"
+    },
+    {
+      "originalName": "bTact",
+      "newName": "\"U"
+    },
+    {
+      "originalName": "tweenMessage",
+      "newName": "\u0027g"
+    },
+    {
+      "originalName": "_isJoined",
+      "newName": "#a"
+    },
+    {
+      "originalName": "popBack",
+      "newName": "38"
+    },
+    {
+      "originalName": "KEY_MAX_MESSAGE_SIZE",
+      "newName": "0\u0026"
+    },
+    {
+      "originalName": "getTrace",
+      "newName": "\u003c`"
+    },
+    {
+      "originalName": "_onUpdate",
+      "newName": "?Y"
+    },
+    {
+      "originalName": "sigNum",
+      "newName": "]R"
+    },
+    {
+      "originalName": "addFloat",
+      "newName": "@j"
+    },
+    {
+      "originalName": "_myOnlineState",
+      "newName": "\"V"
+    },
+    {
+      "originalName": "_easePower",
+      "newName": " \u0027"
+    },
+    {
+      "originalName": "ArrayedQueueIterator",
+      "newName": "2\u0027"
+    },
+    {
+      "originalName": "btnHousesClick",
+      "newName": "@7"
+    },
+    {
+      "originalName": "prependCol",
+      "newName": "8e"
+    },
+    {
+      "originalName": "_roomRefCount",
+      "newName": "2K"
+    },
+    {
+      "originalName": "addText",
+      "newName": "[q"
+    },
+    {
+      "originalName": "handleClientDisconnection",
+      "newName": "%@"
+    },
+    {
+      "originalName": "parsePublicKey",
+      "newName": "\"\""
+    },
+    {
+      "originalName": "ExpoOut",
+      "newName": ";-"
+    },
+    {
+      "originalName": "getValue",
+      "newName": "8["
+    },
+    {
+      "originalName": "modScreen",
+      "newName": " d"
+    },
+    {
+      "originalName": "lastIndexOf",
+      "newName": "5_"
+    },
+    {
+      "originalName": "pushBack",
+      "newName": "0g"
+    },
+    {
+      "originalName": "SFS_HTTP",
+      "newName": "^,"
+    },
+    {
+      "originalName": "getBoolArray",
+      "newName": "-D"
+    },
+    {
+      "originalName": "setColor",
+      "newName": "6W"
+    },
+    {
+      "originalName": "_timer",
+      "newName": ";G"
+    },
+    {
+      "originalName": "FALSE",
+      "newName": "3h"
+    },
+    {
+      "originalName": "time",
+      "newName": "^M"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.requests.game",
+      "newName": "8C"
+    },
+    {
+      "originalName": "popDown",
+      "newName": "4\u003c"
+    },
+    {
+      "originalName": "toDLL",
+      "newName": "`L"
+    },
+    {
+      "originalName": "furnitureListItemMouseDown",
+      "newName": "\"\u0026"
+    },
+    {
+      "originalName": "encryptBlock",
+      "newName": "!Z"
+    },
+    {
+      "originalName": "_bitSwarm",
+      "newName": "?C"
+    },
+    {
+      "originalName": "_putNode",
+      "newName": "-Y"
+    },
+    {
+      "originalName": "Furniture",
+      "newName": "@\u0026"
+    },
+    {
+      "originalName": "put",
+      "newName": "\u0027`"
+    },
+    {
+      "originalName": "isWhiteSpace",
+      "newName": ",7"
+    },
+    {
+      "originalName": "prng",
+      "newName": "\u003d#"
+    },
+    {
+      "originalName": "onPacketWrite",
+      "newName": "7Z"
+    },
+    {
+      "originalName": "ModeratorMessage",
+      "newName": ",m"
+    },
+    {
+      "originalName": "sendAOIEntryPoint",
+      "newName": "`["
+    },
+    {
+      "originalName": "expectedLen",
+      "newName": "@o"
+    },
+    {
+      "originalName": "LOGIN",
+      "newName": " `"
+    },
+    {
+      "originalName": "KEY_ALLOW_JOIN_INVITATION_BY_OWNER",
+      "newName": "!5"
+    },
+    {
+      "originalName": "getAtIndex",
+      "newName": "#I"
+    },
+    {
+      "originalName": "currentZone",
+      "newName": "2+"
+    },
+    {
+      "originalName": "dMultiply",
+      "newName": "#r"
+    },
+    {
+      "originalName": "players",
+      "newName": "72"
+    },
+    {
+      "originalName": "getField",
+      "newName": "]F"
+    },
+    {
+      "originalName": "House",
+      "newName": "8]"
+    },
+    {
+      "originalName": "setMyVariable",
+      "newName": "?`"
+    },
+    {
+      "originalName": "balancePanelBtnAddClick",
+      "newName": ",3"
+    },
+    {
+      "originalName": "_lastReqTime",
+      "newName": "%S"
+    },
+    {
+      "originalName": "KEY_PRIVILEGE_ID",
+      "newName": "\u0026$"
+    },
+    {
+      "originalName": "CBCMode",
+      "newName": "\u003da"
+    },
+    {
+      "originalName": "JSONToken",
+      "newName": "%T"
+    },
+    {
+      "originalName": "parentName",
+      "newName": "]7"
+    },
+    {
+      "originalName": "btnShow",
+      "newName": "8\u003d"
+    },
+    {
+      "originalName": "_encrypted",
+      "newName": ",1"
+    },
+    {
+      "originalName": "ChatHistoryMessage",
+      "newName": "1P"
+    },
+    {
+      "originalName": "isSubclassOf",
+      "newName": "\u003cY"
+    },
+    {
+      "originalName": "MAX_INVITATIONS_FROM_CLIENT_SIDE",
+      "newName": "7\u0026"
+    },
+    {
+      "originalName": "loc",
+      "newName": "?D"
+    },
+    {
+      "originalName": "getHMAC",
+      "newName": "7\u003e"
+    },
+    {
+      "originalName": "methods",
+      "newName": "^K"
+    },
+    {
+      "originalName": "_removeRoom",
+      "newName": "5V"
+    },
+    {
+      "originalName": "binEncode_INT",
+      "newName": ",2"
+    },
+    {
+      "originalName": "TARGET_SERVLET",
+      "newName": "-^"
+    },
+    {
+      "originalName": "className",
+      "newName": "-;"
+    },
+    {
+      "originalName": "addDoubleArray",
+      "newName": ",Y"
+    },
+    {
+      "originalName": "ROOM_FIND_RESULT",
+      "newName": ";o"
+    },
+    {
+      "originalName": "putIntArray",
+      "newName": "-H"
+    },
+    {
+      "originalName": "allowUserExit",
+      "newName": ";\u003e"
+    },
+    {
+      "originalName": "MIN_EXPIRY_TIME",
+      "newName": "1!"
+    },
+    {
+      "originalName": "getData",
+      "newName": "\u003d@"
+    },
+    {
+      "originalName": "ArrayUtil",
+      "newName": "\u003c2"
+    },
+    {
+      "originalName": "_applyOverwrite",
+      "newName": "8U"
+    },
+    {
+      "originalName": "flipBit",
+      "newName": "]3"
+    },
+    {
+      "originalName": "ConfigLoader",
+      "newName": "\u003e4"
+    },
+    {
+      "originalName": "_attemptingReconnection",
+      "newName": "\u0026#"
+    },
+    {
+      "originalName": "BV_ONLINE",
+      "newName": "`_"
+    },
+    {
+      "originalName": "btnView",
+      "newName": " @"
+    },
+    {
+      "originalName": "validateBuddyMessage",
+      "newName": ",\""
+    },
+    {
+      "originalName": "RoomPermissions",
+      "newName": "84"
+    },
+    {
+      "originalName": "ArrayedQueue",
+      "newName": "]\u0026"
+    },
+    {
+      "originalName": "TAB",
+      "newName": "46"
+    },
+    {
+      "originalName": "fromInt",
+      "newName": "-U"
+    },
+    {
+      "originalName": "KEY_FILTERED_ROOMS",
+      "newName": "[-"
+    },
+    {
+      "originalName": "addObject",
+      "newName": "@H"
+    },
+    {
+      "originalName": "sessionToken",
+      "newName": "0A"
+    },
+    {
+      "originalName": "getUserByName",
+      "newName": "`X"
+    },
+    {
+      "originalName": "__insertAfter",
+      "newName": "\u003c%"
+    },
+    {
+      "originalName": "btnReportClick",
+      "newName": "-5"
+    },
+    {
+      "originalName": "USER_COUNT_CHANGE",
+      "newName": "3Q"
+    },
+    {
+      "originalName": "onSocketClose",
+      "newName": "\u003c#"
+    },
+    {
+      "originalName": "isHead",
+      "newName": "!B"
+    },
+    {
+      "originalName": "clearCache",
+      "newName": "!!"
+    },
+    {
+      "originalName": "ExtensionController",
+      "newName": "\"e"
+    },
+    {
+      "originalName": "binDecode_INT_ARRAY",
+      "newName": "\u003c5"
+    },
+    {
+      "originalName": "getTypedArraySize",
+      "newName": "\u003dd"
+    },
+    {
+      "originalName": "UnsubscribeRoomGroupRequest",
+      "newName": "\u003ea"
+    },
+    {
+      "originalName": "sundukMC_42",
+      "newName": "\u003ck"
+    },
+    {
+      "originalName": "_instance",
+      "newName": ";+"
+    },
+    {
+      "originalName": "IntUtil",
+      "newName": "2c"
+    },
+    {
+      "originalName": "setId",
+      "newName": "5l"
+    },
+    {
+      "originalName": "lastIV",
+      "newName": "`B"
+    },
+    {
+      "originalName": "ratingScreen",
+      "newName": "#["
+    },
+    {
+      "originalName": "appendRow",
+      "newName": "!4"
+    },
+    {
+      "originalName": "format",
+      "newName": "\u0026["
+    },
+    {
+      "originalName": "setBuddyStates",
+      "newName": "4#"
+    },
+    {
+      "originalName": "Catalog",
+      "newName": "\"#"
+    },
+    {
+      "originalName": "pause",
+      "newName": "8D"
+    },
+    {
+      "originalName": "_message",
+      "newName": "]+"
+    },
+    {
+      "originalName": "createBlocks",
+      "newName": "\u003d4"
+    },
+    {
+      "originalName": "BaseRequest",
+      "newName": "%\u0027"
+    },
+    {
+      "originalName": "colorUpdate",
+      "newName": "^2"
+    },
+    {
+      "originalName": "setCol",
+      "newName": "[D"
+    },
+    {
+      "originalName": "_keys",
+      "newName": "#9"
+    },
+    {
+      "originalName": "USER_VARIABLES_UPDATE",
+      "newName": "9C"
+    },
+    {
+      "originalName": "request",
+      "newName": "^W"
+    },
+    {
+      "originalName": "decodeLongValue",
+      "newName": "9L"
+    },
+    {
+      "originalName": "_index",
+      "newName": "%^"
+    },
+    {
+      "originalName": "containsRoom",
+      "newName": "!+"
+    },
+    {
+      "originalName": "onBuddyListInit",
+      "newName": "[f"
+    },
+    {
+      "originalName": "HMAC",
+      "newName": " 2"
+    },
+    {
+      "originalName": "writeBuffer",
+      "newName": " W"
+    },
+    {
+      "originalName": "nextBytes",
+      "newName": "!A"
+    },
+    {
+      "originalName": "getTweensOf",
+      "newName": ",\u0027"
+    },
+    {
+      "originalName": "_parent",
+      "newName": "#Q"
+    },
+    {
+      "originalName": "multiplyLowerTo",
+      "newName": "-O"
+    },
+    {
+      "originalName": "KEY_VAR_LIST",
+      "newName": "0W"
+    },
+    {
+      "originalName": "_higherLimit",
+      "newName": "%G"
+    },
+    {
+      "originalName": "PropTween",
+      "newName": "[%"
+    },
+    {
+      "originalName": "popFront",
+      "newName": ",b"
+    },
+    {
+      "originalName": "btnStatusMeClick",
+      "newName": "5g"
+    },
+    {
+      "originalName": "padding",
+      "newName": "15"
+    },
+    {
+      "originalName": "RIGHT_BRACE",
+      "newName": "#\u0027"
+    },
+    {
+      "originalName": "_dir",
+      "newName": "86"
+    },
+    {
+      "originalName": "modPanelBtnInvisibleClick",
+      "newName": "-%"
+    },
+    {
+      "originalName": "_reservedProps",
+      "newName": "\u003d-"
+    },
+    {
+      "originalName": "_blocked",
+      "newName": "\u0027j"
+    },
+    {
+      "originalName": "getControllerById",
+      "newName": "+_"
+    },
+    {
+      "originalName": "clear",
+      "newName": "\u003em"
+    },
+    {
+      "originalName": "CMD_DISCONNECT",
+      "newName": "+0"
+    },
+    {
+      "originalName": "invalidate",
+      "newName": " 5"
+    },
+    {
+      "originalName": "_getNodeBefore",
+      "newName": "?F"
+    },
+    {
+      "originalName": "MODERATOR_MSG",
+      "newName": "4$"
+    },
+    {
+      "originalName": "isJoinedInRoom",
+      "newName": "43"
+    },
+    {
+      "originalName": "msgCount",
+      "newName": "?\u003c"
+    },
+    {
+      "originalName": "Heart",
+      "newName": "`"
+    },
+    {
+      "originalName": "binDecode_SHORT_ARRAY",
+      "newName": "2A"
+    },
+    {
+      "originalName": "lblMsg",
+      "newName": "-P"
+    },
+    {
+      "originalName": "putShortArray",
+      "newName": "\u00264"
+    },
+    {
+      "originalName": "INVITATION_REPLY",
+      "newName": ";Y"
+    },
+    {
+      "originalName": "replaceRoom",
+      "newName": "-R"
+    },
+    {
+      "originalName": "toDA",
+      "newName": "8W"
+    },
+    {
+      "originalName": "_port",
+      "newName": "3I"
+    },
+    {
+      "originalName": "_field",
+      "newName": "42"
+    },
+    {
+      "originalName": "trim",
+      "newName": "91"
+    },
+    {
+      "originalName": "_Sbox",
+      "newName": "9\u0027"
+    },
+    {
+      "originalName": "NullReduction",
+      "newName": "\u0027S"
+    },
+    {
+      "originalName": "BV_NICKNAME",
+      "newName": " T"
+    },
+    {
+      "originalName": "strict",
+      "newName": ",T"
+    },
+    {
+      "originalName": "SimpleIVMode",
+      "newName": "76"
+    },
+    {
+      "originalName": "BonusScreenUtils",
+      "newName": "@d"
+    },
+    {
+      "originalName": "_onPluginEvent",
+      "newName": "]B"
+    },
+    {
+      "originalName": "KEY_VEC3D",
+      "newName": ",+"
+    },
+    {
+      "originalName": "btnBackgroundsClick",
+      "newName": "\u0026R"
+    },
+    {
+      "originalName": "Method",
+      "newName": "]H"
+    },
+    {
+      "originalName": "addController",
+      "newName": "3K"
+    },
+    {
+      "originalName": "setBlockSize",
+      "newName": "4p"
+    },
+    {
+      "originalName": "testBit",
+      "newName": "^h"
+    },
+    {
+      "originalName": "staticConstants",
+      "newName": "+;"
+    },
+    {
+      "originalName": "shiftRight",
+      "newName": "\"4"
+    },
+    {
+      "originalName": "Crypto",
+      "newName": "7@"
+    },
+    {
+      "originalName": "nextChar",
+      "newName": "]0"
+    },
+    {
+      "originalName": "validateSuperUserMessage",
+      "newName": "^a"
+    },
+    {
+      "originalName": "decodeResponse",
+      "newName": ";0"
+    },
+    {
+      "originalName": "_tickEvent",
+      "newName": "0\u003d"
+    },
+    {
+      "originalName": "doPublic",
+      "newName": "\u00271"
+    },
+    {
+      "originalName": "varName",
+      "newName": "\u003cd"
+    },
+    {
+      "originalName": "_higherMapLimit",
+      "newName": "0\u003c"
+    },
+    {
+      "originalName": "getVariables",
+      "newName": "!`"
+    },
+    {
+      "originalName": "Set",
+      "newName": ";V"
+    },
+    {
+      "originalName": "shiftRows",
+      "newName": "%#"
+    },
+    {
+      "originalName": "changeRoomCapacity",
+      "newName": "\u003eR"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.requests",
+      "newName": "#\u003d"
+    },
+    {
+      "originalName": "dragFurniture",
+      "newName": "+U"
+    },
+    {
+      "originalName": "sfsLogin",
+      "newName": "+]"
+    },
+    {
+      "originalName": "_mergeSort",
+      "newName": "0h"
+    },
+    {
+      "originalName": "KEY_BUDDY_NAME",
+      "newName": "\"6"
+    },
+    {
+      "originalName": "housesParams",
+      "newName": "5p"
+    },
+    {
+      "originalName": "_bigSized",
+      "newName": "9\u0026"
+    },
+    {
+      "originalName": "onSocketConnect",
+      "newName": "@l"
+    },
+    {
+      "originalName": "_uncache",
+      "newName": ";C"
+    },
+    {
+      "originalName": "staticVariables",
+      "newName": "-i"
+    },
+    {
+      "originalName": "setMyNickName",
+      "newName": ";h"
+    },
+    {
+      "originalName": "_lastJoinedRoom",
+      "newName": "\u003df"
+    },
+    {
+      "originalName": "modPanelBtnMZClick",
+      "newName": "%0"
+    },
+    {
+      "originalName": "shiftUp",
+      "newName": "?N"
+    },
+    {
+      "originalName": "readState",
+      "newName": "\u0026\u003e"
+    },
+    {
+      "originalName": "invMixSubColumns",
+      "newName": "9"
+    },
+    {
+      "originalName": "tail",
+      "newName": "2Y"
+    },
+    {
+      "originalName": "CONNECTION",
+      "newName": "`C"
+    },
+    {
+      "originalName": "toFixed",
+      "newName": "6g"
+    },
+    {
+      "originalName": "SelectGift",
+      "newName": "4B"
+    },
+    {
+      "originalName": "_condition",
+      "newName": "2m"
+    },
+    {
+      "originalName": "bitCount",
+      "newName": "\u003d\u0026"
+    },
+    {
+      "originalName": "_staticVariables",
+      "newName": "-L"
+    },
+    {
+      "originalName": "_power",
+      "newName": "[9"
+    },
+    {
+      "originalName": "handlePrivateMessage",
+      "newName": "]5"
+    },
+    {
+      "originalName": "_extension",
+      "newName": "5$"
+    },
+    {
+      "originalName": "prettyPrintByteArray",
+      "newName": "?T"
+    },
+    {
+      "originalName": "indexToCell",
+      "newName": "6X"
+    },
+    {
+      "originalName": "__instanceof",
+      "newName": "35"
+    },
+    {
+      "originalName": "RSAKey",
+      "newName": "?#"
+    },
+    {
+      "originalName": "KEY_USER_LIST",
+      "newName": "[p"
+    },
+    {
+      "originalName": "ROOM_GROUP_UNSUBSCRIBE_ERROR",
+      "newName": "\u003cn"
+    },
+    {
+      "originalName": "btnCartClick",
+      "newName": "?\u003d"
+    },
+    {
+      "originalName": "getRoomByName",
+      "newName": "#M"
+    },
+    {
+      "originalName": "dir",
+      "newName": "\u0027k"
+    },
+    {
+      "originalName": "setPosition",
+      "newName": "\u003dq"
+    },
+    {
+      "originalName": "dis",
+      "newName": "8M"
+    },
+    {
+      "originalName": "setErrorMessage",
+      "newName": "[C"
+    },
+    {
+      "originalName": "saveFurniture",
+      "newName": "\"n"
+    },
+    {
+      "originalName": "InitBuddyListRequest",
+      "newName": "9\u003c"
+    },
+    {
+      "originalName": "prepareUDPPacket",
+      "newName": "87"
+    },
+    {
+      "originalName": "BIT_MINUS",
+      "newName": "\u0026\u0026"
+    },
+    {
+      "originalName": "InventoryItemLabel",
+      "newName": "`k"
+    },
+    {
+      "originalName": "_declaringType",
+      "newName": "8B"
+    },
+    {
+      "originalName": "_isOptional",
+      "newName": ";c"
+    },
+    {
+      "originalName": "addBool",
+      "newName": "`o"
+    },
+    {
+      "originalName": "SBOX_SK",
+      "newName": " R"
+    },
+    {
+      "originalName": "_recipient",
+      "newName": "@0"
+    },
+    {
+      "originalName": "removeItem",
+      "newName": "\u003e["
+    },
+    {
+      "originalName": "onBuddyError",
+      "newName": "6n"
+    },
+    {
+      "originalName": "reconnectionSeconds",
+      "newName": "]8"
+    },
+    {
+      "originalName": "CryptoInitializer",
+      "newName": "7\u003c"
+    },
+    {
+      "originalName": "isEven",
+      "newName": "#N"
+    },
+    {
+      "originalName": "back",
+      "newName": "26"
+    },
+    {
+      "originalName": "JSON",
+      "newName": "06"
+    },
+    {
+      "originalName": "ROUNDS",
+      "newName": "?G"
+    },
+    {
+      "originalName": "isReconnecting",
+      "newName": "57"
+    },
+    {
+      "originalName": "listPanelBtnRatingClick",
+      "newName": "7f"
+    },
+    {
+      "originalName": "wearBtnPrev",
+      "newName": "6R"
+    },
+    {
+      "originalName": "executeDisconnection",
+      "newName": "\u0027+"
+    },
+    {
+      "originalName": "duration",
+      "newName": "3;"
+    },
+    {
+      "originalName": "addItem",
+      "newName": "1m"
+    },
+    {
+      "originalName": "Field",
+      "newName": "@\""
+    },
+    {
+      "originalName": "isRunning",
+      "newName": "8c"
+    },
+    {
+      "originalName": "getPad",
+      "newName": "0l"
+    },
+    {
+      "originalName": "dla",
+      "newName": "-p"
+    },
+    {
+      "originalName": "op_andnot",
+      "newName": "-B"
+    },
+    {
+      "originalName": "onExtensionResponse",
+      "newName": "\u0027L"
+    },
+    {
+      "originalName": "StringEdit",
+      "newName": "8`"
+    },
+    {
+      "originalName": "Room",
+      "newName": "0j"
+    },
+    {
+      "originalName": "setBlocked",
+      "newName": "\u003ep"
+    },
+    {
+      "originalName": "checkIfIamLastPlayer",
+      "newName": ";F"
+    },
+    {
+      "originalName": "CreateRoomRequest",
+      "newName": " %"
+    },
+    {
+      "originalName": "onDataRead",
+      "newName": "?7"
+    },
+    {
+      "originalName": "higherLimit",
+      "newName": "\u0027H"
+    },
+    {
+      "originalName": "_buddyManager",
+      "newName": "3+"
+    },
+    {
+      "originalName": "_buddiesByName",
+      "newName": "^e"
+    },
+    {
+      "originalName": "COLON",
+      "newName": "2k"
+    },
+    {
+      "originalName": "_lpad",
+      "newName": "[X"
+    },
+    {
+      "originalName": "mm.utils",
+      "newName": "7p"
+    },
+    {
+      "originalName": "putByteArray",
+      "newName": "%Q"
+    },
+    {
+      "originalName": "encodeRequest",
+      "newName": "00"
+    },
+    {
+      "originalName": "_XtimeD",
+      "newName": "\u003cR"
+    },
+    {
+      "originalName": "Df_Key",
+      "newName": "5#"
+    },
+    {
+      "originalName": "_XtimeE",
+      "newName": "0p"
+    },
+    {
+      "originalName": "onBBDisconnect",
+      "newName": "9-"
+    },
+    {
+      "originalName": "_XtimeB",
+      "newName": "\u003e;"
+    },
+    {
+      "originalName": "rewind",
+      "newName": "+k"
+    },
+    {
+      "originalName": "loadingScreenIcon_218",
+      "newName": "64"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.exceptions",
+      "newName": "1K"
+    },
+    {
+      "originalName": "getByteArray",
+      "newName": "9^"
+    },
+    {
+      "originalName": "resize",
+      "newName": "2U"
+    },
+    {
+      "originalName": "Presents",
+      "newName": "3\u003c"
+    },
+    {
+      "originalName": "append",
+      "newName": "7j"
+    },
+    {
+      "originalName": "onSocketReconnectionTry",
+      "newName": "`9"
+    },
+    {
+      "originalName": "autoSeed",
+      "newName": "7I"
+    },
+    {
+      "originalName": "addMMOItem",
+      "newName": "3"
+    },
+    {
+      "originalName": "binEncode_BOOL",
+      "newName": "2I"
+    },
+    {
+      "originalName": "getAvatar",
+      "newName": "\u003d!"
+    },
+    {
+      "originalName": "onSocketDataError",
+      "newName": "\u0027\u0026"
+    },
+    {
+      "originalName": "ROOM_NAME_CHANGE_ERROR",
+      "newName": "\u003db"
+    },
+    {
+      "originalName": "setInited",
+      "newName": "\u003e3"
+    },
+    {
+      "originalName": "convert",
+      "newName": "1N"
+    },
+    {
+      "originalName": "KEY_SENDER_DATA",
+      "newName": "\u003d0"
+    },
+    {
+      "originalName": "ChangeRoomCapacityRequest",
+      "newName": "@,"
+    },
+    {
+      "originalName": "lbit",
+      "newName": "3e"
+    },
+    {
+      "originalName": "_userManager",
+      "newName": "!p"
+    },
+    {
+      "originalName": "CloseG",
+      "newName": "#\u003e"
+    },
+    {
+      "originalName": "_sendMode",
+      "newName": "\u003c^"
+    },
+    {
+      "originalName": "initFurniturePanel",
+      "newName": "@;"
+    },
+    {
+      "originalName": "KEY_XTRA_PARAMS",
+      "newName": "5^"
+    },
+    {
+      "originalName": "init",
+      "newName": "@3"
+    },
+    {
+      "originalName": "onPacketRead",
+      "newName": "[,"
+    },
+    {
+      "originalName": "onBuddyMessage",
+      "newName": "%c"
+    },
+    {
+      "originalName": "bits",
+      "newName": "\u003e`"
+    },
+    {
+      "originalName": "modPanelBtnModClick",
+      "newName": ",?"
+    },
+    {
+      "originalName": "_getNode",
+      "newName": "17"
+    },
+    {
+      "originalName": "binDecode_BYTE_ARRAY",
+      "newName": "0Z"
+    },
+    {
+      "originalName": "bitSwarm",
+      "newName": "4\""
+    },
+    {
+      "originalName": "nextVal",
+      "newName": "\u003ei"
+    },
+    {
+      "originalName": "drShiftTo",
+      "newName": "4K"
+    },
+    {
+      "originalName": "_majVersion",
+      "newName": "\u003e7"
+    },
+    {
+      "originalName": "_cache",
+      "newName": "60"
+    },
+    {
+      "originalName": "_invitedUsers",
+      "newName": "@D"
+    },
+    {
+      "originalName": "ClassNotFoundError",
+      "newName": "\u003dY"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.entities.invitation",
+      "newName": "]["
+    },
+    {
+      "originalName": "millerRabin",
+      "newName": "\u003cO"
+    },
+    {
+      "originalName": "colorTrans",
+      "newName": "2\u003e"
+    },
+    {
+      "originalName": "com.hurlant.util",
+      "newName": "50"
+    },
+    {
+      "originalName": "_maxUsers",
+      "newName": "\u0026"
+    },
+    {
+      "originalName": "USER_ENTER_ROOM",
+      "newName": "7V"
+    },
+    {
+      "originalName": "multiplyUpperTo",
+      "newName": "\u003d2"
+    },
+    {
+      "originalName": "__string_rec",
+      "newName": "4k"
+    },
+    {
+      "originalName": "getBuddyByName",
+      "newName": "6f"
+    },
+    {
+      "originalName": "Sprintf",
+      "newName": "1Y"
+    },
+    {
+      "originalName": "SFSRoomVariable",
+      "newName": "#7"
+    },
+    {
+      "originalName": "sendHandshakeRequest",
+      "newName": "3,"
+    },
+    {
+      "originalName": "KEY_CMD",
+      "newName": "\u0026\u0027"
+    },
+    {
+      "originalName": "OFFLINE_PREFIX",
+      "newName": "75"
+    },
+    {
+      "originalName": "propertiesFile",
+      "newName": "-"
+    },
+    {
+      "originalName": "binEncode_LONG_ARRAY",
+      "newName": "+@"
+    },
+    {
+      "originalName": "onComplete",
+      "newName": "\u003dc"
+    },
+    {
+      "originalName": "maskSize",
+      "newName": "4_"
+    },
+    {
+      "originalName": "loadPage",
+      "newName": "^$"
+    },
+    {
+      "originalName": "addBoolArray",
+      "newName": "[\u003d"
+    },
+    {
+      "originalName": "removeRoomById",
+      "newName": "2J"
+    },
+    {
+      "originalName": "sliderSize",
+      "newName": "^X"
+    },
+    {
+      "originalName": "DEFAULT_POLL_SPEED",
+      "newName": "8%"
+    },
+    {
+      "originalName": "BUDDY_LIST_INIT",
+      "newName": "8#"
+    },
+    {
+      "originalName": "getLong",
+      "newName": "\u003dZ"
+    },
+    {
+      "originalName": "_reservedSize",
+      "newName": "\u003c"
+    },
+    {
+      "originalName": "compressionThreshold",
+      "newName": "+R"
+    },
+    {
+      "originalName": "changeRoomName",
+      "newName": "\u0026k"
+    },
+    {
+      "originalName": "intAt",
+      "newName": "1\u003e"
+    },
+    {
+      "originalName": "SetUserPositionRequest",
+      "newName": "]Y"
+    },
+    {
+      "originalName": "changeBit",
+      "newName": "\u003e$"
+    },
+    {
+      "originalName": "lShiftTo",
+      "newName": "0\u0027"
+    },
+    {
+      "originalName": "WAIT_DATA_SIZE_FRAGMENT",
+      "newName": "%i"
+    },
+    {
+      "originalName": "_newName",
+      "newName": "%\u003d"
+    },
+    {
+      "originalName": "IUserManager",
+      "newName": ";B"
+    },
+    {
+      "originalName": "getFormatTabs",
+      "newName": "0b"
+    },
+    {
+      "originalName": "parsePrivateKey",
+      "newName": "\u00275"
+    },
+    {
+      "originalName": "LogicOperator",
+      "newName": "\u003cA"
+    },
+    {
+      "originalName": "main",
+      "newName": "@`"
+    },
+    {
+      "originalName": "FriendsScreen",
+      "newName": ";L"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.bitswarm.bbox",
+      "newName": "^k"
+    },
+    {
+      "originalName": "allowUserCountChange",
+      "newName": " U"
+    },
+    {
+      "originalName": "IoHandler",
+      "newName": "#V"
+    },
+    {
+      "originalName": "avatarClick",
+      "newName": "7-"
+    },
+    {
+      "originalName": "host",
+      "newName": "\u00266"
+    },
+    {
+      "originalName": "sfsObject",
+      "newName": "\u0026_"
+    },
+    {
+      "originalName": "Void",
+      "newName": "-V"
+    },
+    {
+      "originalName": "BonusScreen",
+      "newName": "\u0026l"
+    },
+    {
+      "originalName": "reportKeyDown",
+      "newName": "5O"
+    },
+    {
+      "originalName": "isHexDigit",
+      "newName": "+h"
+    },
+    {
+      "originalName": "getWrappedElementAt",
+      "newName": "!2"
+    },
+    {
+      "originalName": "IMode",
+      "newName": "%?"
+    },
+    {
+      "originalName": "_color",
+      "newName": "56"
+    },
+    {
+      "originalName": "fill",
+      "newName": "\u0026i"
+    },
+    {
+      "originalName": "furniturePanelAddItem",
+      "newName": "]f"
+    },
+    {
+      "originalName": "_Rcon",
+      "newName": "\u003cV"
+    },
+    {
+      "originalName": "_variables",
+      "newName": "%q"
+    },
+    {
+      "originalName": "IMMOItem",
+      "newName": "@e"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.controllers",
+      "newName": ";A"
+    },
+    {
+      "originalName": "encKey",
+      "newName": "%,"
+    },
+    {
+      "originalName": "setMyVariables",
+      "newName": "\u003dh"
+    },
+    {
+      "originalName": "setHouseEditButton",
+      "newName": "4Y"
+    },
+    {
+      "originalName": "btnChatClick",
+      "newName": "?k"
+    },
+    {
+      "originalName": "KEY_PLAYER_ID",
+      "newName": "[L"
+    },
+    {
+      "originalName": "lib.stuffForMM",
+      "newName": "\u0027h"
+    },
+    {
+      "originalName": "handleHandShake",
+      "newName": "[R"
+    },
+    {
+      "originalName": "header",
+      "newName": "@S"
+    },
+    {
+      "originalName": "Collection",
+      "newName": "\u003ee"
+    },
+    {
+      "originalName": "dispose",
+      "newName": "^C"
+    },
+    {
+      "originalName": "IRequest",
+      "newName": "]g"
+    },
+    {
+      "originalName": "BINDABLE",
+      "newName": "3i"
+    },
+    {
+      "originalName": "KEY_ROOM_LIST",
+      "newName": "\u003d%"
+    },
+    {
+      "originalName": "_rawEase",
+      "newName": "2R"
+    },
+    {
+      "originalName": "roomList",
+      "newName": "`0"
+    },
+    {
+      "originalName": "BBEvent",
+      "newName": "]q"
+    },
+    {
+      "originalName": "_constants",
+      "newName": "@L"
+    },
+    {
+      "originalName": "Constant",
+      "newName": "9_"
+    },
+    {
+      "originalName": "getUserRooms",
+      "newName": "\u0027-"
+    },
+    {
+      "originalName": "doInitDelay",
+      "newName": "#;"
+    },
+    {
+      "originalName": "maxSize",
+      "newName": "\u003e6"
+    },
+    {
+      "originalName": "destroySound",
+      "newName": "\u0027q"
+    },
+    {
+      "originalName": "InitDialogue",
+      "newName": "]i"
+    },
+    {
+      "originalName": "toKeyArray",
+      "newName": "2h"
+    },
+    {
+      "originalName": "_isHidden",
+      "newName": "-7"
+    },
+    {
+      "originalName": "KEY_SESSION_TOKEN",
+      "newName": "9!"
+    },
+    {
+      "originalName": "genericArrayToSFSArray",
+      "newName": "%O"
+    },
+    {
+      "originalName": "IPacketEncrypter",
+      "newName": "4N"
+    },
+    {
+      "originalName": "binDecode_DOUBLE_ARRAY",
+      "newName": ";2"
+    },
+    {
+      "originalName": "_encrypt",
+      "newName": "8g"
+    },
+    {
+      "originalName": "sqrTo",
+      "newName": "\u003cK"
+    },
+    {
+      "originalName": "SFSGlobalUserManager",
+      "newName": "7d"
+    },
+    {
+      "originalName": "isFloat",
+      "newName": "\u003dS"
+    },
+    {
+      "originalName": "loadProgress",
+      "newName": "5j"
+    },
+    {
+      "originalName": "btnSmilesClick",
+      "newName": "+E"
+    },
+    {
+      "originalName": "AESKey",
+      "newName": "6m"
+    },
+    {
+      "originalName": "ROOM_GROUP_UNSUBSCRIBE",
+      "newName": "%V"
+    },
+    {
+      "originalName": "CatalogItem",
+      "newName": "^#"
+    },
+    {
+      "originalName": "AccessorAccess",
+      "newName": "1H"
+    },
+    {
+      "originalName": "WAIT_DATA",
+      "newName": "!\u003c"
+    },
+    {
+      "originalName": "getMMOItem",
+      "newName": "\u0027T"
+    },
+    {
+      "originalName": "toValSet",
+      "newName": "\u003d3"
+    },
+    {
+      "originalName": "KEY_MMO_DEFAULT_AOI",
+      "newName": "\u003cT"
+    },
+    {
+      "originalName": "removeElement",
+      "newName": "\u003dj"
+    },
+    {
+      "originalName": "addDouble",
+      "newName": "`p"
+    },
+    {
+      "originalName": "dup",
+      "newName": "+e"
+    },
+    {
+      "originalName": "btnInfoClick",
+      "newName": "5E"
+    },
+    {
+      "originalName": "Std",
+      "newName": "0Q"
+    },
+    {
+      "originalName": "_initVal",
+      "newName": "#,"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.bitswarm",
+      "newName": " k"
+    },
+    {
+      "originalName": "_name",
+      "newName": "5;"
+    },
+    {
+      "originalName": "newFromObject",
+      "newName": "[^"
+    },
+    {
+      "originalName": "isPlayerInRoom",
+      "newName": "13"
+    },
+    {
+      "originalName": "com.hurlant.crypto.symmetric",
+      "newName": "^%"
+    },
+    {
+      "originalName": "connectionMode",
+      "newName": "\u003e\u0027"
+    },
+    {
+      "originalName": "__unlink",
+      "newName": "5I"
+    },
+    {
+      "originalName": "_password",
+      "newName": "%h"
+    },
+    {
+      "originalName": "removeBubble",
+      "newName": "8A"
+    },
+    {
+      "originalName": "udpInited",
+      "newName": "0P"
+    },
+    {
+      "originalName": "com.greensock.plugins",
+      "newName": "1W"
+    },
+    {
+      "originalName": "KEY_REPLY_ID",
+      "newName": "\"h"
+    },
+    {
+      "originalName": "toBin",
+      "newName": "6k"
+    },
+    {
+      "originalName": "TweenNano",
+      "newName": "6,"
+    },
+    {
+      "originalName": "forInstance",
+      "newName": "@h"
+    },
+    {
+      "originalName": "_isTemp",
+      "newName": "5,"
+    },
+    {
+      "originalName": "pendingPacket",
+      "newName": "#j"
+    },
+    {
+      "originalName": "getText",
+      "newName": ",I"
+    },
+    {
+      "originalName": "invent",
+      "newName": "0F"
+    },
+    {
+      "originalName": "_lowerLimit",
+      "newName": "4l"
+    },
+    {
+      "originalName": "toBinary",
+      "newName": "@A"
+    },
+    {
+      "originalName": "convertToString",
+      "newName": "!f"
+    },
+    {
+      "originalName": "mouseWheel",
+      "newName": "^D"
+    },
+    {
+      "originalName": "execute",
+      "newName": "\u003e-"
+    },
+    {
+      "originalName": "ACTION_ID",
+      "newName": "8;"
+    },
+    {
+      "originalName": "decodeObject",
+      "newName": "\u003e\u003d"
+    },
+    {
+      "originalName": "ERR_INVALID_SESSION",
+      "newName": "\u003dU"
+    },
+    {
+      "originalName": "toOct",
+      "newName": "05"
+    },
+    {
+      "originalName": "lowprimes",
+      "newName": "!n"
+    },
+    {
+      "originalName": "InitList",
+      "newName": "0!"
+    },
+    {
+      "originalName": "ConnectionMode",
+      "newName": "3`"
+    },
+    {
+      "originalName": "packetEncrypter",
+      "newName": "!H"
+    },
+    {
+      "originalName": "Inventory",
+      "newName": "2d"
+    },
+    {
+      "originalName": "validatePrivateMessage",
+      "newName": "?a"
+    },
+    {
+      "originalName": "whoseTurn",
+      "newName": "@"
+    },
+    {
+      "originalName": "fpscroll",
+      "newName": "+Q"
+    },
+    {
+      "originalName": "EXTENSION_RESPONSE",
+      "newName": "4Z"
+    },
+    {
+      "originalName": "BIT_X",
+      "newName": "[e"
+    },
+    {
+      "originalName": "KEY_MMO_MAP_HIGH_LIMIT",
+      "newName": "7b"
+    },
+    {
+      "originalName": "Logger",
+      "newName": "7R"
+    },
+    {
+      "originalName": "_buddyName",
+      "newName": " g"
+    },
+    {
+      "originalName": "currentPort",
+      "newName": "0e"
+    },
+    {
+      "originalName": "FIELD_NAME_KEY",
+      "newName": "#K"
+    },
+    {
+      "originalName": "CONFIG_LOAD_SUCCESS",
+      "newName": "^Q"
+    },
+    {
+      "originalName": "_scanSFSArray",
+      "newName": "10"
+    },
+    {
+      "originalName": "BIT_f",
+      "newName": "^m"
+    },
+    {
+      "originalName": "BIT_g",
+      "newName": "8q"
+    },
+    {
+      "originalName": "BIT_h",
+      "newName": "5P"
+    },
+    {
+      "originalName": "BIT_i",
+      "newName": "[2"
+    },
+    {
+      "originalName": "BIT_b",
+      "newName": "\u003cp"
+    },
+    {
+      "originalName": "BIT_c",
+      "newName": "^N"
+    },
+    {
+      "originalName": "RoomSettings",
+      "newName": "\u003d\""
+    },
+    {
+      "originalName": "BIT_d",
+      "newName": "5@"
+    },
+    {
+      "originalName": "BIT_e",
+      "newName": "+9"
+    },
+    {
+      "originalName": "BIT_n",
+      "newName": "\u003c7"
+    },
+    {
+      "originalName": "JSONTokenizer",
+      "newName": "\u0027F"
+    },
+    {
+      "originalName": "BIT_o",
+      "newName": "%7"
+    },
+    {
+      "originalName": "ExpoIn",
+      "newName": "6i"
+    },
+    {
+      "originalName": "BIT_p",
+      "newName": "?c"
+    },
+    {
+      "originalName": "free",
+      "newName": "2e"
+    },
+    {
+      "originalName": "binDecode_BYTE",
+      "newName": "\u003d9"
+    },
+    {
+      "originalName": "coeff",
+      "newName": "[6"
+    },
+    {
+      "originalName": "BIT_l",
+      "newName": "?S"
+    },
+    {
+      "originalName": "addShortArray",
+      "newName": "-\u003d"
+    },
+    {
+      "originalName": "profileParams",
+      "newName": "7m"
+    },
+    {
+      "originalName": "OpenPostSender",
+      "newName": "6-"
+    },
+    {
+      "originalName": "_rawPrevTime",
+      "newName": "5q"
+    },
+    {
+      "originalName": "BIT_x",
+      "newName": "7L"
+    },
+    {
+      "originalName": "BIT_s",
+      "newName": "\u00267"
+    },
+    {
+      "originalName": "BIT_u",
+      "newName": "],"
+    },
+    {
+      "originalName": "_online",
+      "newName": "3m"
+    },
+    {
+      "originalName": "KEY_EXTCLASS",
+      "newName": ",U"
+    },
+    {
+      "originalName": "TOKEN_INDENT_OPEN",
+      "newName": "\u003eK"
+    },
+    {
+      "originalName": "KEY_MMO_PROXIMITY_UPDATE_MILLIS",
+      "newName": "8-"
+    },
+    {
+      "originalName": "_userMaxLimboSeconds",
+      "newName": "%5"
+    },
+    {
+      "originalName": "putUtfString",
+      "newName": ",W"
+    },
+    {
+      "originalName": "negate",
+      "newName": "\u0027e"
+    },
+    {
+      "originalName": "_thread",
+      "newName": "1g"
+    },
+    {
+      "originalName": "STRING",
+      "newName": "\"K"
+    },
+    {
+      "originalName": "progress",
+      "newName": "^;"
+    },
+    {
+      "originalName": "KEY_PLUS_USER_LIST",
+      "newName": "\"?"
+    },
+    {
+      "originalName": "KEY_ROOMVARS",
+      "newName": "\u003el"
+    },
+    {
+      "originalName": "open",
+      "newName": "-m"
+    },
+    {
+      "originalName": "_roomVariables",
+      "newName": "9n"
+    },
+    {
+      "originalName": "ratio",
+      "newName": "-8"
+    },
+    {
+      "originalName": "_sendAOIEntryPoint",
+      "newName": "\u00277"
+    },
+    {
+      "originalName": "ZERO",
+      "newName": "-N"
+    },
+    {
+      "originalName": "btnOut",
+      "newName": "\u003e]"
+    },
+    {
+      "originalName": "MAX_POLL_SPEED",
+      "newName": "[O"
+    },
+    {
+      "originalName": "_limit",
+      "newName": "30"
+    },
+    {
+      "originalName": "prepend",
+      "newName": "9Z"
+    },
+    {
+      "originalName": "KEY_GROUP_ID",
+      "newName": "`\u003c"
+    },
+    {
+      "originalName": "_isPrivate",
+      "newName": "\u003cN"
+    },
+    {
+      "originalName": "_propLookup",
+      "newName": "6a"
+    },
+    {
+      "originalName": "socketEngine",
+      "newName": "\u003c6"
+    },
+    {
+      "originalName": "KEY_COMPRESSION_THRESHOLD",
+      "newName": "!\u003d"
+    },
+    {
+      "originalName": "_sortChildren",
+      "newName": "\u003e2"
+    },
+    {
+      "originalName": "insertAfter",
+      "newName": "1M"
+    },
+    {
+      "originalName": "getPlayerId",
+      "newName": "6h"
+    },
+    {
+      "originalName": "KEY_RECIPIENT_MODE",
+      "newName": "23"
+    },
+    {
+      "originalName": "addIntArray",
+      "newName": "\u003dV"
+    },
+    {
+      "originalName": "HashKey",
+      "newName": "]C"
+    },
+    {
+      "originalName": "shortValue",
+      "newName": "+H"
+    },
+    {
+      "originalName": "_userVariables",
+      "newName": ",l"
+    },
+    {
+      "originalName": "b64",
+      "newName": "\u0026f"
+    },
+    {
+      "originalName": "NUMBER",
+      "newName": "%\u003c"
+    },
+    {
+      "originalName": "PendingPacket",
+      "newName": "4n"
+    },
+    {
+      "originalName": "EMPTY_BUFFER",
+      "newName": ",e"
+    },
+    {
+      "originalName": "MODERATOR_MESSAGE",
+      "newName": "@4"
+    },
+    {
+      "originalName": "_allowOwnerOnlyInvitation",
+      "newName": "\"`"
+    },
+    {
+      "originalName": "ExpoInOut",
+      "newName": "?!"
+    },
+    {
+      "originalName": "WARNING",
+      "newName": "63"
+    },
+    {
+      "originalName": "Stack",
+      "newName": "\u003d5"
+    },
+    {
+      "originalName": "initRequestHandlers",
+      "newName": "`%"
+    },
+    {
+      "originalName": "BIT_G",
+      "newName": "\u0027C"
+    },
+    {
+      "originalName": "BIT_E",
+      "newName": "]V"
+    },
+    {
+      "originalName": "namePanelClick",
+      "newName": "\u003e?"
+    },
+    {
+      "originalName": "reconnectionDelayMillis",
+      "newName": "2T"
+    },
+    {
+      "originalName": "_roomManager",
+      "newName": "[J"
+    },
+    {
+      "originalName": "__isenum",
+      "newName": "0C"
+    },
+    {
+      "originalName": "debugMode",
+      "newName": "%P"
+    },
+    {
+      "originalName": "TRANSIENT",
+      "newName": "[\u003e"
+    },
+    {
+      "originalName": "objectToString",
+      "newName": "7?"
+    },
+    {
+      "originalName": "BIT_L",
+      "newName": "\u003dO"
+    },
+    {
+      "originalName": "reasons",
+      "newName": " $"
+    },
+    {
+      "originalName": "REQUEST_UDP_PACKET_ID",
+      "newName": " ^"
+    },
+    {
+      "originalName": "putDoubleArray",
+      "newName": "+\""
+    },
+    {
+      "originalName": "KEY_EXTPROP",
+      "newName": "\u003cm"
+    },
+    {
+      "originalName": "KEY_BUDDY_BLOCK_STATE",
+      "newName": "\u003eS"
+    },
+    {
+      "originalName": "ciBtnRemoveClick",
+      "newName": " 4"
+    },
+    {
+      "originalName": "speed",
+      "newName": "5k"
+    },
+    {
+      "originalName": "itemMouseOut",
+      "newName": "\u003dg"
+    },
+    {
+      "originalName": "KEY_NAME",
+      "newName": "%["
+    },
+    {
+      "originalName": "__set_trace_color",
+      "newName": "\u0027B"
+    },
+    {
+      "originalName": "CLEAR_CACHE_INTERVAL",
+      "newName": "!r"
+    },
+    {
+      "originalName": "addJoinedRoom",
+      "newName": ",A"
+    },
+    {
+      "originalName": "divRemTo",
+      "newName": "4D"
+    },
+    {
+      "originalName": "BUDDY_BLOCK",
+      "newName": "4i"
+    },
+    {
+      "originalName": "PLAYER_TO_SPECTATOR_ERROR",
+      "newName": "\u0027]"
+    },
+    {
+      "originalName": "_roomsByName",
+      "newName": " \""
+    },
+    {
+      "originalName": "_totalDuration",
+      "newName": "`h"
+    },
+    {
+      "originalName": "onPublicMessage",
+      "newName": "%\u003e"
+    },
+    {
+      "originalName": "_screen",
+      "newName": "^1"
+    },
+    {
+      "originalName": "scrollBar",
+      "newName": "\u003d$"
+    },
+    {
+      "originalName": "DEFAULT_HTTP_PORT",
+      "newName": "8d"
+    },
+    {
+      "originalName": "lib.Elements",
+      "newName": "!\u003e"
+    },
+    {
+      "originalName": "_udpManager",
+      "newName": "\"N"
+    },
+    {
+      "originalName": "prevVal",
+      "newName": "8^"
+    },
+    {
+      "originalName": "_myVariables",
+      "newName": "6I"
+    },
+    {
+      "originalName": "toLinkedQueue",
+      "newName": "[S"
+    },
+    {
+      "originalName": "LinkedQueue",
+      "newName": "]N"
+    },
+    {
+      "originalName": "_height",
+      "newName": "07"
+    },
+    {
+      "originalName": "DESKey",
+      "newName": "`@"
+    },
+    {
+      "originalName": "popup",
+      "newName": "\u003c1"
+    },
+    {
+      "originalName": "OBJECT_MSG",
+      "newName": "@f"
+    },
+    {
+      "originalName": "Pushik",
+      "newName": "^q"
+    },
+    {
+      "originalName": "BuddyVariable",
+      "newName": "\u003eg"
+    },
+    {
+      "originalName": "CONNECTION_RETRY",
+      "newName": "4"
+    },
+    {
+      "originalName": "setPile",
+      "newName": "3M"
+    },
+    {
+      "originalName": "Location",
+      "newName": "`^"
+    },
+    {
+      "originalName": "ROOM_CAPACITY_CHANGE_ERROR",
+      "newName": "`8"
+    },
+    {
+      "originalName": "CTRMode",
+      "newName": ",4"
+    },
+    {
+      "originalName": "_aoiEntryPoint",
+      "newName": "8P"
+    },
+    {
+      "originalName": "UNTYPED",
+      "newName": "\u0026X"
+    },
+    {
+      "originalName": "unrollArray",
+      "newName": "!\u0026"
+    },
+    {
+      "originalName": "RECONNECTION_TRY",
+      "newName": " 6"
+    },
+    {
+      "originalName": "_header",
+      "newName": "5H"
+    },
+    {
+      "originalName": "CryptoKey",
+      "newName": "51"
+    },
+    {
+      "originalName": "INT_BYTE_SIZE",
+      "newName": "\u003c_"
+    },
+    {
+      "originalName": "_packetId",
+      "newName": "1X"
+    },
+    {
+      "originalName": "getMethod",
+      "newName": "]E"
+    },
+    {
+      "originalName": "SystemController",
+      "newName": "3["
+    },
+    {
+      "originalName": "_render",
+      "newName": ";j"
+    },
+    {
+      "originalName": "ReservedBuddyVariables",
+      "newName": " \u003c"
+    },
+    {
+      "originalName": "removeUser",
+      "newName": ",\u003c"
+    },
+    {
+      "originalName": "sidebar",
+      "newName": ";;"
+    },
+    {
+      "originalName": "__front",
+      "newName": "+B"
+    },
+    {
+      "originalName": "permissions",
+      "newName": "\u003cJ"
+    },
+    {
+      "originalName": "ObjectMessage",
+      "newName": "@W"
+    },
+    {
+      "originalName": "enable",
+      "newName": "7G"
+    },
+    {
+      "originalName": "ratinglist",
+      "newName": "9m"
+    },
+    {
+      "originalName": "btnNoClick",
+      "newName": "%C"
+    },
+    {
+      "originalName": "LogoutRequest",
+      "newName": "6_"
+    },
+    {
+      "originalName": "btnChatHistoryClick",
+      "newName": "0%"
+    },
+    {
+      "originalName": "_int",
+      "newName": ";\u003d"
+    },
+    {
+      "originalName": "_targets",
+      "newName": "9N"
+    },
+    {
+      "originalName": "bigbyte",
+      "newName": "\u003cc"
+    },
+    {
+      "originalName": "hashBytes",
+      "newName": "3S"
+    },
+    {
+      "originalName": "mph",
+      "newName": "^?"
+    },
+    {
+      "originalName": "mcState",
+      "newName": " o"
+    },
+    {
+      "originalName": "mpl",
+      "newName": "4c"
+    },
+    {
+      "originalName": "LinkedQueueNode",
+      "newName": "^\u0027"
+    },
+    {
+      "originalName": "OnExt",
+      "newName": "\"I"
+    },
+    {
+      "originalName": "ROOM_PASSWORD_STATE_CHANGE",
+      "newName": "\"%"
+    },
+    {
+      "originalName": "Out",
+      "newName": "?2"
+    },
+    {
+      "originalName": "TYPE_NAMES",
+      "newName": "0c"
+    },
+    {
+      "originalName": "onDataWrite",
+      "newName": "+A"
+    },
+    {
+      "originalName": "KEY_MESSAGE",
+      "newName": "1\u003d"
+    },
+    {
+      "originalName": "op_xor",
+      "newName": "[o"
+    },
+    {
+      "originalName": "handleLogout",
+      "newName": "\u003do"
+    },
+    {
+      "originalName": "CONFIG_LOAD_FAILURE",
+      "newName": "\u0027Y"
+    },
+    {
+      "originalName": "extension",
+      "newName": "\u003d^"
+    },
+    {
+      "originalName": "KEY_MESSAGE_TYPE",
+      "newName": "##"
+    },
+    {
+      "originalName": "isConnected",
+      "newName": "\"R"
+    },
+    {
+      "originalName": "Valentine_Mng",
+      "newName": "`e"
+    },
+    {
+      "originalName": "groupDigits",
+      "newName": "\"g"
+    },
+    {
+      "originalName": "getNextToken",
+      "newName": "\u003c+"
+    },
+    {
+      "originalName": "_lagMonitor",
+      "newName": "5\u0027"
+    },
+    {
+      "originalName": "arrayToString",
+      "newName": "%A"
+    },
+    {
+      "originalName": "btnCoverClick",
+      "newName": "\u003eI"
+    },
+    {
+      "originalName": "convertSFSObject",
+      "newName": " A"
+    },
+    {
+      "originalName": "ModScreenUtils",
+      "newName": "3Z"
+    },
+    {
+      "originalName": "verify",
+      "newName": "@Z"
+    },
+    {
+      "originalName": "rebuildArray",
+      "newName": ";@"
+    },
+    {
+      "originalName": "event",
+      "newName": "7\u0027"
+    },
+    {
+      "originalName": "buddy",
+      "newName": "]O"
+    },
+    {
+      "originalName": "bitwiseTo",
+      "newName": "\u0027c"
+    },
+    {
+      "originalName": "_settings",
+      "newName": "6\u0026"
+    },
+    {
+      "originalName": "mulTo",
+      "newName": "\u003ci"
+    },
+    {
+      "originalName": "KEY_ROOM_TO_LEAVE",
+      "newName": "\u003d\u003c"
+    },
+    {
+      "originalName": "_socket",
+      "newName": "2i"
+    },
+    {
+      "originalName": "handlePublicMessage",
+      "newName": "\u0027K"
+    },
+    {
+      "originalName": "mt2",
+      "newName": "]1"
+    },
+    {
+      "originalName": "myOpponent",
+      "newName": "`+"
+    },
+    {
+      "originalName": "PRIVATE_MSG",
+      "newName": "]^"
+    },
+    {
+      "originalName": "JoinRoomInvite",
+      "newName": "\u003eB"
+    },
+    {
+      "originalName": "unescapeString",
+      "newName": "%r"
+    },
+    {
+      "originalName": "MessageRecipientMode",
+      "newName": "@\u003c"
+    },
+    {
+      "originalName": "_initted",
+      "newName": "2$"
+    },
+    {
+      "originalName": "BarrettReduction",
+      "newName": "\u003eL"
+    },
+    {
+      "originalName": "__clear_trace",
+      "newName": "??"
+    },
+    {
+      "originalName": "_notifyPluginsOfEnabled",
+      "newName": "[["
+    },
+    {
+      "originalName": "OpenGift",
+      "newName": "#"
+    },
+    {
+      "originalName": "isFull",
+      "newName": "?p"
+    },
+    {
+      "originalName": "msg",
+      "newName": "48"
+    },
+    {
+      "originalName": "KEY_USER",
+      "newName": ";7"
+    },
+    {
+      "originalName": "_binary",
+      "newName": "-d"
+    },
+    {
+      "originalName": "validateObjectMessage",
+      "newName": "2G"
+    },
+    {
+      "originalName": "sfsConnection",
+      "newName": "2D"
+    },
+    {
+      "originalName": "SFSRoom",
+      "newName": "?1"
+    },
+    {
+      "originalName": "IMetaDataContainer",
+      "newName": "\"0"
+    },
+    {
+      "originalName": "DefaultObjectDumpFormatter",
+      "newName": "-c"
+    },
+    {
+      "originalName": "newdir",
+      "newName": "^!"
+    },
+    {
+      "originalName": "ADMIN_MESSAGE",
+      "newName": "\u0027^"
+    },
+    {
+      "originalName": "from",
+      "newName": "9\u003e"
+    },
+    {
+      "originalName": "constants",
+      "newName": "%4"
+    },
+    {
+      "originalName": "currentBonusTimer",
+      "newName": "6e"
+    },
+    {
+      "originalName": "CFB8Mode",
+      "newName": "!I"
+    },
+    {
+      "originalName": "_location",
+      "newName": "?d"
+    },
+    {
+      "originalName": "volumePanelSliderMouseDown",
+      "newName": "8n"
+    },
+    {
+      "originalName": "_fullName",
+      "newName": "1;"
+    },
+    {
+      "originalName": "CheckDone",
+      "newName": "`;"
+    },
+    {
+      "originalName": "unrollDictionary",
+      "newName": "#O"
+    },
+    {
+      "originalName": "IPad",
+      "newName": "]9"
+    },
+    {
+      "originalName": "isProbablePrime",
+      "newName": ",H"
+    },
+    {
+      "originalName": "primify",
+      "newName": "\u003eU"
+    },
+    {
+      "originalName": "KEY_LIMIT",
+      "newName": "\u0027r"
+    },
+    {
+      "originalName": "INVITATION",
+      "newName": "`j"
+    },
+    {
+      "originalName": "getURL",
+      "newName": "3D"
+    },
+    {
+      "originalName": "DATA",
+      "newName": "0-"
+    },
+    {
+      "originalName": "memmove",
+      "newName": "@8"
+    },
+    {
+      "originalName": "binDecode_FLOAT_ARRAY",
+      "newName": ";\u0026"
+    },
+    {
+      "originalName": "navigationPanel",
+      "newName": "\"^"
+    },
+    {
+      "originalName": "players_mc",
+      "newName": "6\u003d"
+    },
+    {
+      "originalName": "containsVariable",
+      "newName": "5a"
+    },
+    {
+      "originalName": "OFFLINE",
+      "newName": "]I"
+    },
+    {
+      "originalName": "getCol",
+      "newName": ";4"
+    },
+    {
+      "originalName": "ALGORITHM",
+      "newName": " r"
+    },
+    {
+      "originalName": "_easeType",
+      "newName": "3P"
+    },
+    {
+      "originalName": "connectionPort",
+      "newName": "1L"
+    },
+    {
+      "originalName": "nextValidToken",
+      "newName": "8L"
+    },
+    {
+      "originalName": "_isPersistent",
+      "newName": "%X"
+    },
+    {
+      "originalName": "Rcon",
+      "newName": "`3"
+    },
+    {
+      "originalName": "BB_DEFAULT_HOST",
+      "newName": "+\u0027"
+    },
+    {
+      "originalName": "getNodeAt",
+      "newName": "5B"
+    },
+    {
+      "originalName": "value",
+      "newName": "@5"
+    },
+    {
+      "originalName": "ind",
+      "newName": " D"
+    },
+    {
+      "originalName": "PING_PONG",
+      "newName": "\u00269"
+    },
+    {
+      "originalName": "getBuddyById",
+      "newName": "\u003dJ"
+    },
+    {
+      "originalName": "intValue",
+      "newName": "]G"
+    },
+    {
+      "originalName": "handleMessage",
+      "newName": "1@"
+    },
+    {
+      "originalName": "fromArray",
+      "newName": "6?"
+    },
+    {
+      "originalName": "KEY_USER_SIZE",
+      "newName": ";P"
+    },
+    {
+      "originalName": "sfsExtensionResponse",
+      "newName": "5["
+    },
+    {
+      "originalName": "_isManaged",
+      "newName": "`$"
+    },
+    {
+      "originalName": "removeUserById",
+      "newName": "^9"
+    },
+    {
+      "originalName": "_mode",
+      "newName": "-M"
+    },
+    {
+      "originalName": "_methods",
+      "newName": "-\u003e"
+    },
+    {
+      "originalName": "sfsObjectToGenericObject",
+      "newName": "\u00261"
+    },
+    {
+      "originalName": "_capacityGetter",
+      "newName": "!\""
+    },
+    {
+      "originalName": "unlink",
+      "newName": "?0"
+    },
+    {
+      "originalName": "IDLE",
+      "newName": "`J"
+    },
+    {
+      "originalName": "_compressed",
+      "newName": "1_"
+    },
+    {
+      "originalName": "_sessionToken",
+      "newName": "1o"
+    },
+    {
+      "originalName": "btnCancelClick",
+      "newName": "9$"
+    },
+    {
+      "originalName": "getErrorMessage",
+      "newName": "\u003cb"
+    },
+    {
+      "originalName": "FriendlistItem",
+      "newName": "#k"
+    },
+    {
+      "originalName": "KEY_ROOMLIST",
+      "newName": "]#"
+    },
+    {
+      "originalName": "BI_FP",
+      "newName": "9H"
+    },
+    {
+      "originalName": "bonusScreen",
+      "newName": "0L"
+    },
+    {
+      "originalName": "rotLeft",
+      "newName": "5K"
+    },
+    {
+      "originalName": "volumePanel",
+      "newName": "7!"
+    },
+    {
+      "originalName": "onSocketData",
+      "newName": "!k"
+    },
+    {
+      "originalName": "CONNECTION_LOST",
+      "newName": "\u003cM"
+    },
+    {
+      "originalName": "Kupidon",
+      "newName": "\u003dH"
+    },
+    {
+      "originalName": "getBlockSize",
+      "newName": ";K"
+    },
+    {
+      "originalName": "Mila",
+      "newName": "\u0026Q"
+    },
+    {
+      "originalName": "genericObjectToSFSObject",
+      "newName": "#e"
+    },
+    {
+      "originalName": "setRow",
+      "newName": "5S"
+    },
+    {
+      "originalName": "DISCONNECT",
+      "newName": "+J"
+    },
+    {
+      "originalName": "__map",
+      "newName": "?\u003e"
+    },
+    {
+      "originalName": "__count",
+      "newName": "%b"
+    },
+    {
+      "originalName": "getBool",
+      "newName": "03"
+    },
+    {
+      "originalName": "_width",
+      "newName": "!"
+    },
+    {
+      "originalName": "currentBonusLblOpen",
+      "newName": "\u003c8"
+    },
+    {
+      "originalName": "__enum__",
+      "newName": "!T"
+    },
+    {
+      "originalName": "_targetController",
+      "newName": "!a"
+    },
+    {
+      "originalName": "IMatcher",
+      "newName": "3l"
+    },
+    {
+      "originalName": "IMessage",
+      "newName": "0T"
+    },
+    {
+      "originalName": "averagePingTime",
+      "newName": "\u003dC"
+    },
+    {
+      "originalName": "pool",
+      "newName": "8p"
+    },
+    {
+      "originalName": "_inviter",
+      "newName": "5]"
+    },
+    {
+      "originalName": "KEY_MINUS_ITEM_LIST",
+      "newName": "\u0026J"
+    },
+    {
+      "originalName": "version",
+      "newName": "@T"
+    },
+    {
+      "originalName": "Ease",
+      "newName": "2n"
+    },
+    {
+      "originalName": "classDescription",
+      "newName": "-["
+    },
+    {
+      "originalName": "SFSBuddy",
+      "newName": "`S"
+    },
+    {
+      "originalName": "READ_WRITE_VALUE",
+      "newName": "?["
+    },
+    {
+      "originalName": "getNameFromFullyQualifiedName",
+      "newName": "^+"
+    },
+    {
+      "originalName": "BUDDY_REMOVE",
+      "newName": "#?"
+    },
+    {
+      "originalName": "_enableEventDispatching",
+      "newName": "9O"
+    },
+    {
+      "originalName": "isModerator",
+      "newName": "[K"
+    },
+    {
+      "originalName": "sfsUserExitRoomHouse",
+      "newName": "!c"
+    },
+    {
+      "originalName": "bigSized",
+      "newName": "`6"
+    },
+    {
+      "originalName": "loadConfig",
+      "newName": "^j"
+    },
+    {
+      "originalName": "nbits",
+      "newName": "`Y"
+    },
+    {
+      "originalName": "KEY_BLIST",
+      "newName": "4`"
+    },
+    {
+      "originalName": "Al",
+      "newName": "`V"
+    },
+    {
+      "originalName": "onUserEnterRoom",
+      "newName": "\u003dA"
+    },
+    {
+      "originalName": "convertFullyQualifiedName",
+      "newName": "[b"
+    },
+    {
+      "originalName": "TicTacToe",
+      "newName": "1n"
+    },
+    {
+      "originalName": "addRoundKey",
+      "newName": "4R"
+    },
+    {
+      "originalName": "NewValentine",
+      "newName": "]K"
+    },
+    {
+      "originalName": "KEY_SPEC_SIZE",
+      "newName": "7e"
+    },
+    {
+      "originalName": "ARC4",
+      "newName": "^G"
+    },
+    {
+      "originalName": "mcBalance",
+      "newName": "98"
+    },
+    {
+      "originalName": "_invitee",
+      "newName": "`M"
+    },
+    {
+      "originalName": "LostConnectionScreen",
+      "newName": "\u00263"
+    },
+    {
+      "originalName": "addLongArray",
+      "newName": "`5"
+    },
+    {
+      "originalName": "_tail",
+      "newName": "53"
+    },
+    {
+      "originalName": "smilesPanelBtnClick",
+      "newName": " Q"
+    },
+    {
+      "originalName": "VariableType",
+      "newName": "`!"
+    },
+    {
+      "originalName": "btnEnterHouseClick",
+      "newName": "0K"
+    },
+    {
+      "originalName": "getReason",
+      "newName": "3\u003e"
+    },
+    {
+      "originalName": "binEncode_NULL",
+      "newName": "\u003de"
+    },
+    {
+      "originalName": "addData",
+      "newName": ";]"
+    },
+    {
+      "originalName": "_newMaxSpect",
+      "newName": "%9"
+    },
+    {
+      "originalName": "SFSUserManager",
+      "newName": "\"Z"
+    },
+    {
+      "originalName": "expandKey",
+      "newName": " c"
+    },
+    {
+      "originalName": "parseObject",
+      "newName": "4F"
+    },
+    {
+      "originalName": "ADMINISTRATOR",
+      "newName": "5b"
+    },
+    {
+      "originalName": "isNull",
+      "newName": "@J"
+    },
+    {
+      "originalName": "totalProgress",
+      "newName": "?K"
+    },
+    {
+      "originalName": "Parameter",
+      "newName": "@M"
+    },
+    {
+      "originalName": "getRoomListFromGroup",
+      "newName": "^b"
+    },
+    {
+      "originalName": "removePlayerId",
+      "newName": "\u00279"
+    },
+    {
+      "originalName": "initialize",
+      "newName": "\u003e!"
+    },
+    {
+      "originalName": "__insertBefore",
+      "newName": " 7"
+    },
+    {
+      "originalName": "DA",
+      "newName": "#3"
+    },
+    {
+      "originalName": "DB",
+      "newName": ";e"
+    },
+    {
+      "originalName": "_init",
+      "newName": " h"
+    },
+    {
+      "originalName": "getName",
+      "newName": ",!"
+    },
+    {
+      "originalName": "KEY_MMO_SEND_ENTRY_POINT",
+      "newName": "4!"
+    },
+    {
+      "originalName": "CWin",
+      "newName": " M"
+    },
+    {
+      "originalName": "READ_ONLY_VALUE",
+      "newName": "4Q"
+    },
+    {
+      "originalName": "DM",
+      "newName": "^\u003c"
+    },
+    {
+      "originalName": "_bits",
+      "newName": "[1"
+    },
+    {
+      "originalName": "Cr",
+      "newName": "\"k"
+    },
+    {
+      "originalName": "DV",
+      "newName": "25"
+    },
+    {
+      "originalName": "strFill",
+      "newName": "#p"
+    },
+    {
+      "originalName": "ROOM_GROUP_SUBSCRIBE",
+      "newName": "4m"
+    },
+    {
+      "originalName": "_baseParams",
+      "newName": "7K"
+    },
+    {
+      "originalName": "add",
+      "newName": "+C"
+    },
+    {
+      "originalName": "_scrollBar",
+      "newName": "!e"
+    },
+    {
+      "originalName": "_queueSize",
+      "newName": ",5"
+    },
+    {
+      "originalName": "_isEncrypted",
+      "newName": "6T"
+    },
+    {
+      "originalName": "PingPongRequest",
+      "newName": "!Y"
+    },
+    {
+      "originalName": "KEY_INVITATION_ID",
+      "newName": "7"
+    },
+    {
+      "originalName": "delayedCall",
+      "newName": "-1"
+    },
+    {
+      "originalName": "setClientDetails",
+      "newName": "4\u0027"
+    },
+    {
+      "originalName": "divideAndRemainder",
+      "newName": " -"
+    },
+    {
+      "originalName": "exchange",
+      "newName": "\"\u003e"
+    },
+    {
+      "originalName": "GoOnlineRequest",
+      "newName": "^P"
+    },
+    {
+      "originalName": "AnimInvisible",
+      "newName": "-!"
+    },
+    {
+      "originalName": "Sbox",
+      "newName": "3H"
+    },
+    {
+      "originalName": "scrl",
+      "newName": "0N"
+    },
+    {
+      "originalName": "PROXIMITY_LIST_UPDATE",
+      "newName": "?9"
+    },
+    {
+      "originalName": "DLL",
+      "newName": "6#"
+    },
+    {
+      "originalName": "getIntValue",
+      "newName": "\u003dB"
+    },
+    {
+      "originalName": "ISFSArray",
+      "newName": "#P"
+    },
+    {
+      "originalName": "setPlayerId",
+      "newName": "\u003c\u003c"
+    },
+    {
+      "originalName": "getDouble",
+      "newName": "\u0026P"
+    },
+    {
+      "originalName": "toMMSS",
+      "newName": "\u0027b"
+    },
+    {
+      "originalName": "mm.rooms",
+      "newName": "\u003c?"
+    },
+    {
+      "originalName": "BIT_ZERO",
+      "newName": "`\u0026"
+    },
+    {
+      "originalName": "OBJECT_MESSAGE",
+      "newName": "`2"
+    },
+    {
+      "originalName": "_decrypt",
+      "newName": "2@"
+    },
+    {
+      "originalName": "_errors",
+      "newName": "59"
+    },
+    {
+      "originalName": "FV",
+      "newName": "%l"
+    },
+    {
+      "originalName": "putShort",
+      "newName": "31"
+    },
+    {
+      "originalName": "LEFT_THE_SERVER",
+      "newName": "-r"
+    },
+    {
+      "originalName": "lines",
+      "newName": "9e"
+    },
+    {
+      "originalName": "binEncode_TEXT",
+      "newName": "4A"
+    },
+    {
+      "originalName": "cipher",
+      "newName": "8I"
+    },
+    {
+      "originalName": "_extCmd",
+      "newName": "3\u0027"
+    },
+    {
+      "originalName": "isEmpty",
+      "newName": "6o"
+    },
+    {
+      "originalName": "KEY_BUDDY_VARS",
+      "newName": "\u0027m"
+    },
+    {
+      "originalName": "getUnsignedByte",
+      "newName": "6B"
+    },
+    {
+      "originalName": "getNext",
+      "newName": "\u0026Z"
+    },
+    {
+      "originalName": "updateItems",
+      "newName": "82"
+    },
+    {
+      "originalName": "WRITE_ONLY",
+      "newName": "+n"
+    },
+    {
+      "originalName": "message",
+      "newName": "7["
+    },
+    {
+      "originalName": "itemLabel",
+      "newName": "[@"
+    },
+    {
+      "originalName": "Avatar",
+      "newName": "\u00276"
+    },
+    {
+      "originalName": "core_md5",
+      "newName": ";O"
+    },
+    {
+      "originalName": "KEY_ERROR_CODE",
+      "newName": "?\""
+    },
+    {
+      "originalName": "skipComments",
+      "newName": "3!"
+    },
+    {
+      "originalName": "lblPlace",
+      "newName": "^l"
+    },
+    {
+      "originalName": "dataHolder",
+      "newName": " m"
+    },
+    {
+      "originalName": "_usersById",
+      "newName": "\u003c@"
+    },
+    {
+      "originalName": "populateArrayWithValue",
+      "newName": ",\u0026"
+    },
+    {
+      "originalName": "binEncode_BOOL_ARRAY",
+      "newName": "85"
+    },
+    {
+      "originalName": "protocolCodec",
+      "newName": "\"["
+    },
+    {
+      "originalName": "IVMode",
+      "newName": "%\""
+    },
+    {
+      "originalName": "_badge",
+      "newName": "0m"
+    },
+    {
+      "originalName": "SHORT_BYTE_SIZE",
+      "newName": "\u0027d"
+    },
+    {
+      "originalName": "BUDDY_ONLINE_STATE_UPDATE",
+      "newName": "`m"
+    },
+    {
+      "originalName": "Gs",
+      "newName": "\u0026`"
+    },
+    {
+      "originalName": "CLASS_MARKER_KEY",
+      "newName": "\u0026?"
+    },
+    {
+      "originalName": "_aoi",
+      "newName": " ,"
+    },
+    {
+      "originalName": "PopupTicTacToeRules",
+      "newName": "\u003di"
+    },
+    {
+      "originalName": "cartPanel",
+      "newName": "6Y"
+    },
+    {
+      "originalName": "getHexDump",
+      "newName": "6j"
+    },
+    {
+      "originalName": "getDump",
+      "newName": "36"
+    },
+    {
+      "originalName": "btnHouseClick",
+      "newName": "2H"
+    },
+    {
+      "originalName": "asString",
+      "newName": "#F"
+    },
+    {
+      "originalName": "_counter",
+      "newName": "\u003c!"
+    },
+    {
+      "originalName": "RatingScreen",
+      "newName": ",f"
+    },
+    {
+      "originalName": "addSFSObject",
+      "newName": "@I"
+    },
+    {
+      "originalName": "classInfo",
+      "newName": "?H"
+    },
+    {
+      "originalName": "_isPasswordProtected",
+      "newName": "\"3"
+    },
+    {
+      "originalName": "btnStatusFriendsClick",
+      "newName": "\"@"
+    },
+    {
+      "originalName": "cellToIndex",
+      "newName": "1k"
+    },
+    {
+      "originalName": "applicationDomain",
+      "newName": "1`"
+    },
+    {
+      "originalName": "stopReconnection",
+      "newName": "+T"
+    },
+    {
+      "originalName": "DOT",
+      "newName": "4]"
+    },
+    {
+      "originalName": "IV",
+      "newName": "\u0027N"
+    },
+    {
+      "originalName": "btnAccept",
+      "newName": "9P"
+    },
+    {
+      "originalName": "_connected",
+      "newName": ",,"
+    },
+    {
+      "originalName": "putFloat",
+      "newName": "6J"
+    },
+    {
+      "originalName": "isTail",
+      "newName": "#%"
+    },
+    {
+      "originalName": "nbi",
+      "newName": "1J"
+    },
+    {
+      "originalName": "nextToken",
+      "newName": "^^"
+    },
+    {
+      "originalName": "MapLimits",
+      "newName": "]b"
+    },
+    {
+      "originalName": "addCustomController",
+      "newName": "?\u0027"
+    },
+    {
+      "originalName": "CMD_DATA",
+      "newName": "^\u0026"
+    },
+    {
+      "originalName": "executeSuperUserMessage",
+      "newName": "[4"
+    },
+    {
+      "originalName": "nbv",
+      "newName": "7$"
+    },
+    {
+      "originalName": "prependTo",
+      "newName": "`\u003d"
+    },
+    {
+      "originalName": "putDouble",
+      "newName": "[j"
+    },
+    {
+      "originalName": "addByteArray",
+      "newName": "]X"
+    },
+    {
+      "originalName": "ROOM_JOIN_ERROR",
+      "newName": ";["
+    },
+    {
+      "originalName": "TO_ZONE",
+      "newName": "9X"
+    },
+    {
+      "originalName": "setWear",
+      "newName": "5`"
+    },
+    {
+      "originalName": "udpAvailable",
+      "newName": "\u003cF"
+    },
+    {
+      "originalName": "handleDataSizeFragment",
+      "newName": "1e"
+    },
+    {
+      "originalName": "KEY_BUDDY_ID",
+      "newName": "+Z"
+    },
+    {
+      "originalName": "rTact",
+      "newName": "-o"
+    },
+    {
+      "originalName": "toArrayedStack",
+      "newName": "22"
+    },
+    {
+      "originalName": "COMMA",
+      "newName": "0_"
+    },
+    {
+      "originalName": "forName",
+      "newName": "^V"
+    },
+    {
+      "originalName": "AbstractMember",
+      "newName": "\"\u0027"
+    },
+    {
+      "originalName": "KP",
+      "newName": "-F"
+    },
+    {
+      "originalName": "chpAddMessage",
+      "newName": "?L"
+    },
+    {
+      "originalName": "PRIVATE",
+      "newName": "1^"
+    },
+    {
+      "originalName": "chainedMatchExpression",
+      "newName": "%R"
+    },
+    {
+      "originalName": "_tinyNum",
+      "newName": "5L"
+    },
+    {
+      "originalName": "gTact",
+      "newName": " B"
+    },
+    {
+      "originalName": "removeJoinedRoom",
+      "newName": "\u003e^"
+    },
+    {
+      "originalName": "IBuddyManager",
+      "newName": "8N"
+    },
+    {
+      "originalName": "_usersByName",
+      "newName": "%Y"
+    },
+    {
+      "originalName": "DefaultSFSDataSerializer",
+      "newName": "\u00274"
+    },
+    {
+      "originalName": "getMD5Hash",
+      "newName": "89"
+    },
+    {
+      "originalName": "_sessId",
+      "newName": "]\u003e"
+    },
+    {
+      "originalName": "page_houses",
+      "newName": "[\u0027"
+    },
+    {
+      "originalName": "ARRAY",
+      "newName": "-K"
+    },
+    {
+      "originalName": "_proximityListUpdateMillis",
+      "newName": " F"
+    },
+    {
+      "originalName": "JSONTokenType",
+      "newName": "2\u003d"
+    },
+    {
+      "originalName": "btnBonusClick",
+      "newName": "2%"
+    },
+    {
+      "originalName": "dequeue",
+      "newName": "0X"
+    },
+    {
+      "originalName": "ClassicReduction",
+      "newName": "%j"
+    },
+    {
+      "originalName": "compareTo",
+      "newName": "^\u003d"
+    },
+    {
+      "originalName": "_startAt",
+      "newName": "3R"
+    },
+    {
+      "originalName": "Glow",
+      "newName": "9p"
+    },
+    {
+      "originalName": "mode",
+      "newName": "2Q"
+    },
+    {
+      "originalName": "binEncode_LONG",
+      "newName": "+1"
+    },
+    {
+      "originalName": "_subVersion",
+      "newName": "@Q"
+    },
+    {
+      "originalName": "_headPool",
+      "newName": " C"
+    },
+    {
+      "originalName": "buffer",
+      "newName": "\u0026r"
+    },
+    {
+      "originalName": "getMode",
+      "newName": " V"
+    },
+    {
+      "originalName": "httpSocket",
+      "newName": "6%"
+    },
+    {
+      "originalName": "com.greensock",
+      "newName": "\u003c\u003d"
+    },
+    {
+      "originalName": "getElementAt",
+      "newName": "[I"
+    },
+    {
+      "originalName": "ModScreen",
+      "newName": "%K"
+    },
+    {
+      "originalName": "addClass",
+      "newName": "1b"
+    },
+    {
+      "originalName": "_pass",
+      "newName": "-g"
+    },
+    {
+      "originalName": "_allowUserCountChange",
+      "newName": "-j"
+    },
+    {
+      "originalName": "ISFSDataSerializer",
+      "newName": "\u0027i"
+    },
+    {
+      "originalName": "_ease",
+      "newName": "!h"
+    },
+    {
+      "originalName": "rnd",
+      "newName": "@%"
+    },
+    {
+      "originalName": "newInstance",
+      "newName": "\u0026A"
+    },
+    {
+      "originalName": "setTurn",
+      "newName": "5C"
+    },
+    {
+      "originalName": "enableBBoxDebug",
+      "newName": "3E"
+    },
+    {
+      "originalName": "dzAllow",
+      "newName": "+4"
+    },
+    {
+      "originalName": "leaveGame",
+      "newName": "+d"
+    },
+    {
+      "originalName": "activate",
+      "newName": "#l"
+    },
+    {
+      "originalName": "VOID",
+      "newName": "1R"
+    },
+    {
+      "originalName": "object2binary",
+      "newName": "+?"
+    },
+    {
+      "originalName": "_sfso",
+      "newName": "6Z"
+    },
+    {
+      "originalName": "getRoomById",
+      "newName": "5n"
+    },
+    {
+      "originalName": "animInvisible",
+      "newName": "\u003cf"
+    },
+    {
+      "originalName": "Dynamic",
+      "newName": "?e"
+    },
+    {
+      "originalName": "DataLoadingScreen",
+      "newName": "\u0026o"
+    },
+    {
+      "originalName": "SFSCodecError",
+      "newName": ";n"
+    },
+    {
+      "originalName": "_isStatic",
+      "newName": "8J"
+    },
+    {
+      "originalName": "serializer",
+      "newName": "-9"
+    },
+    {
+      "originalName": "mm.CalendarDay.Elements",
+      "newName": "5J"
+    },
+    {
+      "originalName": "isSpectatorInRoom",
+      "newName": "6K"
+    },
+    {
+      "originalName": "inRange",
+      "newName": "`f"
+    },
+    {
+      "originalName": "READ_ONLY",
+      "newName": "+S"
+    },
+    {
+      "originalName": "rol",
+      "newName": "?h"
+    },
+    {
+      "originalName": "MASK_SPECIFIERS",
+      "newName": "!#"
+    },
+    {
+      "originalName": "isDebug",
+      "newName": " b"
+    },
+    {
+      "originalName": "_updateRoot",
+      "newName": "0q"
+    },
+    {
+      "originalName": "Nb",
+      "newName": "!,"
+    },
+    {
+      "originalName": "ror",
+      "newName": "\u0026n"
+    },
+    {
+      "originalName": "setLocation",
+      "newName": "#L"
+    },
+    {
+      "originalName": "binDecode_LONG",
+      "newName": "\"B"
+    },
+    {
+      "originalName": "and",
+      "newName": "9S"
+    },
+    {
+      "originalName": "BuyScreen",
+      "newName": "\u0027J"
+    },
+    {
+      "originalName": "dump",
+      "newName": "!O"
+    },
+    {
+      "originalName": "onBBConnect",
+      "newName": "2a"
+    },
+    {
+      "originalName": "encodeByteArray",
+      "newName": "\u003dm"
+    },
+    {
+      "originalName": "render",
+      "newName": "+6"
+    },
+    {
+      "originalName": "evt",
+      "newName": "4f"
+    },
+    {
+      "originalName": "skipIgnored",
+      "newName": "[#"
+    },
+    {
+      "originalName": "setVariables",
+      "newName": "+P"
+    },
+    {
+      "originalName": "binEncode_UTF_STRING_ARRAY",
+      "newName": "9D"
+    },
+    {
+      "originalName": "Nr",
+      "newName": "^"
+    },
+    {
+      "originalName": "blueBoxed",
+      "newName": "+2"
+    },
+    {
+      "originalName": "KEY_ISGAME",
+      "newName": ",n"
+    },
+    {
+      "originalName": "MetaDataArgument",
+      "newName": "%E"
+    },
+    {
+      "originalName": "removeHead",
+      "newName": "#n"
+    },
+    {
+      "originalName": "encrypted",
+      "newName": "]p"
+    },
+    {
+      "originalName": "SFSBuddyManager",
+      "newName": ",-"
+    },
+    {
+      "originalName": "binDecode_FLOAT",
+      "newName": "?@"
+    },
+    {
+      "originalName": "CFBMode",
+      "newName": "2]"
+    },
+    {
+      "originalName": "ROOM_CREATION_ERROR",
+      "newName": "6L"
+    },
+    {
+      "originalName": "transpose",
+      "newName": "%o"
+    },
+    {
+      "originalName": "Main",
+      "newName": "%%"
+    },
+    {
+      "originalName": "remainder",
+      "newName": "\u0027M"
+    },
+    {
+      "originalName": "furnitureMouseMove",
+      "newName": "\u003eT"
+    },
+    {
+      "originalName": "unpad",
+      "newName": "24"
+    },
+    {
+      "originalName": "skip_constructor",
+      "newName": "2`"
+    },
+    {
+      "originalName": "handleModMessage",
+      "newName": "?f"
+    },
+    {
+      "originalName": "connectionIp",
+      "newName": "[\u003c"
+    },
+    {
+      "originalName": "userMaxLimboSeconds",
+      "newName": "[;"
+    },
+    {
+      "originalName": "removeRoom",
+      "newName": "]e"
+    },
+    {
+      "originalName": "getPoolSize",
+      "newName": "]`"
+    },
+    {
+      "originalName": "_checkOverlap",
+      "newName": "?n"
+    },
+    {
+      "originalName": "PUBLIC_MSG",
+      "newName": "\u003co"
+    },
+    {
+      "originalName": "SFSBuddyVariable",
+      "newName": "`K"
+    },
+    {
+      "originalName": "UserVariable",
+      "newName": "6Q"
+    },
+    {
+      "originalName": "AutoJoin",
+      "newName": "\u0026M"
+    },
+    {
+      "originalName": "handleNewPacket",
+      "newName": "0a"
+    },
+    {
+      "originalName": "enableBoard",
+      "newName": "]J"
+    },
+    {
+      "originalName": "JSONEncoder",
+      "newName": "^`"
+    },
+    {
+      "originalName": "exp",
+      "newName": "6!"
+    },
+    {
+      "originalName": "MontgomeryReduction",
+      "newName": " L"
+    },
+    {
+      "originalName": "binDecode_TEXT",
+      "newName": "28"
+    },
+    {
+      "originalName": "_controllers",
+      "newName": "#1"
+    },
+    {
+      "originalName": "controlCharsRegExp",
+      "newName": "3B"
+    },
+    {
+      "originalName": "listPanel",
+      "newName": "\u003en"
+    },
+    {
+      "originalName": "tweenFinish",
+      "newName": "+5"
+    },
+    {
+      "originalName": "bytebit",
+      "newName": "?"
+    },
+    {
+      "originalName": "_metaData",
+      "newName": "3$"
+    },
+    {
+      "originalName": "isAdmin",
+      "newName": ",0"
+    },
+    {
+      "originalName": "NUM_ROUNDS",
+      "newName": "?E"
+    },
+    {
+      "originalName": "toSLL",
+      "newName": "\u003eQ"
+    },
+    {
+      "originalName": "_roomIdToLeave",
+      "newName": ";R"
+    },
+    {
+      "originalName": "addFloatArray",
+      "newName": "\u0026C"
+    },
+    {
+      "originalName": "sfsConnectionLost",
+      "newName": "1#"
+    },
+    {
+      "originalName": "_progress",
+      "newName": "2_"
+    },
+    {
+      "originalName": "_valid",
+      "newName": "4L"
+    },
+    {
+      "originalName": "_InvSbox",
+      "newName": "%-"
+    },
+    {
+      "originalName": "scrollManage",
+      "newName": ";H"
+    },
+    {
+      "originalName": "isBuddyListInited",
+      "newName": "!d"
+    },
+    {
+      "originalName": "handleBuddyMessage",
+      "newName": "?3"
+    },
+    {
+      "originalName": "btnAddFriendClick",
+      "newName": "``"
+    },
+    {
+      "originalName": "ICipher",
+      "newName": "+3"
+    },
+    {
+      "originalName": "newFromArray",
+      "newName": "#\""
+    },
+    {
+      "originalName": "bigRandom",
+      "newName": "96"
+    },
+    {
+      "originalName": "rotRight",
+      "newName": "8\u003e"
+    },
+    {
+      "originalName": "nextByte",
+      "newName": "\u0027\u003d"
+    },
+    {
+      "originalName": "_zoneName",
+      "newName": "7g"
+    },
+    {
+      "originalName": "allowUserEnter",
+      "newName": ";8"
+    },
+    {
+      "originalName": "CartItem",
+      "newName": ",q"
+    },
+    {
+      "originalName": "friendsScreen",
+      "newName": "1I"
+    },
+    {
+      "originalName": "_loggingPrefix",
+      "newName": "\u003dQ"
+    },
+    {
+      "originalName": "WRITE_ONLY_VALUE",
+      "newName": "\u003eP"
+    },
+    {
+      "originalName": "_events",
+      "newName": "\u0026]"
+    },
+    {
+      "originalName": "KEY_EVENTS",
+      "newName": "#^"
+    },
+    {
+      "originalName": "BitSwarmClient",
+      "newName": "5o"
+    },
+    {
+      "originalName": "btnOutcomingRequestsClick",
+      "newName": "]%"
+    },
+    {
+      "originalName": "putByte",
+      "newName": "9j"
+    },
+    {
+      "originalName": "removeElementAt",
+      "newName": "?U"
+    },
+    {
+      "originalName": "Bits32ToBytes",
+      "newName": ",i"
+    },
+    {
+      "originalName": "decodedObject",
+      "newName": "`4"
+    },
+    {
+      "originalName": "Lib",
+      "newName": "\"A"
+    },
+    {
+      "originalName": "LeaveRoom",
+      "newName": "8Q"
+    },
+    {
+      "originalName": "sessionId",
+      "newName": "?+"
+    },
+    {
+      "originalName": "containsUserId",
+      "newName": "5e"
+    },
+    {
+      "originalName": "KEY_MINUS_USER_LIST",
+      "newName": "\u003d\u003d"
+    },
+    {
+      "originalName": "unwrapAsField",
+      "newName": " 0"
+    },
+    {
+      "originalName": "ROOM_GROUP_SUBSCRIBE_ERROR",
+      "newName": "#E"
+    },
+    {
+      "originalName": "writeTCP",
+      "newName": "5!"
+    },
+    {
+      "originalName": "ConfigData",
+      "newName": "[P"
+    },
+    {
+      "originalName": "_mySelf",
+      "newName": ";#"
+    },
+    {
+      "originalName": "setSound",
+      "newName": "3]"
+    },
+    {
+      "originalName": "CircularDLLIterator",
+      "newName": "[_"
+    },
+    {
+      "originalName": "removeBuddyByName",
+      "newName": "%m"
+    },
+    {
+      "originalName": "MODERATOR",
+      "newName": "@["
+    },
+    {
+      "originalName": "fromSFSArray",
+      "newName": "[H"
+    },
+    {
+      "originalName": "ballColors",
+      "newName": "%8"
+    },
+    {
+      "originalName": "KEY_MMO_MAP_LOW_LIMIT",
+      "newName": "3V"
+    },
+    {
+      "originalName": "isCircular",
+      "newName": "2;"
+    },
+    {
+      "originalName": "_asSpectator",
+      "newName": ";6"
+    },
+    {
+      "originalName": "mm.screens",
+      "newName": "6C"
+    },
+    {
+      "originalName": "run",
+      "newName": "\u003c\u0027"
+    },
+    {
+      "originalName": "RatingScreenUtils",
+      "newName": "\u0026T"
+    },
+    {
+      "originalName": "_maxVariables",
+      "newName": "\u0026h"
+    },
+    {
+      "originalName": "shiftLeft",
+      "newName": "\u0027R"
+    },
+    {
+      "originalName": "getOnlineVariables",
+      "newName": "!1"
+    },
+    {
+      "originalName": "TOKEN_INDENT_CLOSE",
+      "newName": "-?"
+    },
+    {
+      "originalName": "_itemsById",
+      "newName": "3N"
+    },
+    {
+      "originalName": "_isItMe",
+      "newName": "!N"
+    },
+    {
+      "originalName": "decKey",
+      "newName": "@P"
+    },
+    {
+      "originalName": "moveReceived",
+      "newName": "0o"
+    },
+    {
+      "originalName": "joinedRooms",
+      "newName": "`\u0027"
+    },
+    {
+      "originalName": "KEY_BUDDY_STATES",
+      "newName": "6D"
+    },
+    {
+      "originalName": "setBalanceRegular",
+      "newName": "4-"
+    },
+    {
+      "originalName": "backgroundsParams",
+      "newName": "@B"
+    },
+    {
+      "originalName": "prependRow",
+      "newName": "[Q"
+    },
+    {
+      "originalName": "getFromString",
+      "newName": ",["
+    },
+    {
+      "originalName": "removeUserReference",
+      "newName": "`I"
+    },
+    {
+      "originalName": "mm.CalendarDay",
+      "newName": "[$"
+    },
+    {
+      "originalName": "name",
+      "newName": "`1"
+    },
+    {
+      "originalName": "heightModifer",
+      "newName": "7h"
+    },
+    {
+      "originalName": "responseParams",
+      "newName": "3^"
+    },
+    {
+      "originalName": "removeUserVariable",
+      "newName": "`b"
+    },
+    {
+      "originalName": "fields",
+      "newName": "\u0026p"
+    },
+    {
+      "originalName": "parameters",
+      "newName": "^8"
+    },
+    {
+      "originalName": "IController",
+      "newName": "#D"
+    },
+    {
+      "originalName": "getShortArray",
+      "newName": "5X"
+    },
+    {
+      "originalName": "locationMouseMove",
+      "newName": "@n"
+    },
+    {
+      "originalName": "furniturePanelBtnCancelClick",
+      "newName": "\"O"
+    },
+    {
+      "originalName": "binDecode_NULL",
+      "newName": "3Y"
+    },
+    {
+      "originalName": "httpUploadURI",
+      "newName": "\u0026,"
+    },
+    {
+      "originalName": "Step",
+      "newName": "1F"
+    },
+    {
+      "originalName": "_clientDetails",
+      "newName": "2\u003c"
+    },
+    {
+      "originalName": "ClassUtils",
+      "newName": "\"Y"
+    },
+    {
+      "originalName": "binEncode_DOUBLE",
+      "newName": "\u0026W"
+    },
+    {
+      "originalName": "not",
+      "newName": "+N"
+    },
+    {
+      "originalName": "moveZone",
+      "newName": "+c"
+    },
+    {
+      "originalName": "Valentine_Cr",
+      "newName": "90"
+    },
+    {
+      "originalName": "now",
+      "newName": "5c"
+    },
+    {
+      "originalName": "_cryptoKey",
+      "newName": "!q"
+    },
+    {
+      "originalName": "_step",
+      "newName": "[V"
+    },
+    {
+      "originalName": "HASH_SIZE",
+      "newName": "\u003eC"
+    },
+    {
+      "originalName": "killDelayedCallsTo",
+      "newName": "7A"
+    },
+    {
+      "originalName": "scrollSliderMove",
+      "newName": " P"
+    },
+    {
+      "originalName": "Giftes",
+      "newName": "%$"
+    },
+    {
+      "originalName": "checkValidToken",
+      "newName": "@@"
+    },
+    {
+      "originalName": "allowPublicMessages",
+      "newName": ",j"
+    },
+    {
+      "originalName": "furnitureMouseUp",
+      "newName": ";%"
+    },
+    {
+      "originalName": "fromId",
+      "newName": "`n"
+    },
+    {
+      "originalName": "sfsUserExitRoom",
+      "newName": "`D"
+    },
+    {
+      "originalName": "_autoConnectOnConfig",
+      "newName": "\u0026V"
+    },
+    {
+      "originalName": "destroyFurniturePanel",
+      "newName": "6\u003c"
+    },
+    {
+      "originalName": "_playerIdByRoomId",
+      "newName": "1\""
+    },
+    {
+      "originalName": "Alert",
+      "newName": "6\""
+    },
+    {
+      "originalName": "Hex",
+      "newName": "#S"
+    },
+    {
+      "originalName": "loggingLevel",
+      "newName": "9k"
+    },
+    {
+      "originalName": "NumberFormat",
+      "newName": "3\u003d"
+    },
+    {
+      "originalName": "bitLength",
+      "newName": "3g"
+    },
+    {
+      "originalName": "NextBubble",
+      "newName": "0k"
+    },
+    {
+      "originalName": "_isJoining",
+      "newName": "+-"
+    },
+    {
+      "originalName": "logger",
+      "newName": "+I"
+    },
+    {
+      "originalName": "parseError",
+      "newName": "5\u003d"
+    },
+    {
+      "originalName": "cart",
+      "newName": ",M"
+    },
+    {
+      "originalName": "_quickSortComparable",
+      "newName": "@a"
+    },
+    {
+      "originalName": "SFSError",
+      "newName": "`q"
+    },
+    {
+      "originalName": "furniturePanel",
+      "newName": "-b"
+    },
+    {
+      "originalName": "IMMOItemVariable",
+      "newName": "6P"
+    },
+    {
+      "originalName": "SpectatorToPlayerRequest",
+      "newName": "2q"
+    },
+    {
+      "originalName": "MMOItemVariable",
+      "newName": "@q"
+    },
+    {
+      "originalName": "inventoryItemClick",
+      "newName": "\u003cE"
+    },
+    {
+      "originalName": "onHttpIOError",
+      "newName": "\u003c\u003e"
+    },
+    {
+      "originalName": "KEY_MAXVARS",
+      "newName": "2f"
+    },
+    {
+      "originalName": "item",
+      "newName": "55"
+    },
+    {
+      "originalName": "udpHost",
+      "newName": "-S"
+    },
+    {
+      "originalName": "btnYesClick",
+      "newName": "\u003dk"
+    },
+    {
+      "originalName": "setPasswordProtected",
+      "newName": "65"
+    },
+    {
+      "originalName": "Mask",
+      "newName": "^T"
+    },
+    {
+      "originalName": "seeded",
+      "newName": ",6"
+    },
+    {
+      "originalName": "btnInventoryClick",
+      "newName": "7U"
+    },
+    {
+      "originalName": "IPRNG",
+      "newName": "#`"
+    },
+    {
+      "originalName": "KEY_ROOM_NAME",
+      "newName": "`U"
+    },
+    {
+      "originalName": "binEncode_UTF_STRING",
+      "newName": "\u0027D"
+    },
+    {
+      "originalName": "killTweensOf",
+      "newName": "]\u0027"
+    },
+    {
+      "originalName": "hexDump",
+      "newName": "`W"
+    },
+    {
+      "originalName": "DAIterator",
+      "newName": "[+"
+    },
+    {
+      "originalName": "KickUser",
+      "newName": "!3"
+    },
+    {
+      "originalName": "encodeSFSObjectKey",
+      "newName": "3@"
+    },
+    {
+      "originalName": "pagesCount",
+      "newName": "8H"
+    },
+    {
+      "originalName": "ArrayedStackIterator",
+      "newName": "@b"
+    },
+    {
+      "originalName": "bounds",
+      "newName": "^S"
+    },
+    {
+      "originalName": "setAtIndex",
+      "newName": "4@"
+    },
+    {
+      "originalName": "reset",
+      "newName": "!@"
+    },
+    {
+      "originalName": "dlShiftTo",
+      "newName": "1V"
+    },
+    {
+      "originalName": "__trace",
+      "newName": "?5"
+    },
+    {
+      "originalName": "nsh",
+      "newName": "!o"
+    },
+    {
+      "originalName": "BlockBuddyRequest",
+      "newName": "?l"
+    },
+    {
+      "originalName": "MMOItem",
+      "newName": "\u003cj"
+    },
+    {
+      "originalName": "mcBackgroundChange",
+      "newName": "1a"
+    },
+    {
+      "originalName": "fromBinary",
+      "newName": "\u0027Z"
+    },
+    {
+      "originalName": "fromTo",
+      "newName": ",9"
+    },
+    {
+      "originalName": "_mergeSortComparable",
+      "newName": "8o"
+    },
+    {
+      "originalName": "BanUser",
+      "newName": "8+"
+    },
+    {
+      "originalName": "op_or",
+      "newName": "]D"
+    },
+    {
+      "originalName": "USER_EXIT_ROOM",
+      "newName": ";?"
+    },
+    {
+      "originalName": "SimpleTimeline",
+      "newName": "^O"
+    },
+    {
+      "originalName": "KEY_AUTOJOIN",
+      "newName": "\u003e\u003e"
+    },
+    {
+      "originalName": "loadList",
+      "newName": "7N"
+    },
+    {
+      "originalName": "startTime",
+      "newName": "+#"
+    },
+    {
+      "originalName": "setDirection",
+      "newName": ",`"
+    },
+    {
+      "originalName": "BaseVariable",
+      "newName": "\u003cP"
+    },
+    {
+      "originalName": "IStreamCipher",
+      "newName": "?J"
+    },
+    {
+      "originalName": "de.polygonal.core.fmt",
+      "newName": "?6"
+    },
+    {
+      "originalName": "generateWorkingKey",
+      "newName": "!P"
+    },
+    {
+      "originalName": "_lock",
+      "newName": "?O"
+    },
+    {
+      "originalName": "listPanelBtnFullScreenClick",
+      "newName": "\u003d,"
+    },
+    {
+      "originalName": "friendlist",
+      "newName": "@V"
+    },
+    {
+      "originalName": "KEY_CLIENT_TYPE",
+      "newName": "0?"
+    },
+    {
+      "originalName": "kill",
+      "newName": "74"
+    },
+    {
+      "originalName": "toKeyDA",
+      "newName": "7D"
+    },
+    {
+      "originalName": "BuddyOnlineState",
+      "newName": "\u0027["
+    },
+    {
+      "originalName": "endPoint",
+      "newName": "%_"
+    },
+    {
+      "originalName": "getTypeFromName",
+      "newName": "1\u0026"
+    },
+    {
+      "originalName": "sliderUp",
+      "newName": "]a"
+    },
+    {
+      "originalName": "_properties",
+      "newName": " 3"
+    },
+    {
+      "originalName": "addTo",
+      "newName": "!_"
+    },
+    {
+      "originalName": "ROOM_ADD",
+      "newName": "8f"
+    },
+    {
+      "originalName": "parseValue",
+      "newName": "1c"
+    },
+    {
+      "originalName": "_text",
+      "newName": "?W"
+    },
+    {
+      "originalName": "HashMapValIterator",
+      "newName": "-3"
+    },
+    {
+      "originalName": "getClass",
+      "newName": "\u003cH"
+    },
+    {
+      "originalName": "_frame",
+      "newName": "-Q"
+    },
+    {
+      "originalName": "getH",
+      "newName": "%\u0026"
+    },
+    {
+      "originalName": "lastError",
+      "newName": "2"
+    },
+    {
+      "originalName": "getIndex",
+      "newName": "!l"
+    },
+    {
+      "originalName": "addUser",
+      "newName": "@9"
+    },
+    {
+      "originalName": "defaultAOI",
+      "newName": "[\u0026"
+    },
+    {
+      "originalName": "used",
+      "newName": "9f"
+    },
+    {
+      "originalName": "SelectG",
+      "newName": "]\u003c"
+    },
+    {
+      "originalName": "getUserList",
+      "newName": "]T"
+    },
+    {
+      "originalName": "_staticConstants",
+      "newName": "-\u0026"
+    },
+    {
+      "originalName": "MetaData",
+      "newName": "7H"
+    },
+    {
+      "originalName": "_roomToLeave",
+      "newName": "++"
+    },
+    {
+      "originalName": "FurniturePanelListItem",
+      "newName": "\u003d6"
+    },
+    {
+      "originalName": "getD",
+      "newName": "\u003cW"
+    },
+    {
+      "originalName": "wgs",
+      "newName": "9T"
+    },
+    {
+      "originalName": "moveAvatar",
+      "newName": "!7"
+    },
+    {
+      "originalName": "TO_ROOM",
+      "newName": "\"+"
+    },
+    {
+      "originalName": "lblProgress",
+      "newName": "%L"
+    },
+    {
+      "originalName": "putInt",
+      "newName": "?_"
+    },
+    {
+      "originalName": "containsKey",
+      "newName": "\u003c$"
+    },
+    {
+      "originalName": "killConnection",
+      "newName": "\u0026L"
+    },
+    {
+      "originalName": "LoadingScreen",
+      "newName": "@\u0027"
+    },
+    {
+      "originalName": "loadingScreen",
+      "newName": "?V"
+    },
+    {
+      "originalName": "SetUserVariablesRequest",
+      "newName": "8b"
+    },
+    {
+      "originalName": "doPrivate",
+      "newName": " +"
+    },
+    {
+      "originalName": "currentIp",
+      "newName": "41"
+    },
+    {
+      "originalName": "_varName",
+      "newName": "\u0027;"
+    },
+    {
+      "originalName": "changeHouseStatus",
+      "newName": "\u0026^"
+    },
+    {
+      "originalName": "btnViewClick",
+      "newName": " e"
+    },
+    {
+      "originalName": "btnBanIPClick",
+      "newName": "\u003dK"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.util",
+      "newName": "\u0027A"
+    },
+    {
+      "originalName": "LagMonitor",
+      "newName": "4I"
+    },
+    {
+      "originalName": "_class",
+      "newName": "3-"
+    },
+    {
+      "originalName": "_ioHandler",
+      "newName": "45"
+    },
+    {
+      "originalName": "modPow",
+      "newName": "\u003d;"
+    },
+    {
+      "originalName": "_bbUrl",
+      "newName": "7+"
+    },
+    {
+      "originalName": "_parameters",
+      "newName": "6\u0027"
+    },
+    {
+      "originalName": "Message",
+      "newName": "\u00273"
+    },
+    {
+      "originalName": "BaseController",
+      "newName": "3O"
+    },
+    {
+      "originalName": "appendCol",
+      "newName": "#\u003c"
+    },
+    {
+      "originalName": "BIT_PLUS",
+      "newName": "95"
+    },
+    {
+      "originalName": "BLOCK_SIZE",
+      "newName": "\u003dX"
+    },
+    {
+      "originalName": "btnKickUserClick",
+      "newName": "0["
+    },
+    {
+      "originalName": "DLLNode",
+      "newName": "8K"
+    },
+    {
+      "originalName": "_I",
+      "newName": "\u0027l"
+    },
+    {
+      "originalName": "removeRoomByName",
+      "newName": "\u003eA"
+    },
+    {
+      "originalName": "BBClient",
+      "newName": "5M"
+    },
+    {
+      "originalName": "_ownerZone",
+      "newName": "5A"
+    },
+    {
+      "originalName": "_urlRequest",
+      "newName": "\u003dG"
+    },
+    {
+      "originalName": "_userName",
+      "newName": "\u003e\""
+    },
+    {
+      "originalName": "FindUsersRequest",
+      "newName": "4a"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.core",
+      "newName": "7q"
+    },
+    {
+      "originalName": "forClass",
+      "newName": "6M"
+    },
+    {
+      "originalName": "HEX_BYTES_PER_LINE",
+      "newName": " E"
+    },
+    {
+      "originalName": "ProfileScreenUtils",
+      "newName": "\u0026\u003d"
+    },
+    {
+      "originalName": "_timerHandler",
+      "newName": "7Q"
+    },
+    {
+      "originalName": "centToEuro",
+      "newName": "\"H"
+    },
+    {
+      "originalName": "_allowResizing",
+      "newName": "0f"
+    },
+    {
+      "originalName": "MMORoomSettings",
+      "newName": "!g"
+    },
+    {
+      "originalName": "_circular",
+      "newName": "-I"
+    },
+    {
+      "originalName": "FindRoomsRequest",
+      "newName": "\u0027P"
+    },
+    {
+      "originalName": "_f",
+      "newName": "8k"
+    },
+    {
+      "originalName": "_i",
+      "newName": "3b"
+    },
+    {
+      "originalName": "WaitingGameScreen",
+      "newName": "?Z"
+    },
+    {
+      "originalName": "_host",
+      "newName": "4E"
+    },
+    {
+      "originalName": "_sfs",
+      "newName": "@\u003e"
+    },
+    {
+      "originalName": "getW",
+      "newName": "0I"
+    },
+    {
+      "originalName": "prettyPrintDump",
+      "newName": "83"
+    },
+    {
+      "originalName": "_s",
+      "newName": "`-"
+    },
+    {
+      "originalName": "btnCatalogClick",
+      "newName": "0+"
+    },
+    {
+      "originalName": "_propertiesFile",
+      "newName": "8T"
+    },
+    {
+      "originalName": "__list",
+      "newName": " J"
+    },
+    {
+      "originalName": "SFSConstants",
+      "newName": "4O"
+    },
+    {
+      "originalName": "_autoJoin",
+      "newName": "1D"
+    },
+    {
+      "originalName": "_x",
+      "newName": "-#"
+    },
+    {
+      "originalName": "_y",
+      "newName": "58"
+    },
+    {
+      "originalName": "front",
+      "newName": "0D"
+    },
+    {
+      "originalName": "getKeySize",
+      "newName": "[Z"
+    },
+    {
+      "originalName": "btnOKClick",
+      "newName": "\u0027_"
+    },
+    {
+      "originalName": "CatalogScreenUtils",
+      "newName": "!J"
+    },
+    {
+      "originalName": "getFullyQualifiedImplementedInterfaceNames",
+      "newName": " q"
+    },
+    {
+      "originalName": "dmq1",
+      "newName": "1\u003c"
+    },
+    {
+      "originalName": "_siblings",
+      "newName": "#]"
+    },
+    {
+      "originalName": "_matchExpr",
+      "newName": "7l"
+    },
+    {
+      "originalName": "prettyDump",
+      "newName": "%Z"
+    },
+    {
+      "originalName": "KEY_PERMISSIONS",
+      "newName": "5-"
+    },
+    {
+      "originalName": "wearBtnNext",
+      "newName": "\u003cU"
+    },
+    {
+      "originalName": "Vec3D",
+      "newName": ";$"
+    },
+    {
+      "originalName": "LogLevel",
+      "newName": "\u003cq"
+    },
+    {
+      "originalName": "getRoomList",
+      "newName": "6]"
+    },
+    {
+      "originalName": "setMyOnlineState",
+      "newName": "6U"
+    },
+    {
+      "originalName": "__top",
+      "newName": "?m"
+    },
+    {
+      "originalName": "CONNECTION_RESUME",
+      "newName": "]]"
+    },
+    {
+      "originalName": "TweenLite",
+      "newName": "[E"
+    },
+    {
+      "originalName": "onPingPong",
+      "newName": "\u003ca"
+    },
+    {
+      "originalName": "BIRTHDAY",
+      "newName": "\u003eY"
+    },
+    {
+      "originalName": "dmp1",
+      "newName": "\"m"
+    },
+    {
+      "originalName": "LEFT_BRACKET",
+      "newName": "-G"
+    },
+    {
+      "originalName": "_extController",
+      "newName": "`E"
+    },
+    {
+      "originalName": "ISFSObject",
+      "newName": "\"S"
+    },
+    {
+      "originalName": "invDigit",
+      "newName": "0S"
+    },
+    {
+      "originalName": "rrol",
+      "newName": "-,"
+    },
+    {
+      "originalName": "frame1080",
+      "newName": ",N"
+    },
+    {
+      "originalName": "_blueBoxed",
+      "newName": " G"
+    },
+    {
+      "originalName": "am",
+      "newName": "^["
+    },
+    {
+      "originalName": "BIT_SPACE",
+      "newName": "!M"
+    },
+    {
+      "originalName": "AddBuddyRequest",
+      "newName": "81"
+    },
+    {
+      "originalName": "as",
+      "newName": "7c"
+    },
+    {
+      "originalName": "nologin",
+      "newName": "?4"
+    },
+    {
+      "originalName": "sfsPublicMessage",
+      "newName": "7`"
+    },
+    {
+      "originalName": "outcomingRequests",
+      "newName": "!X"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.logging",
+      "newName": "%g"
+    },
+    {
+      "originalName": "executePrivateMessage",
+      "newName": "\u003eM"
+    },
+    {
+      "originalName": "win_amount",
+      "newName": " ["
+    },
+    {
+      "originalName": "getMetaData",
+      "newName": ";Z"
+    },
+    {
+      "originalName": "as3reflect",
+      "newName": "\u003c3"
+    },
+    {
+      "originalName": "_register",
+      "newName": "\u003d7"
+    },
+    {
+      "originalName": "toLinkedStack",
+      "newName": "6$"
+    },
+    {
+      "originalName": "errorsByCode",
+      "newName": "7O"
+    },
+    {
+      "originalName": "Instance",
+      "newName": "9o"
+    },
+    {
+      "originalName": "slider_114",
+      "newName": " N"
+    },
+    {
+      "originalName": "INVITATION_REPLY_ERROR",
+      "newName": "9["
+    },
+    {
+      "originalName": "pptr",
+      "newName": "9I"
+    },
+    {
+      "originalName": "d1",
+      "newName": "70"
+    },
+    {
+      "originalName": "MetaDataContainer",
+      "newName": "?^"
+    },
+    {
+      "originalName": "d2",
+      "newName": "\"i"
+    },
+    {
+      "originalName": "_pollSpeed",
+      "newName": "8E"
+    },
+    {
+      "originalName": "nextUdpPacketId",
+      "newName": "\u003e5"
+    },
+    {
+      "originalName": "GameScreen",
+      "newName": "4P"
+    },
+    {
+      "originalName": "search",
+      "newName": "@F"
+    },
+    {
+      "originalName": "_controllersInited",
+      "newName": "44"
+    },
+    {
+      "originalName": "KEY_PASS",
+      "newName": "\"\u003c"
+    },
+    {
+      "originalName": "WAIT_NEW_PACKET",
+      "newName": ";E"
+    },
+    {
+      "originalName": "KEY_PASSWORD",
+      "newName": "6`"
+    },
+    {
+      "originalName": "sfsArrayToGenericArray",
+      "newName": "8$"
+    },
+    {
+      "originalName": "prepareTCPPacket",
+      "newName": "[d"
+    },
+    {
+      "originalName": "panel",
+      "newName": "3C"
+    },
+    {
+      "originalName": "Queue",
+      "newName": ",K"
+    },
+    {
+      "originalName": "USER_FIND_RESULT",
+      "newName": "9K"
+    },
+    {
+      "originalName": "timeLeft",
+      "newName": " _"
+    },
+    {
+      "originalName": "FurnitureLoadComplete",
+      "newName": "+G"
+    },
+    {
+      "originalName": "array2binary",
+      "newName": ",c"
+    },
+    {
+      "originalName": "parseKey",
+      "newName": "?B"
+    },
+    {
+      "originalName": "com.hurlant.crypto.hash",
+      "newName": "@#"
+    },
+    {
+      "originalName": "ch",
+      "newName": ";q"
+    },
+    {
+      "originalName": "cellOf",
+      "newName": "-W"
+    },
+    {
+      "originalName": "__size",
+      "newName": "]U"
+    },
+    {
+      "originalName": "binEncode_FLOAT_ARRAY",
+      "newName": "4^"
+    },
+    {
+      "originalName": "ioHandler",
+      "newName": "5h"
+    },
+    {
+      "originalName": "mcIsActive",
+      "newName": "-\u003c"
+    },
+    {
+      "originalName": "hasMetaData",
+      "newName": "9;"
+    },
+    {
+      "originalName": "binDecode_BOOL",
+      "newName": "--"
+    },
+    {
+      "originalName": "validateAndStoreConfig",
+      "newName": "8i"
+    },
+    {
+      "originalName": "putFloatArray",
+      "newName": "[g"
+    },
+    {
+      "originalName": "updateStats",
+      "newName": "`]"
+    },
+    {
+      "originalName": "expressionAsSFSArray",
+      "newName": "]d"
+    },
+    {
+      "originalName": "getRoomCount",
+      "newName": "7^"
+    },
+    {
+      "originalName": "encode",
+      "newName": " O"
+    },
+    {
+      "originalName": "sfs",
+      "newName": "\u00272"
+    },
+    {
+      "originalName": "SFSErrorCodes",
+      "newName": "#@"
+    },
+    {
+      "originalName": "TO_GROUP",
+      "newName": " ]"
+    },
+    {
+      "originalName": "removeAvatar",
+      "newName": "[U"
+    },
+    {
+      "originalName": "parseArray",
+      "newName": ";\u003c"
+    },
+    {
+      "originalName": "getArray",
+      "newName": "0]"
+    },
+    {
+      "originalName": "binEncode_SHORT",
+      "newName": "\u0026Y"
+    },
+    {
+      "originalName": "UserPrivileges",
+      "newName": "[]"
+    },
+    {
+      "originalName": "_isModerator",
+      "newName": "+r"
+    },
+    {
+      "originalName": "btnClick",
+      "newName": ";"
+    },
+    {
+      "originalName": "modPowInt",
+      "newName": "9M"
+    },
+    {
+      "originalName": "P_SZ",
+      "newName": "2g"
+    },
+    {
+      "originalName": "mm.screens.shop",
+      "newName": "!G"
+    },
+    {
+      "originalName": "trackSize",
+      "newName": "\u0026a"
+    },
+    {
+      "originalName": "ArrayedStack",
+      "newName": "9q"
+    },
+    {
+      "originalName": "initControllers",
+      "newName": "\u0026j"
+    },
+    {
+      "originalName": "reqPos",
+      "newName": "+\u003c"
+    },
+    {
+      "originalName": "arrangeContainer",
+      "newName": "%d"
+    },
+    {
+      "originalName": "binEncode_INT_ARRAY",
+      "newName": ";D"
+    },
+    {
+      "originalName": "setKey",
+      "newName": "\u0027\u003c"
+    },
+    {
+      "originalName": "hashBinary",
+      "newName": "29"
+    },
+    {
+      "originalName": "containsUserName",
+      "newName": " Y"
+    },
+    {
+      "originalName": "SFSProtocolCodec",
+      "newName": "2o"
+    },
+    {
+      "originalName": "__cpy",
+      "newName": "94"
+    },
+    {
+      "originalName": "_dumpGarbage",
+      "newName": "3o"
+    },
+    {
+      "originalName": "initUDP",
+      "newName": "52"
+    },
+    {
+      "originalName": "lblDescr",
+      "newName": "\u0027\""
+    },
+    {
+      "originalName": "processTable",
+      "newName": "\u003e\u0026"
+    },
+    {
+      "originalName": "_groupId",
+      "newName": "\u0026S"
+    },
+    {
+      "originalName": "isDigit",
+      "newName": "2\""
+    },
+    {
+      "originalName": "makeMove",
+      "newName": "%H"
+    },
+    {
+      "originalName": "mcIcon",
+      "newName": " i"
+    },
+    {
+      "originalName": "_value",
+      "newName": "\u003ch"
+    },
+    {
+      "originalName": "_permissions",
+      "newName": "4S"
+    },
+    {
+      "originalName": "addInt",
+      "newName": ",F"
+    },
+    {
+      "originalName": "ff",
+      "newName": "@!"
+    },
+    {
+      "originalName": "btnBuyClick",
+      "newName": "4;"
+    },
+    {
+      "originalName": "as3reflect.errors",
+      "newName": ";,"
+    },
+    {
+      "originalName": "ioErrorHandler",
+      "newName": "3T"
+    },
+    {
+      "originalName": "DefaultPacketEncrypter",
+      "newName": "@Y"
+    },
+    {
+      "originalName": "ArrayConvert",
+      "newName": "\u003dE"
+    },
+    {
+      "originalName": "_room",
+      "newName": "\u0026!"
+    },
+    {
+      "originalName": "getFloat",
+      "newName": "#8"
+    },
+    {
+      "originalName": "putLong",
+      "newName": "^\u003e"
+    },
+    {
+      "originalName": "fr",
+      "newName": "9]"
+    },
+    {
+      "originalName": "SelectedPost",
+      "newName": "\u003e"
+    },
+    {
+      "originalName": "ft",
+      "newName": "%+"
+    },
+    {
+      "originalName": "IHash",
+      "newName": "?,"
+    },
+    {
+      "originalName": "PopupOK",
+      "newName": "0i"
+    },
+    {
+      "originalName": "contentSize",
+      "newName": "^7"
+    },
+    {
+      "originalName": "multiplyTo",
+      "newName": "^J"
+    },
+    {
+      "originalName": "divide",
+      "newName": "!F"
+    },
+    {
+      "originalName": "MANUAL",
+      "newName": "\u0026\u003c"
+    },
+    {
+      "originalName": "gc",
+      "newName": "\","
+    },
+    {
+      "originalName": "onSocketSecurityError",
+      "newName": "7W"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.requests.buddylist",
+      "newName": "[!"
+    },
+    {
+      "originalName": "over",
+      "newName": "\u0026m"
+    },
+    {
+      "originalName": "gg",
+      "newName": "#$"
+    },
+    {
+      "originalName": "PlayerToSpectatorRequest",
+      "newName": "\"8"
+    },
+    {
+      "originalName": "_minVersion",
+      "newName": "-0"
+    },
+    {
+      "originalName": "pageCount",
+      "newName": "+p"
+    },
+    {
+      "originalName": "binEncode_BYTE",
+      "newName": "9a"
+    },
+    {
+      "originalName": "headerByte",
+      "newName": "+o"
+    },
+    {
+      "originalName": "GenericMessageType",
+      "newName": "]A"
+    },
+    {
+      "originalName": "_maxMessageSize",
+      "newName": "#5"
+    },
+    {
+      "originalName": "_sysController",
+      "newName": "?A"
+    },
+    {
+      "originalName": "setVariable",
+      "newName": "+a"
+    },
+    {
+      "originalName": "KEY_ID",
+      "newName": "\u0027f"
+    },
+    {
+      "originalName": "counter",
+      "newName": "[F"
+    },
+    {
+      "originalName": "getString",
+      "newName": "9i"
+    },
+    {
+      "originalName": "_secondsForAnswer",
+      "newName": "[i"
+    },
+    {
+      "originalName": "gs",
+      "newName": "\u0027\u003e"
+    },
+    {
+      "originalName": "ROOM_PASSWORD_STATE_CHANGE_ERROR",
+      "newName": "^R"
+    },
+    {
+      "originalName": "ExtensionRequest",
+      "newName": " l"
+    },
+    {
+      "originalName": "handleDataSize",
+      "newName": "\u003cG"
+    },
+    {
+      "originalName": "ChangeRoomPasswordStateRequest",
+      "newName": "^Y"
+    },
+    {
+      "originalName": "putBoolArray",
+      "newName": "0G"
+    },
+    {
+      "originalName": "canEncrypt",
+      "newName": "\u003c4"
+    },
+    {
+      "originalName": "loadComplete",
+      "newName": ",a"
+    },
+    {
+      "originalName": "obj",
+      "newName": "\u003dW"
+    },
+    {
+      "originalName": "NAN",
+      "newName": "6b"
+    },
+    {
+      "originalName": "btnNextClick",
+      "newName": "@U"
+    },
+    {
+      "originalName": "fromString",
+      "newName": "!?"
+    },
+    {
+      "originalName": "BV_STATE",
+      "newName": "68"
+    },
+    {
+      "originalName": "RoomVariable",
+      "newName": "9d"
+    },
+    {
+      "originalName": "ProfileScreen",
+      "newName": "27"
+    },
+    {
+      "originalName": "assign",
+      "newName": "9B"
+    },
+    {
+      "originalName": "hh",
+      "newName": "2\u0026"
+    },
+    {
+      "originalName": "getCipher",
+      "newName": "3X"
+    },
+    {
+      "originalName": "_scanGenericArray",
+      "newName": "]\u003d"
+    },
+    {
+      "originalName": "KEY_EXTID",
+      "newName": "!0"
+    },
+    {
+      "originalName": "CONNECTION_ATTEMPT_HTTP",
+      "newName": "-Z"
+    },
+    {
+      "originalName": "KEY_BUDDY",
+      "newName": "\u003cX"
+    },
+    {
+      "originalName": "wearLoadComplete",
+      "newName": "2C"
+    },
+    {
+      "originalName": "TripleDESKey",
+      "newName": "\u0027W"
+    },
+    {
+      "originalName": "invoke",
+      "newName": "]P"
+    },
+    {
+      "originalName": "addSFSArray",
+      "newName": "9Y"
+    },
+    {
+      "originalName": "BitSwarmEvent",
+      "newName": "^g"
+    },
+    {
+      "originalName": "_buddyStates",
+      "newName": "+!"
+    },
+    {
+      "originalName": "_compressionThreshold",
+      "newName": ",L"
+    },
+    {
+      "originalName": "_reconnectionSeconds",
+      "newName": "7E"
+    },
+    {
+      "originalName": "IfBirthday",
+      "newName": "\"T"
+    },
+    {
+      "originalName": "btnOver",
+      "newName": "1S"
+    },
+    {
+      "originalName": "SLLNode",
+      "newName": "02"
+    },
+    {
+      "originalName": "MetadataUtils",
+      "newName": "\u003ek"
+    },
+    {
+      "originalName": "clamp",
+      "newName": "\u003c-"
+    },
+    {
+      "originalName": "getInputSize",
+      "newName": "5F"
+    },
+    {
+      "originalName": "MAX_EXPIRY_TIME",
+      "newName": "\u003c\""
+    },
+    {
+      "originalName": "swapWithBack",
+      "newName": "\"2"
+    },
+    {
+      "originalName": "reduce",
+      "newName": "\u0026G"
+    },
+    {
+      "originalName": "_isUDP",
+      "newName": "1C"
+    },
+    {
+      "originalName": "KEY_USER_ID",
+      "newName": "\"r"
+    },
+    {
+      "originalName": "_weak",
+      "newName": "\u003d"
+    },
+    {
+      "originalName": "index",
+      "newName": "8O"
+    },
+    {
+      "originalName": "is",
+      "newName": "\u0027@"
+    },
+    {
+      "originalName": "ROOM_NAME_CHANGE",
+      "newName": "^f"
+    },
+    {
+      "originalName": "params",
+      "newName": "+K"
+    },
+    {
+      "originalName": "iv",
+      "newName": "]l"
+    },
+    {
+      "originalName": "stringFormat",
+      "newName": "?i"
+    },
+    {
+      "originalName": "LastSelected",
+      "newName": "]Q"
+    },
+    {
+      "originalName": "btnFriendlistClick",
+      "newName": "]W"
+    },
+    {
+      "originalName": "_loader",
+      "newName": "#-"
+    },
+    {
+      "originalName": "PublicMessageRequest",
+      "newName": "[B"
+    },
+    {
+      "originalName": "Map",
+      "newName": "4\u003e"
+    },
+    {
+      "originalName": "modInverse",
+      "newName": "8"
+    },
+    {
+      "originalName": "_allowPasswordStateChange",
+      "newName": "\u0027U"
+    },
+    {
+      "originalName": "desFunc",
+      "newName": " \u003d"
+    },
+    {
+      "originalName": "OpenSelector",
+      "newName": "9`"
+    },
+    {
+      "originalName": "handleConnectionProblem",
+      "newName": "1$"
+    },
+    {
+      "originalName": "_sizeLevel",
+      "newName": "-e"
+    },
+    {
+      "originalName": "_maxSpectators",
+      "newName": "9E"
+    },
+    {
+      "originalName": "arr2bin",
+      "newName": "+f"
+    },
+    {
+      "originalName": "_stage",
+      "newName": "47"
+    },
+    {
+      "originalName": "digest",
+      "newName": "!D"
+    },
+    {
+      "originalName": "removeVariable",
+      "newName": "0\u003e"
+    },
+    {
+      "originalName": "_insertionSortComparable",
+      "newName": "\u003dp"
+    },
+    {
+      "originalName": "lowerMapLimit",
+      "newName": "3j"
+    },
+    {
+      "originalName": "_type",
+      "newName": "2M"
+    },
+    {
+      "originalName": "getMessage",
+      "newName": "8!"
+    },
+    {
+      "originalName": "kt",
+      "newName": "]o"
+    },
+    {
+      "originalName": "sendChatMessage",
+      "newName": "]M"
+    },
+    {
+      "originalName": "avatar",
+      "newName": ",E"
+    },
+    {
+      "originalName": "containsBuddy",
+      "newName": "^@"
+    },
+    {
+      "originalName": "decryptBlock",
+      "newName": "@1"
+    },
+    {
+      "originalName": "Gift",
+      "newName": "-\""
+    },
+    {
+      "originalName": "binDecode_INT",
+      "newName": ",@"
+    },
+    {
+      "originalName": "removeGroup",
+      "newName": "\"M"
+    },
+    {
+      "originalName": "equals",
+      "newName": "[5"
+    },
+    {
+      "originalName": "nodeOf",
+      "newName": "7#"
+    },
+    {
+      "originalName": "shuffle",
+      "newName": "]-"
+    },
+    {
+      "originalName": "HashMap",
+      "newName": "\u003eH"
+    },
+    {
+      "originalName": "sign",
+      "newName": "[M"
+    },
+    {
+      "originalName": "_key",
+      "newName": "7;"
+    },
+    {
+      "originalName": "useFloatCoordinates",
+      "newName": "%D"
+    },
+    {
+      "originalName": "Accessor",
+      "newName": ",8"
+    },
+    {
+      "originalName": "createAvatar",
+      "newName": "%a"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.entities.data",
+      "newName": "#Z"
+    },
+    {
+      "originalName": "lostConnectionScreenBtnClick",
+      "newName": ",Z"
+    },
+    {
+      "originalName": "_allowUserEnter",
+      "newName": "0$"
+    },
+    {
+      "originalName": "KEY_AOI",
+      "newName": "5D"
+    },
+    {
+      "originalName": "PacketReadState",
+      "newName": "`d"
+    },
+    {
+      "originalName": "mm",
+      "newName": "?\u0026"
+    },
+    {
+      "originalName": "mp",
+      "newName": "[a"
+    },
+    {
+      "originalName": "loadError",
+      "newName": "01"
+    },
+    {
+      "originalName": "ms",
+      "newName": " n"
+    },
+    {
+      "originalName": "totalTime",
+      "newName": "\u0026H"
+    },
+    {
+      "originalName": "Invitation",
+      "newName": ",p"
+    },
+    {
+      "originalName": "setBubble",
+      "newName": "8Y"
+    },
+    {
+      "originalName": "TRUE",
+      "newName": "-n"
+    },
+    {
+      "originalName": "OBJECT",
+      "newName": "-`"
+    },
+    {
+      "originalName": "setReconnectionSeconds",
+      "newName": " Z"
+    },
+    {
+      "originalName": "resizeByteArray",
+      "newName": "\u0026q"
+    },
+    {
+      "originalName": "PUBLIC_MESSAGE",
+      "newName": "7n"
+    },
+    {
+      "originalName": "getFullyQualifiedSuperClassName",
+      "newName": "-E"
+    },
+    {
+      "originalName": "chatHistoryPanel",
+      "newName": "#C"
+    },
+    {
+      "originalName": "logicOp",
+      "newName": "+V"
+    },
+    {
+      "originalName": "op_and",
+      "newName": "6E"
+    },
+    {
+      "originalName": "smoothChildTiming",
+      "newName": "7S"
+    },
+    {
+      "originalName": "ScrollBar",
+      "newName": "9l"
+    },
+    {
+      "originalName": "KEY_API",
+      "newName": "`g"
+    },
+    {
+      "originalName": "showFurniturePanel",
+      "newName": "8S"
+    },
+    {
+      "originalName": "sliderChangePos",
+      "newName": "\u003dN"
+    },
+    {
+      "originalName": "defaultOverwrite",
+      "newName": "4+"
+    },
+    {
+      "originalName": "putSFSObject",
+      "newName": "!U"
+    },
+    {
+      "originalName": "keys",
+      "newName": "@N"
+    },
+    {
+      "originalName": "isItMe",
+      "newName": "54"
+    },
+    {
+      "originalName": "__unprotect__",
+      "newName": "6q"
+    },
+    {
+      "originalName": "DataLoadingAnim",
+      "newName": "`Q"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.requests.mmo",
+      "newName": "1Z"
+    },
+    {
+      "originalName": "LinkedStackIterator",
+      "newName": "\u003ef"
+    },
+    {
+      "originalName": "onConfigLoadSuccess",
+      "newName": ";\u0027"
+    },
+    {
+      "originalName": "handleLogin",
+      "newName": "39"
+    },
+    {
+      "originalName": "CLIENT_TYPE_SEPARATOR",
+      "newName": "%U"
+    },
+    {
+      "originalName": "reserve",
+      "newName": "@\u003d"
+    },
+    {
+      "originalName": "IReduction",
+      "newName": "#+"
+    },
+    {
+      "originalName": "listPanelBtnHelpClick",
+      "newName": ",]"
+    },
+    {
+      "originalName": "getTypeName",
+      "newName": "8_"
+    },
+    {
+      "originalName": "fr_count",
+      "newName": "\u0027%"
+    },
+    {
+      "originalName": "_data",
+      "newName": "0;"
+    },
+    {
+      "originalName": "q3",
+      "newName": "6H"
+    },
+    {
+      "originalName": "_isConnected",
+      "newName": "40"
+    },
+    {
+      "originalName": "or",
+      "newName": "[7"
+    },
+    {
+      "originalName": "cbit",
+      "newName": "71"
+    },
+    {
+      "originalName": "binDecode_UTF_STRING",
+      "newName": "\u003eE"
+    },
+    {
+      "originalName": "getKeys",
+      "newName": "1l"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.entities.variables",
+      "newName": "1["
+    },
+    {
+      "originalName": "NewIndicator",
+      "newName": "-_"
+    },
+    {
+      "originalName": "obj2bin",
+      "newName": "+i"
+    },
+    {
+      "originalName": "setWearColor",
+      "newName": "5\u0026"
+    },
+    {
+      "originalName": "addShort",
+      "newName": "4d"
+    },
+    {
+      "originalName": "pg",
+      "newName": "\"d"
+    },
+    {
+      "originalName": "interfaze",
+      "newName": "\u003eq"
+    },
+    {
+      "originalName": "connectWithConfig",
+      "newName": "3U"
+    },
+    {
+      "originalName": "downClick",
+      "newName": "@]"
+    },
+    {
+      "originalName": "pm",
+      "newName": "2^"
+    },
+    {
+      "originalName": "FIELD_VALUE_KEY",
+      "newName": "\u003e0"
+    },
+    {
+      "originalName": "r2",
+      "newName": "3W"
+    },
+    {
+      "originalName": "getLowestSetBit",
+      "newName": "\u003c["
+    },
+    {
+      "originalName": "pr",
+      "newName": "1\u0027"
+    },
+    {
+      "originalName": "txtSearchInput",
+      "newName": "8j"
+    },
+    {
+      "originalName": "pt",
+      "newName": ",C"
+    },
+    {
+      "originalName": "lagMonitor",
+      "newName": "4C"
+    },
+    {
+      "originalName": "px",
+      "newName": "#R"
+    },
+    {
+      "originalName": "getDoubleValue",
+      "newName": "%`"
+    },
+    {
+      "originalName": "py",
+      "newName": "2E"
+    },
+    {
+      "originalName": "pz",
+      "newName": "7\u003d"
+    },
+    {
+      "originalName": "com.greensock.easing",
+      "newName": "[A"
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.entities.match",
+      "newName": "?q"
+    },
+    {
+      "originalName": "psize",
+      "newName": "\u003cg"
+    },
+    {
+      "originalName": "qd",
+      "newName": "!j"
+    },
+    {
+      "originalName": "_buffer",
+      "newName": "`P"
+    },
+    {
+      "originalName": "_access",
+      "newName": "6V"
+    },
+    {
+      "originalName": "IProtocolCodec",
+      "newName": "#i"
+    },
+    {
+      "originalName": "_last",
+      "newName": ";p"
+    },
+    {
+      "originalName": "vars",
+      "newName": ",$"
+    },
+    {
+      "originalName": "putLongArray",
+      "newName": "9G"
+    },
+    {
+      "originalName": "Overlay",
+      "newName": "?8"
+    },
+    {
+      "originalName": "btnProfileClick",
+      "newName": "5m"
+    },
+    {
+      "originalName": "de.polygonal.ds",
+      "newName": ";f"
+    },
+    {
+      "originalName": "shiftN",
+      "newName": "]L"
+    },
+    {
+      "originalName": "scrollSliderUp",
+      "newName": "2X"
+    },
+    {
+      "originalName": "subtract",
+      "newName": "`c"
+    },
+    {
+      "originalName": "binDecode_SHORT",
+      "newName": "93"
+    },
+    {
+      "originalName": "shiftE",
+      "newName": "7Y"
+    },
+    {
+      "originalName": "lastJoinedRoom",
+      "newName": "6d"
+    },
+    {
+      "originalName": "blockSize",
+      "newName": "\u003cl"
+    },
+    {
+      "originalName": "sfsAdminMessage",
+      "newName": "\u003eZ"
+    },
+    {
+      "originalName": "_smartFox",
+      "newName": "@_"
+    },
+    {
+      "originalName": "_lowerMapLimit",
+      "newName": "!S"
+    },
+    {
+      "originalName": "Expo",
+      "newName": "?o"
+    },
+    {
+      "originalName": "ManualDisconnectionRequest",
+      "newName": ",%"
+    },
+    {
+      "originalName": "addUtfStringArray",
+      "newName": "9V"
+    },
+    {
+      "originalName": "putText",
+      "newName": "+M"
+    },
+    {
+      "originalName": "putClass",
+      "newName": "7o"
+    },
+    {
+      "originalName": "shiftS",
+      "newName": "3d"
+    },
+    {
+      "originalName": "ROOM_JOIN",
+      "newName": ";I"
+    },
+    {
+      "originalName": "Cloneable",
+      "newName": "97"
+    },
+    {
+      "originalName": "_arguments",
+      "newName": "4W"
+    },
+    {
+      "originalName": "shiftW",
+      "newName": "6;"
+    },
+    {
+      "originalName": "showPlayers",
+      "newName": "8m"
+    },
+    {
+      "originalName": "_prepVars",
+      "newName": "\u003c9"
+    },
+    {
+      "originalName": "seed",
+      "newName": "\u00265"
+    },
+    {
+      "originalName": "__head",
+      "newName": ";Q"
+    },
+    {
+      "originalName": "_isGame",
+      "newName": "\"p"
+    },
+    {
+      "originalName": "com.hurlant.crypto.prng",
+      "newName": "#_"
+    },
+    {
+      "originalName": "maxVariables",
+      "newName": "+\u003d"
+    },
+    {
+      "originalName": "seek",
+      "newName": "\u0026-"
+    },
+    {
+      "originalName": "subTo",
+      "newName": "7_"
+    },
+    {
+      "originalName": "current",
+      "newName": "1Q"
+    },
+    {
+      "originalName": "PARAM_ID",
+      "newName": "\u003eb"
+    },
+    {
+      "originalName": "_plugins",
+      "newName": "\u003cS"
+    },
+    {
+      "originalName": "DATA_ERROR",
+      "newName": ",X"
+    },
+    {
+      "originalName": "com.hurlant.crypto.rsa",
+      "newName": "\u0027$"
+    },
+    {
+      "originalName": "so",
+      "newName": "\u003eO"
+    },
+    {
+      "originalName": "btn",
+      "newName": "+L"
+    },
+    {
+      "originalName": "key",
+      "newName": ",P"
+    },
+    {
+      "originalName": "_useBlueBox",
+      "newName": ";i"
+    },
+    {
+      "originalName": "_reconnCounter",
+      "newName": "\u003dF"
+    },
+    {
+      "originalName": "buddyManager",
+      "newName": "^i"
+    },
+    {
+      "originalName": "getRoomGroups",
+      "newName": "!]"
+    },
+    {
+      "originalName": "_totalTime",
+      "newName": "]j"
+    },
+    {
+      "originalName": "cancelFurniture",
+      "newName": "]?"
+    },
+    {
+      "originalName": "tf",
+      "newName": "\u003eX"
+    },
+    {
+      "originalName": "AdminMessage",
+      "newName": "-6"
+    },
+    {
+      "originalName": "to",
+      "newName": "\u003eG"
+    },
+    {
+      "originalName": "compressed",
+      "newName": "0d"
+    },
+    {
+      "originalName": "_content",
+      "newName": "\"j"
+    },
+    {
+      "originalName": "ts",
+      "newName": "!L"
+    },
+    {
+      "originalName": "_reversed",
+      "newName": "\u0026d"
+    },
+    {
+      "originalName": "symbol",
+      "newName": "^d"
+    },
+    {
+      "originalName": "_firstPT",
+      "newName": "+W"
+    },
+    {
+      "originalName": "onBBError",
+      "newName": "\u0026I"
+    },
+    {
+      "originalName": "gameScreen",
+      "newName": "\u003cB"
+    },
+    {
+      "originalName": "NextTest",
+      "newName": "8l"
+    },
+    {
+      "originalName": "decodeSFSArray",
+      "newName": "9c"
+    },
+    {
+      "originalName": "loader",
+      "newName": ";X"
+    },
+    {
+      "originalName": "SFSDataWrapper",
+      "newName": "\u003eN"
+    },
+    {
+      "originalName": "KEY_TIME",
+      "newName": "%n"
+    },
+    {
+      "originalName": "higherMapLimit",
+      "newName": "\"F"
+    },
+    {
+      "originalName": "swp",
+      "newName": "[n"
+    },
+    {
+      "originalName": "btnListClick",
+      "newName": "8\u003c"
+    },
+    {
+      "originalName": "useUDP",
+      "newName": "?;"
+    },
+    {
+      "originalName": "KEY_ERROR_PARAMS",
+      "newName": "\u003cQ"
+    },
+    {
+      "originalName": "writeUDP",
+      "newName": ",\u003d"
+    },
+    {
+      "originalName": "keyLength",
+      "newName": " K"
+    },
+    {
+      "originalName": "addRoom",
+      "newName": "2#"
+    },
+    {
+      "originalName": "_debug",
+      "newName": "5N"
+    },
+    {
+      "originalName": "um",
+      "newName": "5R"
+    },
+    {
+      "originalName": "LEFT_BRACE",
+      "newName": "?$"
+    },
+    {
+      "originalName": "PrivateMessage",
+      "newName": "+\u003e"
+    },
+    {
+      "originalName": "cryptoKey",
+      "newName": "2P"
+    },
+    {
+      "originalName": "generate",
+      "newName": "20"
+    },
+    {
+      "originalName": "HandshakeRequest",
+      "newName": "\u00278"
+    },
+    {
+      "originalName": "_newMaxUsers",
+      "newName": "\u003cD"
+    },
+    {
+      "originalName": "MMOITEM_VARIABLES_UPDATE",
+      "newName": "11"
+    },
+    {
+      "originalName": "incomingRequests",
+      "newName": "`\u003e"
+    },
+    {
+      "originalName": "enableConsoleTrace",
+      "newName": "`G"
+    },
+    {
+      "originalName": "buyScreen",
+      "newName": "+j"
+    },
+    {
+      "originalName": "isOptional",
+      "newName": "\u00268"
+    },
+    {
+      "originalName": "ManualDisconnection",
+      "newName": "[h"
+    },
+    {
+      "originalName": "_fields",
+      "newName": "\u0026@"
+    },
+    {
+      "originalName": "getFloatArray",
+      "newName": "#d"
+    },
+    {
+      "originalName": "_rpad",
+      "newName": "6F"
+    },
+    {
+      "originalName": "encodeLongValue",
+      "newName": "+\u0026"
+    },
+    {
+      "originalName": "removeAt",
+      "newName": "\u003cZ"
+    },
+    {
+      "originalName": "PacketHeader",
+      "newName": "88"
+    },
+    {
+      "originalName": "_returnType",
+      "newName": "\"b"
+    },
+    {
+      "originalName": "andNot",
+      "newName": "9Q"
+    },
+    {
+      "originalName": "setInvis",
+      "newName": "\u0026E"
+    },
+    {
+      "originalName": "InventoryItem",
+      "newName": "%1"
+    },
+    {
+      "originalName": "removeBuddyById",
+      "newName": "0B"
+    },
+    {
+      "originalName": "BUDDY_ADD",
+      "newName": "3p"
+    },
+    {
+      "originalName": "getDirection",
+      "newName": "\u0026D"
+    },
+    {
+      "originalName": "handleObjectMessage",
+      "newName": "!W"
+    },
+    {
+      "originalName": "Mng",
+      "newName": "3f"
+    },
+    {
+      "originalName": "_func",
+      "newName": "\u0027G"
+    },
+    {
+      "originalName": "KEY_AS_SPECTATOR",
+      "newName": "3F"
+    },
+    {
+      "originalName": "PublicMessage",
+      "newName": ",g"
+    },
+    {
+      "originalName": "addByte",
+      "newName": "#W"
+    },
+    {
+      "originalName": "inventory",
+      "newName": "@G"
+    },
+    {
+      "originalName": "BIT_SHARP",
+      "newName": "]c"
+    },
+    {
+      "originalName": "CreateSFSGame",
+      "newName": ",d"
+    },
+    {
+      "originalName": "containsUser",
+      "newName": "1]"
+    },
+    {
+      "originalName": "TYPES_AS_STRING",
+      "newName": "@g"
+    },
+    {
+      "originalName": "y0",
+      "newName": "?%"
+    },
+    {
+      "originalName": "_addUser",
+      "newName": "92"
+    },
+    {
+      "originalName": "btnRemove",
+      "newName": "+7"
+    },
+    {
+      "originalName": "appendTo",
+      "newName": "\u003eJ"
+    },
+    {
+      "originalName": "removeRange",
+      "newName": "9R"
+    },
+    {
+      "originalName": "extensionController",
+      "newName": "^4"
+    },
+    {
+      "originalName": "gameStarted",
+      "newName": "4%"
+    },
+    {
+      "originalName": "_time",
+      "newName": "#H"
+    },
+    {
+      "originalName": "setBadge",
+      "newName": "\u003cL"
+    },
+    {
+      "originalName": "accessors",
+      "newName": "-a"
+    },
+    {
+      "originalName": "validatePublicMessage",
+      "newName": "^A"
+    },
+    {
+      "originalName": "WAIT_DATA_SIZE",
+      "newName": "]2"
+    },
+    {
+      "originalName": "_useFrames",
+      "newName": "+"
+    },
+    {
+      "originalName": "valueOf",
+      "newName": "4o"
+    },
+    {
+      "originalName": "fullName",
+      "newName": " X"
+    },
+    {
+      "originalName": "putSFSArray",
+      "newName": "4G"
+    },
+    {
+      "originalName": "InviteUsersRequest",
+      "newName": "\u003d\u0027"
+    },
+    {
+      "originalName": "View",
+      "newName": "5T"
+    },
+    {
+      "originalName": "JSONDecoder",
+      "newName": "+^"
+    },
+    {
+      "originalName": "enqueue",
+      "newName": ",S"
+    },
+    {
+      "originalName": "IUDPManager",
+      "newName": "7,"
+    },
+    {
+      "originalName": "toByteArray",
+      "newName": "\u0027a"
+    },
+    {
+      "originalName": "KEY_RECIPIENT",
+      "newName": "^Z"
+    },
+    {
+      "originalName": "binEncode_SHORT_ARRAY",
+      "newName": "\"P"
+    },
+    {
+      "originalName": "getInstance",
+      "newName": "\u003eh"
+    },
+    {
+      "originalName": "CLASS_FIELDS_KEY",
+      "newName": "@k"
+    },
+    {
+      "originalName": "getIntArray",
+      "newName": "\"X"
+    },
+    {
+      "originalName": "mixSubColumns",
+      "newName": "\"\u003d"
+    },
+    {
+      "originalName": "timeScale",
+      "newName": "2["
+    },
+    {
+      "originalName": "getMyVariable",
+      "newName": ";a"
+    },
+    {
+      "originalName": "LinkedStack",
+      "newName": "-T"
+    },
+    {
+      "originalName": "gcd",
+      "newName": "+l"
+    },
+    {
+      "originalName": "eventCallback",
+      "newName": "`#"
+    },
+    {
+      "originalName": "getHashSize",
+      "newName": "^U"
+    },
+    {
+      "originalName": "type",
+      "newName": "4U"
+    },
+    {
+      "originalName": "Boot",
+      "newName": "18"
+    },
+    {
+      "originalName": "_padNumber",
+      "newName": "`H"
+    },
+    {
+      "originalName": "ECBMode",
+      "newName": "\u0026e"
+    },
+    {
+      "originalName": "TOKEN_DIVIDER",
+      "newName": "2W"
+    },
+    {
+      "originalName": "Item",
+      "newName": "80"
+    },
+    {
+      "originalName": "btnRemoveFriendClick",
+      "newName": "0M"
+    },
+    {
+      "originalName": "BB_SERVLET",
+      "newName": "\"E"
+    },
+    {
+      "originalName": "SerializableSFSType",
+      "newName": "@m"
+    },
+    {
+      "originalName": "ys",
+      "newName": "\u0027?"
+    },
+    {
+      "originalName": "_sizeModifer",
+      "newName": "^I"
+    },
+    {
+      "originalName": "yt",
+      "newName": "9F"
+    },
+    {
+      "originalName": "binEncode_FLOAT",
+      "newName": "09"
+    },
+    {
+      "originalName": "getFullyQualifiedName",
+      "newName": ",\u003e"
+    },
+    {
+      "originalName": "enum_to_string",
+      "newName": ",r"
+    },
+    {
+      "originalName": "getLayer",
+      "newName": "9W"
+    },
+    {
+      "originalName": "startPoint",
+      "newName": "@c"
+    },
+    {
+      "originalName": "SPECTATOR_TO_PLAYER",
+      "newName": "\"Q"
+    },
+    {
+      "originalName": "getRow",
+      "newName": "-l"
+    },
+    {
+      "originalName": "allowResizing",
+      "newName": "1j"
+    },
+    {
+      "originalName": "WaitFor",
+      "newName": "[k"
+    },
+    {
+      "originalName": "KEY_MMO_USER_MAX_LIMBO_SECONDS",
+      "newName": "8\""
+    },
+    {
+      "originalName": "Hashable",
+      "newName": "[G"
+    },
+    {
+      "originalName": "Base64",
+      "newName": "-+"
+    },
+    {
+      "originalName": "btnBanUserClick",
+      "newName": "%!"
+    },
+    {
+      "originalName": "setBit",
+      "newName": "+m"
+    },
+    {
+      "originalName": "_insertionSort",
+      "newName": "\u003e_"
+    },
+    {
+      "originalName": "furnitureMouseWheel",
+      "newName": "3L"
+    },
+    {
+      "originalName": "out",
+      "newName": ";1"
+    },
+    {
+      "originalName": "_visible",
+      "newName": "+O"
+    },
+    {
+      "originalName": "onBBData",
+      "newName": "+%"
+    },
+    {
+      "originalName": "BUDDY_MESSAGE",
+      "newName": "!i"
+    },
+    {
+      "originalName": "SFSInvitation",
+      "newName": "#G"
+    },
+    {
+      "originalName": "addGroup",
+      "newName": "]@"
+    },
+    {
+      "originalName": "binDecode_BOOL_ARRAY",
+      "newName": "#T"
+    },
+    {
+      "originalName": "Cart",
+      "newName": "5W"
+    },
+    {
+      "originalName": "_walker",
+      "newName": ",J"
+    },
+    {
+      "originalName": "handleReconnectionFailure",
+      "newName": "2B"
+    },
+    {
+      "originalName": "binEncode_BYTE_ARRAY",
+      "newName": "-\u0027"
+    },
+    {
+      "originalName": "populateRoomList",
+      "newName": "?M"
+    },
+    {
+      "originalName": "_quickSort",
+      "newName": "]6"
+    },
+    {
+      "originalName": "lastNodeOf",
+      "newName": "\u0027o"
+    },
+    {
+      "originalName": "newFromBinaryData",
+      "newName": "77"
+    },
+    {
+      "originalName": "readString",
+      "newName": "0\""
+    },
+    {
+      "originalName": "ChangeRoomNameRequest",
+      "newName": "\"l"
+    },
+    {
+      "originalName": "tokenizer",
+      "newName": "67"
+    },
+    {
+      "originalName": "buyScreenMC",
+      "newName": "\"c"
+    },
+    {
+      "originalName": "FriendsScreenUtils",
+      "newName": "%F"
+    },
+    {
+      "originalName": "mirkomir_fla",
+      "newName": "+`"
+    },
+    {
+      "originalName": "_userCount",
+      "newName": ",#"
+    },
+    {
+      "originalName": "hexChars",
+      "newName": "-k"
+    },
+    {
+      "originalName": "HashMapKeyIterator",
+      "newName": "\u003ce"
+    },
+    {
+      "originalName": "MainStage",
+      "newName": "\u003dL"
+    },
+    {
+      "originalName": "KEY_MY_VARS",
+      "newName": "33"
+    },
+    {
+      "originalName": "getSFSArrayValue",
+      "newName": "\u003c]"
+    },
+    {
+      "originalName": "BB_NULL",
+      "newName": "2,"
+    },
+    {
+      "originalName": "rawpad",
+      "newName": "2S"
+    },
+    {
+      "originalName": "udpManager",
+      "newName": "9U"
+    },
+    {
+      "originalName": "autoRemoveChildren",
+      "newName": "6["
+    },
+    {
+      "originalName": "com.smartfoxserver.v2.protocol.serialization",
+      "newName": "\u0026c"
+    },
+    {
+      "originalName": "btnOverlayClick",
+      "newName": "\u003e+"
+    },
+    {
+      "originalName": "getBuddyByNickName",
+      "newName": "4J"
+    },
+    {
+      "originalName": "sound",
+      "newName": "^n"
+    },
+    {
+      "originalName": "removeTail",
+      "newName": "?j"
+    },
+    {
+      "originalName": "_allowUserVariablesUpdate",
+      "newName": "8G"
+    },
+    {
+      "originalName": "upClick",
+      "newName": "!;"
+    },
+    {
+      "originalName": "_pack",
+      "newName": "8R"
+    },
+    {
+      "originalName": "create",
+      "newName": "0U"
+    },
+    {
+      "originalName": "KEY_PLUS_ITEM_LIST",
+      "newName": "2N"
+    },
+    {
+      "originalName": "btnRemoveClick",
+      "newName": "[l"
+    },
+    {
+      "originalName": "SOCKET_ERROR",
+      "newName": "0H"
+    },
+    {
+      "originalName": "binDecode_DOUBLE",
+      "newName": "4?"
+    },
+    {
+      "originalName": "LOGOUT",
+      "newName": "#c"
+    },
+    {
+      "originalName": "locationPanelBtnMapClick",
+      "newName": ",h"
+    },
+    {
+      "originalName": "binDecode_UTF_STRING_ARRAY",
+      "newName": "[?"
+    },
+    {
+      "originalName": "getController",
+      "newName": "\u003eW"
+    },
+    {
+      "originalName": "clearVolatileVariables",
+      "newName": "2b"
+    },
+    {
+      "originalName": "RatingListItem",
+      "newName": "0O"
+    },
+    {
+      "originalName": "onHttpResponse",
+      "newName": "9g"
+    },
+    {
+      "originalName": "Dial",
+      "newName": "#o"
+    },
+    {
+      "originalName": "core",
+      "newName": "6c"
+    },
+    {
+      "originalName": "_bbClient",
+      "newName": "]"
+    },
+    {
+      "originalName": "SelectedGift",
+      "newName": "\u003eF"
+    },
+    {
+      "originalName": "RoomEvents",
+      "newName": "\u003e@"
+    },
+    {
+      "originalName": "findButtons",
+      "newName": "\u0027!"
+    },
+    {
+      "originalName": "User",
+      "newName": "\"]"
+    },
+    {
+      "originalName": "Variable",
+      "newName": "6^"
+    },
+    {
+      "originalName": "wrapASField",
+      "newName": "4\u003d"
+    },
+    {
+      "originalName": "OFBMode",
+      "newName": "!C"
+    },
+    {
+      "originalName": "LoginRequest",
+      "newName": "@R"
+    },
+    {
+      "originalName": "allowPasswordStateChange",
+      "newName": "4T"
+    },
+    {
+      "originalName": "IsNew",
+      "newName": "4g"
+    },
+    {
+      "originalName": "MatchExpression",
+      "newName": "6O"
+    },
+    {
+      "originalName": "_initProps",
+      "newName": ";U"
+    },
+    {
+      "originalName": "KEY_ITEM_ID",
+      "newName": "%]"
+    },
+    {
+      "originalName": "canDecrypt",
+      "newName": "\u0027p"
+    },
+    {
+      "originalName": "_connectionMode",
+      "newName": "+D"
+    },
+    {
+      "originalName": "putNull",
+      "newName": "6G"
+    },
+    {
+      "originalName": "pushFront",
+      "newName": "\u00262"
+    },
+    {
+      "originalName": "getReconnectionSeconds",
+      "newName": "5Z"
+    },
+    {
+      "originalName": "BUDDY_MSG",
+      "newName": "[\""
+    },
+    {
+      "originalName": "getShort",
+      "newName": "[m"
+    },
+    {
+      "originalName": "_privilegeId",
+      "newName": "["
+    },
+    {
+      "originalName": "mm.entities",
+      "newName": "\u0027Q"
+    },
+    {
+      "originalName": "InvSbox",
+      "newName": "\"9"
+    },
+    {
+      "originalName": "KEY_RECONNECTION_SECONDS",
+      "newName": "^B"
+    },
+    {
+      "originalName": "getLongArray",
+      "newName": "#!"
+    },
+    {
+      "originalName": "BAN",
+      "newName": "-J"
+    },
+    {
+      "originalName": "createNPC",
+      "newName": "%e"
+    },
+    {
+      "originalName": "binDecode_LONG_ARRAY",
+      "newName": "%p"
+    },
+    {
+      "originalName": "ADMING_MSG",
+      "newName": "4b"
+    },
+    {
+      "originalName": "arguments",
+      "newName": "5U"
+    },
+    {
+      "originalName": "lastPingTime",
+      "newName": "];"
+    },
+    {
+      "originalName": "clazz",
+      "newName": "2-"
+    }
+  ]
+}

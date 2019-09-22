@@ -74,14 +74,15 @@
 			this.mouseChildren = true;
 			
 			//
-			// valentine
+			// halloween quest
 			//
 			
-			this.chatPanel.btnCalendar.addEventListener(MouseEvent.CLICK, Main.Calendars.Init);
+			/*
 			this.chatPanel.btnValentine.addEventListener(MouseEvent.CLICK, Main.Presents.Init);
 			/*this.chatPanel.counterValentine.lblCount.text = Main.sfs.mySelf.getVariable("valentines").getIntValue().toString();
-			if(Main.sfs.mySelf.getVariable("valentines").getIntValue() < 1)*/
+			if(Main.sfs.mySelf.getVariable("valentines").getIntValue() < 1)
 				this.chatPanel.counterValentine.visible = false;
+				*/
 			
 			//
 			// furniturePanel

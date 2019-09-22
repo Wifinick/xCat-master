@@ -87,7 +87,7 @@
 				
 				function currentBonusLblOpen():void
 				{
-					bonusScreen.screen.lblMessage.text = "Вы получаете " + bonusAmount[currentBonus] + " клубков";
+					bonusScreen.screen.lblMessage.text = "Вы получаете " + bonusAmount[currentBonus] + " рыбок";
 					
 					bonus[currentBonus].gotoAndStop("current_bonus");
 					bonus[currentBonus].lblBonus.text = bonusAmount[currentBonus];

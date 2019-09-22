@@ -24,6 +24,11 @@
 	import mm.CalendarDay.*;
 	import mm.CalendarDay.Elements.*;
 	
+	import flash.system.SecurityDomain;
+    import flash.system.ApplicationDomain;
+    import flash.system.LoaderContext;
+    import flash.system.Security;
+	
 	//temp
 	import com.greensock.*;
 	import com.greensock.easing.*;
@@ -32,7 +37,7 @@
 	public class Main extends MovieClip
 	{
 		// Режим отладки
-		public static var debugMode = false;
+		public static var debugMode = true;
 		//
 		
 		
@@ -82,7 +87,8 @@
 			if(debugMode)
 			{
 				//config.debug = true;
-				config.host = "185.104.249.50";
+				config.host = "127.0.0.1";
+				//config.host = "185.104.249.50";
 			}
 			else
 			{
@@ -473,14 +479,7 @@
 			var responseParams:SFSObject;
 			
 			trace(evt.params.cmd);
-			
-			
-			//temp
-			responseParams = evt.params.params as SFSObject;
-			if(responseParams.containsKey("error"))
-			{
-				Alert(responseParams.getUtfString("error"));
-			}
+			 
 			//
 			
 			if (evt.params.cmd == "shop.data")

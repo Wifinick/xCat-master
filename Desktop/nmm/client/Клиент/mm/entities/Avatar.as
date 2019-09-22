@@ -175,12 +175,6 @@
 
 		public function setWear(wearids:Object):void
 		{
-			for (var id:String in wearids)
-			{
-				var value:Object = wearids[id];
-
-				wearids = value;
-			}
 			if (wearids)
 			{
 				for (var i:int = 1; i < 6; i++)

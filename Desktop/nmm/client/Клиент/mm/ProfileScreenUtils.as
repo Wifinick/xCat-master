@@ -300,6 +300,9 @@
 				case "Коэпио": txtGroup = "Модератор игры"; break;
 				case "p1xel": txtGroup = "Модератор игры"; break;				
 				case "Shadepig54": txtGroup = "Художник игры"; break;
+				case "AlexSeldon": txtGroup = "Модератор игры"; break;		
+				case "reverie": txtGroup = "Модератор игры"; break;		
+				case "Королек": txtGroup = "Модератор игры"; break;		
 			}
 			
 			var uip:String = "";
@@ -310,13 +313,14 @@
 			profileScreen.screen.txtInfo.text = "Статус: " + txtStatus + "\n\nРегистрация: \n" + profileParams.getUtfString("reg_date") + 
 			"\n\nДень рождения: \n" + profileParams.getUtfString("birthday") + "\n\n" + txtGroup + uip;
 			
-			// кнопка блокировки
-			if((Main.sfs.mySelf.isModerator() || Main.sfs.mySelf.isAdmin()) && profileParams.getUtfString("name") != Main.sfs.mySelf.name)
-			{
-				profileScreen.screen.btnReport.visible = true;
-				
-				profileScreen.screen.btnReport.addEventListener(MouseEvent.CLICK, btnReportClick);
+			// кнопка жалобы
+			if(profileParams.getInt("permission") < 2 && profileParams.getUtfString("name") != Main.sfs.mySelf.name){
+			profileScreen.screen.btnReport.visible = true;
 			}
+			
+			if(profileParams.getUtfString("name") != Main.sfs.mySelf.name)
+				profileScreen.screen.btnReport.addEventListener(MouseEvent.CLICK, btnReportClick);
+			
 			
 			// проверка, загружается ли страница в первый раз
 			if(!Main.main.contains(profileScreen))
@@ -806,7 +810,8 @@
 				
 				function loadComplete(event:Event):void
 				{
-					event.target.loader.contentLoaderInfo.removeEventListener(Event.COMPLETE,loadComplete);
+					event.target.loader.contentLoaderInfo.removeEventListener(Event.COMPLETE, loadComplete);
+					trace("complete");
 					
 					if(profileScreen.screen.currentLabel == "backgrounds")
 					{
@@ -838,6 +843,7 @@
 				dla.name = "dla";
 				dla.scaleX = 0.3;
 				dla.scaleY = 0.3;
+				trace("item.icon.addChild(dla);");
 				item.icon.addChild(dla);
 				
 				profileScreen.screen.inventoryList.items.addChild(item);
@@ -1436,7 +1442,11 @@
 		
 		private static function btnReportClick(event:MouseEvent):void
 		{
-			ModScreenUtils.init(profileParams.getUtfString("name"));
+			if((Main.sfs.mySelf.isModerator() || Main.sfs.mySelf.isAdmin())) 
+			   ModScreenUtils.init(profileParams.getUtfString("name"));
+			else 
+			   ComplaintScreenUtils.init(profileParams.getUtfString("name"));
+			   
 		}
 		
 		private static function overlayClick(event:MouseEvent):void

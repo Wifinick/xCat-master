@@ -24,6 +24,7 @@
 			switch(shop)
 			{
 				case "streetwear": initWear(); break;
+				case "catbox": initWear(); break;
 			}
 		}
 		

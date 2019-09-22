@@ -36,7 +36,8 @@
 				if(Main.debugMode){
 					var rnd:String = (Math.round(Math.random()*1) + 1).toString();
 					trace(rnd);
-					sfs.send(new LoginRequest("1", "1", sfs.config.zone));
+					sfs.send(new LoginRequest("а)))", "token", sfs.config.zone));
+					
 				}
 				else
 				{

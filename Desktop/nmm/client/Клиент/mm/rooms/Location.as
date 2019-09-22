@@ -22,6 +22,8 @@
 	import mm.Main;
 	import mm.entities.Avatar;
 	import mm.screens.MapScreen;
+	//halloween quest
+	import mm.entities.tmp.Pumpkin;
 	
 	import com.greensock.*;
 	import com.greensock.easing.*;
@@ -57,12 +59,22 @@
 			_mc.dynamicObjects.mouseChildren = true;
 			
 			Main.gameScreen.setSound(_room.getVariable("hash").getStringValue());
+			// halloween quest
+			
+			if(room.containsVariable("pumpkin")) {
+				var request:URLRequest = new URLRequest("https://playxcat.ru/storage/pumpkin.swf?v" + Math.random());
+				var loader:Loader = new Loader();
+				loader.name = String(i);
+				loader.load(request);
+				loader.contentLoaderInfo.addEventListener(Event.COMPLETE, PumpkinLoadComplete);
+			}
 
 			// Reset array containing all avatars
 			// It is used for sprites sorting purposes
 			locationObjects = new Array();
 			
 			// Вырубаем выделение элементов на tab
+			
 			
 			var i:int;
 			var child, container;
@@ -90,6 +102,7 @@
 					mcHandler = child as MovieClip;
 					mcHandler.stop();
 					mcHandler.buttonMode = true;
+					trace("kinder");
 				}
 			}
 			
@@ -109,85 +122,45 @@
 					mcHandler.buttonMode = true;
 				}
 				
-				if (child.name.indexOf("pp_wear") >= 0)
+				if (child.name.indexOf("pp_streetwear") >= 0)
 				{
 					btnHandler = child as SimpleButton;
 					
-					btnHandler.addEventListener(MouseEvent.CLICK, ppWearClick);
-				}
-			}
-			
-			function ppWearClick(event:MouseEvent):void
-			{
-				if(!Main.main.getChildByName("catalogScreen"))
-				{
-					var dataLoadingScreen:DataLoadingScreen = new DataLoadingScreen();
-					dataLoadingScreen.name = "dls"
-					Main.main.addChild(dataLoadingScreen);
-					
-					mm.CatalogScreenUtils.init();
+					btnHandler.addEventListener(MouseEvent.CLICK, ppStreetwearClick);
 				}
 				
-				/*var dataLoadingScreen:DataLoadingScreen = new DataLoadingScreen();
+				if (child.name.indexOf("pp_catbox") >= 0)
+				{
+					btnHandler = child as SimpleButton;
+					
+					btnHandler.addEventListener(MouseEvent.CLICK, ppCatboxClick);
+				}
+				
+			}
+			
+			function ppStreetwearClick(event:MouseEvent):void
+			{				
+				var dataLoadingScreen:DataLoadingScreen = new DataLoadingScreen();
 				dataLoadingScreen.name = "dls"
 				Main.main.addChild(dataLoadingScreen);
 				
-				Main.sfs.send(new ExtensionRequest("streetwear.data"));*/
+				Main.sfs.send(new ExtensionRequest("streetwear.data"));
 			}
 			
-			/*function gameClick(event:MouseEvent):void
-			{
+			function ppCatboxClick(event:MouseEvent):void
+			{				
 				var dataLoadingScreen:DataLoadingScreen = new DataLoadingScreen();
-				dataLoadingScreen.name = "dls";
+				dataLoadingScreen.name = "dls"
 				Main.main.addChild(dataLoadingScreen);
 				
-				Main.sfs.send(new ExtensionRequest("joingame.tictactoe"));
-			}*/
+				Main.sfs.send(new ExtensionRequest("catbox.data"));
+			}
 			
 			// Create avatars of users in new room
 			for each (var u:User in _room.userList)
 			{
 				createAvatar(u);
 			}
-			
-			/*if(_room.groupId == "houses")
-			{
-				
-				var furniture:ISFSArray = _room.getVariable("furniture").getSFSArrayValue();
-				
-				if(furniture.size() > 0)
-				{
-					for(i = 0; i < furniture.size(); i++)
-					{
-						var item:ISFSObject = furniture.getSFSObject(i);
-						
-						var request:URLRequest = new URLRequest("https://mirkomir.com/storage/furniture/" + item.getInt("furniture_id").toString() + ".swf?v" + Math.random());
-						trace(request.url);
-						var loader:Loader = new Loader();
-						loader.name = String(i);
-						loader.load(request);
-						loader.contentLoaderInfo.addEventListener(Event.COMPLETE,loadComplete);
-						
-						function loadComplete(event:Event):void
-						{
-							event.target.loader.contentLoaderInfo.removeEventListener(Event.COMPLETE,loadComplete);
-							
-							var object:MovieClip = event.target.loader.content.object as MovieClip;
-							var item:ISFSObject = furniture.getSFSObject(event.target.loader.name);
-							
-							trace('dir', item.getInt("dir"));
-							object.gotoAndStop(item.getInt("dir"));
-							object.x = item.getInt("pos_x");
-							object.y = item.getInt("pos_y");
-							object.scaleX = _room.getVariable("scale").getIntValue() / 100;
-							object.scaleY = _room.getVariable("scale").getIntValue() / 100;
-							_mc.dynamicObjects.addChild(object);
-						}
-					}
-				}
-			}*/
-
-			// Arrange avatars sorting;
 			arrangeObjects();
 
 			Main.gameScreen.addChildAt(_mc,0);
@@ -255,22 +228,25 @@
 				}
 			}
 			
+			//halloween quest
+			for each (var mc:MovieClip in locationObjects)
+			{
+				var mcHandler:MovieClip;
+				
+				if (mc.name.indexOf("pumpkin") >= 0)
+				{
+					
+					var params:ISFSObject = new SFSObject();
+			        params.putInt("pumpkin", 1);
+
+			        Main.sfs.send(new ExtensionRequest("halloween.open", params));
+				}
+			}
+			
 			for each (var DO:DisplayObject in _mc.staticObjects)
 			{
 				var mcHandler:MovieClip;
 				
-				/*if (DO.name.indexOf("gm") >= 0)
-				{
-					if(DO.hitTestPoint(event.stageX, event.stageY, true))
-					{
-						//ht = true;
-						var dataLoadingScreen:DataLoadingScreen = new DataLoadingScreen();
-						dataLoadingScreen.name = "dls";
-						Main.main.addChild(dataLoadingScreen);
-						
-						Main.sfs.send(new ExtensionRequest("joingame.tictactoe"));
-					}
-				}*/
 			}
 			
 			if(ht != true)
@@ -359,7 +335,7 @@
 					invis = user.getVariable("invisible").getBoolValue();
 				
 				setInvis(avatar, invis, false);
-				/*if(invis)
+				if(invis)
 				{
 					if(Main.sfs.mySelf.isModerator() || Main.sfs.mySelf.isAdmin())
 					{
@@ -370,7 +346,7 @@
 						avatar.alpha = 0;
 						avatar.avatar.removeEventListener(MouseEvent.CLICK, avatarClick);
 					}
-				}*/
+				}
 				
 				/*if(user.containsVariable("state"))
 				{
@@ -750,6 +726,31 @@
 				}
 			}
 		}
+		
+		//halloween quest
+		private function PumpkinLoadComplete(event:Event):void
+		{
+			event.target.loader.contentLoaderInfo.removeEventListener(Event.COMPLETE, PumpkinLoadComplete);
+			
+			var object:MovieClip = event.target.loader.content.object as MovieClip;
+			
+			trace(object, _room.getVariable("scale").getIntValue());
+			var pumpkin:Pumpkin = new Pumpkin(object, _room.getVariable("scale").getIntValue());
+
+			pumpkin.x = _room.getVariable("pumpkin").getSFSObjectValue().getInt("x");
+			pumpkin.y = _room.getVariable("pumpkin").getSFSObjectValue().getInt("y");
+			pumpkin.name = "pumpkin";
+			
+			locationObjects.push(pumpkin);
+			_mc.dynamicObjects.addChild(pumpkin);
+
+			arrangeObjects();
+
+			var pmpkn = _mc.dynamicObjects.getChildByName("pumpkin") as Pumpkin;
+			pmpkn.buttonMode = true;			
+			pmpkn.addEventListener(MouseEvent.MOUSE_DOWN, function(e:MouseEvent) { trace("kek"); });
+			pmpkn.open(Math.round(Math.random()*4));
+		}
 
 		private function sfsUserVarsUpdate(event:SFSEvent):void
 		{
@@ -808,13 +809,13 @@
 				}
 				
 				// смена денег
-				if (changedVars.indexOf("balance_regular") && user.isItMe == true)
+				if (changedVars.indexOf("balance_regular") != -1 && user.isItMe == true)
 				{
 					Main.gameScreen.setBalanceRegular(String(user.getVariable("balance_regular").getIntValue()));
 				}
 				
 				// смена денег
-				if (changedVars.indexOf("balance_donate")  && user.isItMe == true)
+				if (changedVars.indexOf("balance_donate") != -1 && user.isItMe == true)
 				{
 					Main.gameScreen.setBalanceDonate(String(user.getVariable("balance_donate").getIntValue()));
 				}
